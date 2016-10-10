@@ -411,7 +411,7 @@
           <attvalue for="0" value="ORG"/>
         </attvalues>
       </node>
-      <node id="SOU" label="SOU">
+      <node id="SOU 1933_22" label="SOU 1933_22">
         <attvalues>
           <attvalue for="0" value="source"/>
         </attvalues>
@@ -693,167 +693,167 @@
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="Riksdagen" target="SOU"/>
-      <edge id="1" source="Foretagelsen af Indgrebet." target="SOU"/>
-      <edge id="10" source="anstalt för sinnessvaga," target="SOU"/>
-      <edge id="100" source="Göteborgs" target="SOU"/>
-      <edge id="101" source="STOCKHOLM" target="SOU"/>
-      <edge id="102" source="J. G. W. Thyrén. Lund," target="SOU"/>
-      <edge id="103" source="JUSTITIEDEPARTEMENTET" target="SOU"/>
-      <edge id="104" source="Sweden" target="SOU"/>
-      <edge id="105" source="Folger" target="SOU"/>
-      <edge id="106" source="RAGNAR BERGENDAL." target="SOU"/>
-      <edge id="107" source="Nevada" target="SOU"/>
-      <edge id="108" source="Sundhedsstyrelsens" target="SOU"/>
-      <edge id="109" source="Oregon" target="SOU"/>
-      <edge id="11" source="Wigerts" target="SOU"/>
-      <edge id="110" source="hertil" target="SOU"/>
-      <edge id="111" source="Förenta staterna" target="SOU"/>
-      <edge id="112" source="Nebraska" target="SOU"/>
-      <edge id="113" source="Lundborg" target="SOU"/>
-      <edge id="114" source="statens institut för rasbiologi," target="SOU"/>
-      <edge id="115" source="Härnösands hospital" target="SOU"/>
-      <edge id="116" source="hertil" target="SOU"/>
-      <edge id="117" source="Västerbottens" target="SOU"/>
-      <edge id="118" source="Sveriges" target="SOU"/>
-      <edge id="119" source="Person, af Statskassen" target="SOU"/>
-      <edge id="12" source="Svenska fattigvårds- och barnavårdsförbundet" target="SOU"/>
-      <edge id="120" source="riksdagen" target="SOU"/>
-      <edge id="121" source="New York" target="SOU"/>
-      <edge id="122" source="vattenfallsstyrelsens" target="SOU"/>
-      <edge id="123" source="Vaud" target="SOU"/>
-      <edge id="124" source="statens institut för rasbiologi" target="SOU"/>
-      <edge id="125" source="Jersey" target="SOU"/>
-      <edge id="126" source="Vänersborg" target="SOU"/>
-      <edge id="127" source="North Dakota" target="SOU"/>
-      <edge id="128" source="Maths" target="SOU"/>
-      <edge id="129" source="Länsstyrelsen" target="SOU"/>
-      <edge id="13" source="Gode" target="SOU"/>
-      <edge id="130" source="Antar" target="SOU"/>
-      <edge id="131" source="socialdepartementet" target="SOU"/>
-      <edge id="132" source="Kristinehamns" target="SOU"/>
-      <edge id="133" source="RAGNAR BERGENDAL." target="SOU"/>
-      <edge id="134" source="länsstyrelsen" target="SOU"/>
-      <edge id="135" source="G. Lindstedt" target="SOU"/>
-      <edge id="136" source="Indiana. Lagen" target="SOU"/>
-      <edge id="137" source="Lagutskottet" target="SOU"/>
-      <edge id="138" source="Omstaendigheder af Betydning" target="SOU"/>
-      <edge id="139" source="Delaware" target="SOU"/>
-      <edge id="14" source="giftermålsbalkens" target="SOU"/>
-      <edge id="140" source="Svenska läkaresällskapet" target="SOU"/>
-      <edge id="141" source="Foretagelsen af Indgrebet." target="SOU"/>
-      <edge id="142" source="Västernorrland" target="SOU"/>
-      <edge id="143" source="Herr Statsrådet" target="SOU"/>
-      <edge id="144" source="Gotlands" target="SOU"/>
-      <edge id="145" source="Lund" target="SOU"/>
-      <edge id="146" source="Wisconsin" target="SOU"/>
-      <edge id="147" source="Socialstyrelsens" target="SOU"/>
-      <edge id="148" source="Tilfaelde af Statskassen," target="SOU"/>
-      <edge id="149" source="Alfred Petrén" target="SOU"/>
-      <edge id="15" source="Jönköpings län" target="SOU"/>
-      <edge id="150" source="Isaac Marcus Boktr.-Ä.-B.," target="SOU"/>
-      <edge id="151" source="Folger" target="SOU"/>
-      <edge id="152" source="Omstaendigheder af Betydning" target="SOU"/>
-      <edge id="153" source="Oklahoma" target="SOU"/>
-      <edge id="154" source="Karolinska" target="SOU"/>
-      <edge id="155" source="Kungl. biblioteket" target="SOU"/>
-      <edge id="156" source="Sverige" target="SOU"/>
-      <edge id="157" source="Sveriges läkarförbund" target="SOU"/>
-      <edge id="158" source="Europa" target="SOU"/>
-      <edge id="159" source="Karolinska institutet" target="SOU"/>
-      <edge id="16" source="Jordbruksutredningens" target="SOU"/>
-      <edge id="160" source="Gode" target="SOU"/>
-      <edge id="17" source="Kristinehamn" target="SOU"/>
-      <edge id="18" source="Antar" target="SOU"/>
-      <edge id="19" source="New Jersey" target="SOU"/>
-      <edge id="2" source="Maths" target="SOU"/>
-      <edge id="20" source="Danmark" target="SOU"/>
-      <edge id="21" source="giftermålsbalken" target="SOU"/>
-      <edge id="22" source="Michigans" target="SOU"/>
-      <edge id="23" source="Vaerge" target="SOU"/>
-      <edge id="24" source="J. G. W. Thyrén. Lund," target="SOU"/>
-      <edge id="25" source="Idaho" target="SOU"/>
-      <edge id="26" source="Alfred Petrén" target="SOU"/>
-      <edge id="27" source="Amerikas" target="SOU"/>
-      <edge id="28" source="Härnösands" target="SOU"/>
-      <edge id="29" source="Riksdagens" target="SOU"/>
-      <edge id="3" source="Visby" target="SOU"/>
-      <edge id="30" source="Vadstena" target="SOU"/>
-      <edge id="31" source="riksdagens" target="SOU"/>
-      <edge id="32" source="Montana" target="SOU"/>
-      <edge id="33" source="Herr Statsrådet" target="SOU"/>
-      <edge id="34" source="H. L" target="SOU"/>
-      <edge id="35" source="Mississippi" target="SOU"/>
-      <edge id="36" source="Virginia" target="SOU"/>
-      <edge id="37" source="Michigan" target="SOU"/>
-      <edge id="38" source="South Dakota" target="SOU"/>
-      <edge id="39" source="Maine" target="SOU"/>
-      <edge id="4" source="Arizona" target="SOU"/>
-      <edge id="40" source="Loven" target="SOU"/>
-      <edge id="41" source="Nyköpings" target="SOU"/>
-      <edge id="42" source="statens institut för rasbiologi)" target="SOU"/>
-      <edge id="43" source="West Virginia" target="SOU"/>
-      <edge id="44" source="Lundborg" target="SOU"/>
-      <edge id="45" source="socialstyrelsens" target="SOU"/>
-      <edge id="46" source="Älvsborgs län" target="SOU"/>
-      <edge id="47" source="Skåne" target="SOU"/>
-      <edge id="48" source="Gotlands län" target="SOU"/>
-      <edge id="49" source="E. E" target="SOU"/>
-      <edge id="5" source="Loven" target="SOU"/>
-      <edge id="50" source="Washington" target="SOU"/>
-      <edge id="51" source="Alabama" target="SOU"/>
-      <edge id="52" source="Kungl. Justitiedepartementet" target="SOU"/>
-      <edge id="53" source="Isaac Marcus Boktr.-Ä.-B.," target="SOU"/>
-      <edge id="54" source="E. E" target="SOU"/>
-      <edge id="55" source="RAGNAR" target="SOU"/>
-      <edge id="56" source="North Carolina" target="SOU"/>
-      <edge id="57" source="Karolinska institutets" target="SOU"/>
-      <edge id="58" source="Norrbottens" target="SOU"/>
-      <edge id="59" source="A" target="SOU"/>
-      <edge id="6" source="Statens institut för rasbiologi" target="SOU"/>
-      <edge id="60" source="STATENS OFFENTLIGA UTREDNINGAR" target="SOU"/>
-      <edge id="61" source="G. Lindstedt" target="SOU"/>
-      <edge id="62" source="A" target="SOU"/>
-      <edge id="63" source="Visby hospital" target="SOU"/>
-      <edge id="64" source="Blekinge" target="SOU"/>
-      <edge id="65" source="California" target="SOU"/>
-      <edge id="66" source="Strängnäs" target="SOU"/>
-      <edge id="67" source="Kopparbergs län" target="SOU"/>
-      <edge id="68" source="Finna" target="SOU"/>
-      <edge id="69" source="RAGNAR" target="SOU"/>
-      <edge id="7" source="Vermont" target="SOU"/>
-      <edge id="70" source="Indiana" target="SOU"/>
-      <edge id="71" source="Vaerge" target="SOU"/>
-      <edge id="72" source="H. L" target="SOU"/>
-      <edge id="73" source="New Hampshire" target="SOU"/>
-      <edge id="74" source="Finna" target="SOU"/>
-      <edge id="75" source="Iowa" target="SOU"/>
-      <edge id="76" source="justitiedepartementet" target="SOU"/>
-      <edge id="77" source="Minnesota" target="SOU"/>
-      <edge id="78" source="ISAAC MARCUS" target="SOU"/>
-      <edge id="79" source="BERGENDAL" target="SOU"/>
-      <edge id="8" source="Uppsala" target="SOU"/>
-      <edge id="80" source="BERGENDAL" target="SOU"/>
-      <edge id="81" source="Norge" target="SOU"/>
-      <edge id="82" source="Finland, Island" target="SOU"/>
-      <edge id="83" source="Sundhedsstyrelsen" target="SOU"/>
-      <edge id="84" source="Indianas" target="SOU"/>
-      <edge id="85" source="Stockholms" target="SOU"/>
-      <edge id="86" source="Stockholm" target="SOU"/>
-      <edge id="87" source="Tilfaelde af Statskassen," target="SOU"/>
-      <edge id="88" source="Person, af Statskassen" target="SOU"/>
-      <edge id="89" source="Tyskland" target="SOU"/>
-      <edge id="9" source="ISAAC MARCUS" target="SOU"/>
-      <edge id="90" source="Utah" target="SOU"/>
-      <edge id="91" source="Västernorrlands län" target="SOU"/>
-      <edge id="92" source="socialstyrelsen" target="SOU"/>
-      <edge id="93" source="Connecticut" target="SOU"/>
-      <edge id="94" source="barnavårdsnämnd" target="SOU"/>
-      <edge id="95" source="Wigerts" target="SOU"/>
-      <edge id="96" source="svenska kriminalistföreningen" target="SOU"/>
-      <edge id="97" source="Kansas" target="SOU"/>
-      <edge id="98" source="Finland" target="SOU"/>
-      <edge id="99" source="Vadstena hospital" target="SOU"/>
+      <edge id="0" source="Riksdagen" target="SOU 1933_22"/>
+      <edge id="1" source="Foretagelsen af Indgrebet." target="SOU 1933_22"/>
+      <edge id="10" source="anstalt för sinnessvaga," target="SOU 1933_22"/>
+      <edge id="100" source="Göteborgs" target="SOU 1933_22"/>
+      <edge id="101" source="STOCKHOLM" target="SOU 1933_22"/>
+      <edge id="102" source="J. G. W. Thyrén. Lund," target="SOU 1933_22"/>
+      <edge id="103" source="JUSTITIEDEPARTEMENTET" target="SOU 1933_22"/>
+      <edge id="104" source="Sweden" target="SOU 1933_22"/>
+      <edge id="105" source="Folger" target="SOU 1933_22"/>
+      <edge id="106" source="RAGNAR BERGENDAL." target="SOU 1933_22"/>
+      <edge id="107" source="Nevada" target="SOU 1933_22"/>
+      <edge id="108" source="Sundhedsstyrelsens" target="SOU 1933_22"/>
+      <edge id="109" source="Oregon" target="SOU 1933_22"/>
+      <edge id="11" source="Wigerts" target="SOU 1933_22"/>
+      <edge id="110" source="hertil" target="SOU 1933_22"/>
+      <edge id="111" source="Förenta staterna" target="SOU 1933_22"/>
+      <edge id="112" source="Nebraska" target="SOU 1933_22"/>
+      <edge id="113" source="Lundborg" target="SOU 1933_22"/>
+      <edge id="114" source="statens institut för rasbiologi," target="SOU 1933_22"/>
+      <edge id="115" source="Härnösands hospital" target="SOU 1933_22"/>
+      <edge id="116" source="hertil" target="SOU 1933_22"/>
+      <edge id="117" source="Västerbottens" target="SOU 1933_22"/>
+      <edge id="118" source="Sveriges" target="SOU 1933_22"/>
+      <edge id="119" source="Person, af Statskassen" target="SOU 1933_22"/>
+      <edge id="12" source="Svenska fattigvårds- och barnavårdsförbundet" target="SOU 1933_22"/>
+      <edge id="120" source="riksdagen" target="SOU 1933_22"/>
+      <edge id="121" source="New York" target="SOU 1933_22"/>
+      <edge id="122" source="vattenfallsstyrelsens" target="SOU 1933_22"/>
+      <edge id="123" source="Vaud" target="SOU 1933_22"/>
+      <edge id="124" source="statens institut för rasbiologi" target="SOU 1933_22"/>
+      <edge id="125" source="Jersey" target="SOU 1933_22"/>
+      <edge id="126" source="Vänersborg" target="SOU 1933_22"/>
+      <edge id="127" source="North Dakota" target="SOU 1933_22"/>
+      <edge id="128" source="Maths" target="SOU 1933_22"/>
+      <edge id="129" source="Länsstyrelsen" target="SOU 1933_22"/>
+      <edge id="13" source="Gode" target="SOU 1933_22"/>
+      <edge id="130" source="Antar" target="SOU 1933_22"/>
+      <edge id="131" source="socialdepartementet" target="SOU 1933_22"/>
+      <edge id="132" source="Kristinehamns" target="SOU 1933_22"/>
+      <edge id="133" source="RAGNAR BERGENDAL." target="SOU 1933_22"/>
+      <edge id="134" source="länsstyrelsen" target="SOU 1933_22"/>
+      <edge id="135" source="G. Lindstedt" target="SOU 1933_22"/>
+      <edge id="136" source="Indiana. Lagen" target="SOU 1933_22"/>
+      <edge id="137" source="Lagutskottet" target="SOU 1933_22"/>
+      <edge id="138" source="Omstaendigheder af Betydning" target="SOU 1933_22"/>
+      <edge id="139" source="Delaware" target="SOU 1933_22"/>
+      <edge id="14" source="giftermålsbalkens" target="SOU 1933_22"/>
+      <edge id="140" source="Svenska läkaresällskapet" target="SOU 1933_22"/>
+      <edge id="141" source="Foretagelsen af Indgrebet." target="SOU 1933_22"/>
+      <edge id="142" source="Västernorrland" target="SOU 1933_22"/>
+      <edge id="143" source="Herr Statsrådet" target="SOU 1933_22"/>
+      <edge id="144" source="Gotlands" target="SOU 1933_22"/>
+      <edge id="145" source="Lund" target="SOU 1933_22"/>
+      <edge id="146" source="Wisconsin" target="SOU 1933_22"/>
+      <edge id="147" source="Socialstyrelsens" target="SOU 1933_22"/>
+      <edge id="148" source="Tilfaelde af Statskassen," target="SOU 1933_22"/>
+      <edge id="149" source="Alfred Petrén" target="SOU 1933_22"/>
+      <edge id="15" source="Jönköpings län" target="SOU 1933_22"/>
+      <edge id="150" source="Isaac Marcus Boktr.-Ä.-B.," target="SOU 1933_22"/>
+      <edge id="151" source="Folger" target="SOU 1933_22"/>
+      <edge id="152" source="Omstaendigheder af Betydning" target="SOU 1933_22"/>
+      <edge id="153" source="Oklahoma" target="SOU 1933_22"/>
+      <edge id="154" source="Karolinska" target="SOU 1933_22"/>
+      <edge id="155" source="Kungl. biblioteket" target="SOU 1933_22"/>
+      <edge id="156" source="Sverige" target="SOU 1933_22"/>
+      <edge id="157" source="Sveriges läkarförbund" target="SOU 1933_22"/>
+      <edge id="158" source="Europa" target="SOU 1933_22"/>
+      <edge id="159" source="Karolinska institutet" target="SOU 1933_22"/>
+      <edge id="16" source="Jordbruksutredningens" target="SOU 1933_22"/>
+      <edge id="160" source="Gode" target="SOU 1933_22"/>
+      <edge id="17" source="Kristinehamn" target="SOU 1933_22"/>
+      <edge id="18" source="Antar" target="SOU 1933_22"/>
+      <edge id="19" source="New Jersey" target="SOU 1933_22"/>
+      <edge id="2" source="Maths" target="SOU 1933_22"/>
+      <edge id="20" source="Danmark" target="SOU 1933_22"/>
+      <edge id="21" source="giftermålsbalken" target="SOU 1933_22"/>
+      <edge id="22" source="Michigans" target="SOU 1933_22"/>
+      <edge id="23" source="Vaerge" target="SOU 1933_22"/>
+      <edge id="24" source="J. G. W. Thyrén. Lund," target="SOU 1933_22"/>
+      <edge id="25" source="Idaho" target="SOU 1933_22"/>
+      <edge id="26" source="Alfred Petrén" target="SOU 1933_22"/>
+      <edge id="27" source="Amerikas" target="SOU 1933_22"/>
+      <edge id="28" source="Härnösands" target="SOU 1933_22"/>
+      <edge id="29" source="Riksdagens" target="SOU 1933_22"/>
+      <edge id="3" source="Visby" target="SOU 1933_22"/>
+      <edge id="30" source="Vadstena" target="SOU 1933_22"/>
+      <edge id="31" source="riksdagens" target="SOU 1933_22"/>
+      <edge id="32" source="Montana" target="SOU 1933_22"/>
+      <edge id="33" source="Herr Statsrådet" target="SOU 1933_22"/>
+      <edge id="34" source="H. L" target="SOU 1933_22"/>
+      <edge id="35" source="Mississippi" target="SOU 1933_22"/>
+      <edge id="36" source="Virginia" target="SOU 1933_22"/>
+      <edge id="37" source="Michigan" target="SOU 1933_22"/>
+      <edge id="38" source="South Dakota" target="SOU 1933_22"/>
+      <edge id="39" source="Maine" target="SOU 1933_22"/>
+      <edge id="4" source="Arizona" target="SOU 1933_22"/>
+      <edge id="40" source="Loven" target="SOU 1933_22"/>
+      <edge id="41" source="Nyköpings" target="SOU 1933_22"/>
+      <edge id="42" source="statens institut för rasbiologi)" target="SOU 1933_22"/>
+      <edge id="43" source="West Virginia" target="SOU 1933_22"/>
+      <edge id="44" source="Lundborg" target="SOU 1933_22"/>
+      <edge id="45" source="socialstyrelsens" target="SOU 1933_22"/>
+      <edge id="46" source="Älvsborgs län" target="SOU 1933_22"/>
+      <edge id="47" source="Skåne" target="SOU 1933_22"/>
+      <edge id="48" source="Gotlands län" target="SOU 1933_22"/>
+      <edge id="49" source="E. E" target="SOU 1933_22"/>
+      <edge id="5" source="Loven" target="SOU 1933_22"/>
+      <edge id="50" source="Washington" target="SOU 1933_22"/>
+      <edge id="51" source="Alabama" target="SOU 1933_22"/>
+      <edge id="52" source="Kungl. Justitiedepartementet" target="SOU 1933_22"/>
+      <edge id="53" source="Isaac Marcus Boktr.-Ä.-B.," target="SOU 1933_22"/>
+      <edge id="54" source="E. E" target="SOU 1933_22"/>
+      <edge id="55" source="RAGNAR" target="SOU 1933_22"/>
+      <edge id="56" source="North Carolina" target="SOU 1933_22"/>
+      <edge id="57" source="Karolinska institutets" target="SOU 1933_22"/>
+      <edge id="58" source="Norrbottens" target="SOU 1933_22"/>
+      <edge id="59" source="A" target="SOU 1933_22"/>
+      <edge id="6" source="Statens institut för rasbiologi" target="SOU 1933_22"/>
+      <edge id="60" source="STATENS OFFENTLIGA UTREDNINGAR" target="SOU 1933_22"/>
+      <edge id="61" source="G. Lindstedt" target="SOU 1933_22"/>
+      <edge id="62" source="A" target="SOU 1933_22"/>
+      <edge id="63" source="Visby hospital" target="SOU 1933_22"/>
+      <edge id="64" source="Blekinge" target="SOU 1933_22"/>
+      <edge id="65" source="California" target="SOU 1933_22"/>
+      <edge id="66" source="Strängnäs" target="SOU 1933_22"/>
+      <edge id="67" source="Kopparbergs län" target="SOU 1933_22"/>
+      <edge id="68" source="Finna" target="SOU 1933_22"/>
+      <edge id="69" source="RAGNAR" target="SOU 1933_22"/>
+      <edge id="7" source="Vermont" target="SOU 1933_22"/>
+      <edge id="70" source="Indiana" target="SOU 1933_22"/>
+      <edge id="71" source="Vaerge" target="SOU 1933_22"/>
+      <edge id="72" source="H. L" target="SOU 1933_22"/>
+      <edge id="73" source="New Hampshire" target="SOU 1933_22"/>
+      <edge id="74" source="Finna" target="SOU 1933_22"/>
+      <edge id="75" source="Iowa" target="SOU 1933_22"/>
+      <edge id="76" source="justitiedepartementet" target="SOU 1933_22"/>
+      <edge id="77" source="Minnesota" target="SOU 1933_22"/>
+      <edge id="78" source="ISAAC MARCUS" target="SOU 1933_22"/>
+      <edge id="79" source="BERGENDAL" target="SOU 1933_22"/>
+      <edge id="8" source="Uppsala" target="SOU 1933_22"/>
+      <edge id="80" source="BERGENDAL" target="SOU 1933_22"/>
+      <edge id="81" source="Norge" target="SOU 1933_22"/>
+      <edge id="82" source="Finland, Island" target="SOU 1933_22"/>
+      <edge id="83" source="Sundhedsstyrelsen" target="SOU 1933_22"/>
+      <edge id="84" source="Indianas" target="SOU 1933_22"/>
+      <edge id="85" source="Stockholms" target="SOU 1933_22"/>
+      <edge id="86" source="Stockholm" target="SOU 1933_22"/>
+      <edge id="87" source="Tilfaelde af Statskassen," target="SOU 1933_22"/>
+      <edge id="88" source="Person, af Statskassen" target="SOU 1933_22"/>
+      <edge id="89" source="Tyskland" target="SOU 1933_22"/>
+      <edge id="9" source="ISAAC MARCUS" target="SOU 1933_22"/>
+      <edge id="90" source="Utah" target="SOU 1933_22"/>
+      <edge id="91" source="Västernorrlands län" target="SOU 1933_22"/>
+      <edge id="92" source="socialstyrelsen" target="SOU 1933_22"/>
+      <edge id="93" source="Connecticut" target="SOU 1933_22"/>
+      <edge id="94" source="barnavårdsnämnd" target="SOU 1933_22"/>
+      <edge id="95" source="Wigerts" target="SOU 1933_22"/>
+      <edge id="96" source="svenska kriminalistföreningen" target="SOU 1933_22"/>
+      <edge id="97" source="Kansas" target="SOU 1933_22"/>
+      <edge id="98" source="Finland" target="SOU 1933_22"/>
+      <edge id="99" source="Vadstena hospital" target="SOU 1933_22"/>
     </edges>
   </graph>
 </gexf>
