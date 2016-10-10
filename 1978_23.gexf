@@ -1,0 +1,5094 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2016-10-10">
+    <creator>SOUTEST</creator>
+    <description>The whole is always smaller than its parts</description>
+  </meta>
+  <graph defaultedgetype="directed" label="Directed network" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Type" type="string">
+        <default>default_value</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="A. Ashri," label="A. Ashri,">
+        <attvalues>
+          <attvalue for="0" value="A."/>
+        </attvalues>
+      </node>
+      <node id="Abed" label="Abed">
+        <attvalues>
+          <attvalue for="0" value="Abed"/>
+        </attvalues>
+      </node>
+      <node id="Abildgaard" label="Abildgaard">
+        <attvalues>
+          <attvalue for="0" value="Abildgaard"/>
+        </attvalues>
+      </node>
+      <node id="Acta Agriculturae Scandinavica" label="Acta Agriculturae Scandinavica">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Adams" label="Adams">
+        <attvalues>
+          <attvalue for="0" value="Adams"/>
+        </attvalues>
+      </node>
+      <node id="Addis Abeba," label="Addis Abeba,">
+        <attvalues>
+          <attvalue for="0" value="Addis"/>
+        </attvalues>
+      </node>
+      <node id="Afrika" label="Afrika">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Afrika." label="Afrika.">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Agri" label="Agri">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Alaska" label="Alaska">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Albert Bonnier AB:" label="Albert Bonnier AB:">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Albert Levan. Denne" label="Albert Levan. Denne">
+        <attvalues>
+          <attvalue for="0" value="Albert"/>
+        </attvalues>
+      </node>
+      <node id="Albert Levan.)" label="Albert Levan.)">
+        <attvalues>
+          <attvalue for="0" value="Albert"/>
+        </attvalues>
+      </node>
+      <node id="Albert Levan:" label="Albert Levan:">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Albert Levans" label="Albert Levans">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Alfred Nobel: I" label="Alfred Nobel: I">
+        <attvalues>
+          <attvalue for="0" value="Alfred"/>
+        </attvalues>
+      </node>
+      <node id="Algot" label="Algot">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Algot Holmberg" label="Algot Holmberg">
+        <attvalues>
+          <attvalue for="0" value="Algot"/>
+        </attvalues>
+      </node>
+      <node id="Alice" label="Alice">
+        <attvalues>
+          <attvalue for="0" value="female"/>
+        </attvalues>
+      </node>
+      <node id="Alice Wallenbergs" label="Alice Wallenbergs">
+        <attvalues>
+          <attvalue for="0" value="female"/>
+        </attvalues>
+      </node>
+      <node id="Allan Nordenstam," label="Allan Nordenstam,">
+        <attvalues>
+          <attvalue for="0" value="Allan"/>
+        </attvalues>
+      </node>
+      <node id="Allmänmellan Sveriges utsädesförening" label="Allmänmellan Sveriges utsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Almqvist" label="Almqvist">
+        <attvalues>
+          <attvalue for="0" value="Almqvist"/>
+        </attvalues>
+      </node>
+      <node id="Almqvist &amp; Wiksell." label="Almqvist &amp; Wiksell.">
+        <attvalues>
+          <attvalue for="0" value="Almqvist"/>
+        </attvalues>
+      </node>
+      <node id="Alnarp" label="Alnarp">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Alnarps" label="Alnarps">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Amerika" label="Amerika">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Andel af Foraedlerafgiften," label="Andel af Foraedlerafgiften,">
+        <attvalues>
+          <attvalue for="0" value="Andel"/>
+        </attvalues>
+      </node>
+      <node id="Anders" label="Anders">
+        <attvalues>
+          <attvalue for="0" value="Anders"/>
+        </attvalues>
+      </node>
+      <node id="Anders Elofson:" label="Anders Elofson:">
+        <attvalues>
+          <attvalue for="0" value="Anders"/>
+        </attvalues>
+      </node>
+      <node id="Anders Nilsson" label="Anders Nilsson">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Andre" label="Andre">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Antonio" label="Antonio">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Arbetsmarknadsdepartementet" label="Arbetsmarknadsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Argentina" label="Argentina">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Arne" label="Arne">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Arne Hagberg" label="Arne Hagberg">
+        <attvalues>
+          <attvalue for="0" value="Arne"/>
+        </attvalues>
+      </node>
+      <node id="Arne Hagberg," label="Arne Hagberg,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Arne Hagberg.)" label="Arne Hagberg.)">
+        <attvalues>
+          <attvalue for="0" value="Arne"/>
+        </attvalues>
+      </node>
+      <node id="Arne Lundqvist" label="Arne Lundqvist">
+        <attvalues>
+          <attvalue for="0" value="Arne"/>
+        </attvalues>
+      </node>
+      <node id="Arne Müntzing" label="Arne Müntzing">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Arne Müntzing:" label="Arne Müntzing:">
+        <attvalues>
+          <attvalue for="0" value="Arne"/>
+        </attvalues>
+      </node>
+      <node id="Ashton" label="Ashton">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Asien" label="Asien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Askling" label="Askling">
+        <attvalues>
+          <attvalue for="0" value="Askling"/>
+        </attvalues>
+      </node>
+      <node id="Atom-Energi-kommissionen" label="Atom-Energi-kommissionen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="August" label="August">
+        <attvalues>
+          <attvalue for="0" value="August"/>
+        </attvalues>
+      </node>
+      <node id="August Lyttkens)." label="August Lyttkens).">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Aurora" label="Aurora">
+        <attvalues>
+          <attvalue for="0" value="Aurora"/>
+        </attvalues>
+      </node>
+      <node id="Australien" label="Australien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Balsgård," label="Balsgård,">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Balsgårdsinstitutet" label="Balsgårdsinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Bangladesh" label="Bangladesh">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Belgien" label="Belgien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Bengt" label="Bengt">
+        <attvalues>
+          <attvalue for="0" value="Bengt"/>
+        </attvalues>
+      </node>
+      <node id="Bengt Kihlman" label="Bengt Kihlman">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Bengt Kihlman," label="Bengt Kihlman,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Bengt Lidforss" label="Bengt Lidforss">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Bengt Lidforss”" label="Bengt Lidforss”">
+        <attvalues>
+          <attvalue for="0" value="Bengt"/>
+        </attvalues>
+      </node>
+      <node id="Benno" label="Benno">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Bent Søgaard," label="Bent Søgaard,">
+        <attvalues>
+          <attvalue for="0" value="Bent"/>
+        </attvalues>
+      </node>
+      <node id="Bernkonventionen" label="Bernkonventionen">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Bertil Rasmuson," label="Bertil Rasmuson,">
+        <attvalues>
+          <attvalue for="0" value="Bertil"/>
+        </attvalues>
+      </node>
+      <node id="Bintje" label="Bintje">
+        <attvalues>
+          <attvalue for="0" value="OBJ"/>
+        </attvalues>
+      </node>
+      <node id="Birger" label="Birger">
+        <attvalues>
+          <attvalue for="0" value="Birger"/>
+        </attvalues>
+      </node>
+      <node id="Björck" label="Björck">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Björn" label="Björn">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Blad" label="Blad">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Bo Stockenström" label="Bo Stockenström">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Board of Health.)" label="Board of Health.)">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Boberg" label="Boberg">
+        <attvalues>
+          <attvalue for="0" value="Boberg"/>
+        </attvalues>
+      </node>
+      <node id="Bolivia" label="Bolivia">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Bonnier" label="Bonnier">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Bonniers" label="Bonniers">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Borlaug," label="Borlaug,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Burgas" label="Burgas">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Byggnadsstyrelsens" label="Byggnadsstyrelsens">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Böhme" label="Böhme">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Börje Norén." label="Börje Norén.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="C. E. J. Johansson" label="C. E. J. Johansson">
+        <attvalues>
+          <attvalue for="0" value="C."/>
+        </attvalues>
+      </node>
+      <node id="C. G. Widell" label="C. G. Widell">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Cambridge" label="Cambridge">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Cambridge University" label="Cambridge University">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Campbell" label="Campbell">
+        <attvalues>
+          <attvalue for="0" value="Campbell"/>
+        </attvalues>
+      </node>
+      <node id="Camutsädesförening" label="Camutsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Canada" label="Canada">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Cardo" label="Cardo">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Cardo AB" label="Cardo AB">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Carl" label="Carl">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Carl Bloms Boktryckeri," label="Carl Bloms Boktryckeri,">
+        <attvalues>
+          <attvalue for="0" value="Carl"/>
+        </attvalues>
+      </node>
+      <node id="Carl Gunnar" label="Carl Gunnar">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="CarlsbergDiter von Wettstein," label="CarlsbergDiter von Wettstein,">
+        <attvalues>
+          <attvalue for="0" value="Carlsbergditer"/>
+        </attvalues>
+      </node>
+      <node id="Carsom" label="Carsom">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Centre for Africa)" label="Centre for Africa)">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Centrum för forskning hos" label="Centrum för forskning hos">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Charles Darwin. En" label="Charles Darwin. En">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Chile" label="Chile">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Claes" label="Claes">
+        <attvalues>
+          <attvalue for="0" value="Claes"/>
+        </attvalues>
+      </node>
+      <node id="Clausen" label="Clausen">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Clausen," label="Clausen,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Clement" label="Clement">
+        <attvalues>
+          <attvalue for="0" value="Clement"/>
+        </attvalues>
+      </node>
+      <node id="Colombia" label="Colombia">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Continental" label="Continental">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Curly" label="Curly">
+        <attvalues>
+          <attvalue for="0" value="Curly"/>
+        </attvalues>
+      </node>
+      <node id="D. F. Jones" label="D. F. Jones">
+        <attvalues>
+          <attvalue for="0" value="D."/>
+        </attvalues>
+      </node>
+      <node id="D. von Wettstein" label="D. von Wettstein">
+        <attvalues>
+          <attvalue for="0" value="D."/>
+        </attvalues>
+      </node>
+      <node id="Danett" label="Danett">
+        <attvalues>
+          <attvalue for="0" value="Danett"/>
+        </attvalues>
+      </node>
+      <node id="Danmark" label="Danmark">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Danmarks" label="Danmarks">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Darwin" label="Darwin">
+        <attvalues>
+          <attvalue for="0" value="Darwin"/>
+        </attvalues>
+      </node>
+      <node id="Darwins" label="Darwins">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Del af Forskningsget af Opgaver" label="Del af Forskningsget af Opgaver">
+        <attvalues>
+          <attvalue for="0" value="Del"/>
+        </attvalues>
+      </node>
+      <node id="Del af Forskningsmidlerne" label="Del af Forskningsmidlerne">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Del af Forskog Rodfrugter," label="Del af Forskog Rodfrugter,">
+        <attvalues>
+          <attvalue for="0" value="Del"/>
+        </attvalues>
+      </node>
+      <node id="Den Andel af Frøprisen." label="Den Andel af Frøprisen.">
+        <attvalues>
+          <attvalue for="0" value="Den"/>
+        </attvalues>
+      </node>
+      <node id="Dette" label="Dette">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Diter" label="Diter">
+        <attvalues>
+          <attvalue for="0" value="Diter"/>
+        </attvalues>
+      </node>
+      <node id="Doll" label="Doll">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Dorthi" label="Dorthi">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Dreyfus" label="Dreyfus">
+        <attvalues>
+          <attvalue for="0" value="Dreyfus"/>
+        </attvalues>
+      </node>
+      <node id="E. Baur" label="E. Baur">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Edda II" label="Edda II">
+        <attvalues>
+          <attvalue for="0" value="Edda"/>
+        </attvalues>
+      </node>
+      <node id="Edvin" label="Edvin">
+        <attvalues>
+          <attvalue for="0" value="Edvin"/>
+        </attvalues>
+      </node>
+      <node id="Edvin Sköld" label="Edvin Sköld">
+        <attvalues>
+          <attvalue for="0" value="Edvin"/>
+        </attvalues>
+      </node>
+      <node id="Edvin Sköld." label="Edvin Sköld.">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Edward Pollak, Oscar Kempthome" label="Edward Pollak, Oscar Kempthome">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Ehle" label="Ehle">
+        <attvalues>
+          <attvalue for="0" value="Ehle"/>
+        </attvalues>
+      </node>
+      <node id="Ehrenberg" label="Ehrenberg">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Einar" label="Einar">
+        <attvalues>
+          <attvalue for="0" value="Einar"/>
+        </attvalues>
+      </node>
+      <node id="Ekström" label="Ekström">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Eliasson" label="Eliasson">
+        <attvalues>
+          <attvalue for="0" value="Eliasson"/>
+        </attvalues>
+      </node>
+      <node id="Ellers" label="Ellers">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Emil Johansson" label="Emil Johansson">
+        <attvalues>
+          <attvalue for="0" value="Emil"/>
+        </attvalues>
+      </node>
+      <node id="Energy Agency" label="Energy Agency">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="England" label="England">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Enjubileumsskrift" label="Enjubileumsskrift">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Entstehung der Kulturpflanzen." label="Entstehung der Kulturpflanzen.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Erik" label="Erik">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Erik Dahl" label="Erik Dahl">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Erik W. Ljung." label="Erik W. Ljung.">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Erik Åkerberg" label="Erik Åkerberg">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Erwin" label="Erwin">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Eslöv" label="Eslöv">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Etiopien" label="Etiopien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Europa" label="Europa">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Europa," label="Europa,">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Europas" label="Europas">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Evas" label="Evas">
+        <attvalues>
+          <attvalue for="0" value="Evas"/>
+        </attvalues>
+      </node>
+      <node id="F. Oehlkers," label="F. Oehlkers,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="FAO/IAEA" label="FAO/IAEA">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Fajer Fajers-" label="Fajer Fajers-">
+        <attvalues>
+          <attvalue for="0" value="Fajer"/>
+        </attvalues>
+      </node>
+      <node id="Fajer Fajersson," label="Fajer Fajersson,">
+        <attvalues>
+          <attvalue for="0" value="Fajer"/>
+        </attvalues>
+      </node>
+      <node id="Filippinerna" label="Filippinerna">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Finland" label="Finland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Finlands" label="Finlands">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Fisher" label="Fisher">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Fishers" label="Fishers">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Florimond" label="Florimond">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Foraedling af Køkkenurter" label="Foraedling af Køkkenurter">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Foraedling af Landbrugsplanter" label="Foraedling af Landbrugsplanter">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Ford" label="Ford">
+        <attvalues>
+          <attvalue for="0" value="ORG/PRS"/>
+        </attvalues>
+      </node>
+      <node id="Foreedlingen af Fabrikssukkerroe" label="Foreedlingen af Fabrikssukkerroe">
+        <attvalues>
+          <attvalue for="0" value="Foreedlingen"/>
+        </attvalues>
+      </node>
+      <node id="Form af Kød, Mazlk, Smør, Ost" label="Form af Kød, Mazlk, Smør, Ost">
+        <attvalues>
+          <attvalue for="0" value="Form"/>
+        </attvalues>
+      </node>
+      <node id="Forskningsrådet" label="Forskningsrådet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Francis Crick" label="Francis Crick">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Francis Galton" label="Francis Galton">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Frankrig" label="Frankrig">
+        <attvalues>
+          <attvalue for="0" value="EVN"/>
+        </attvalues>
+      </node>
+      <node id="Frankrike" label="Frankrike">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Fredrik" label="Fredrik">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Fredrik Nilsson" label="Fredrik Nilsson">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Frits Went" label="Frits Went">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Frö AB" label="Frö AB">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Frö AB. Företaget" label="Frö AB. Företaget">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="För AllmänW. Weibull AB" label="För AllmänW. Weibull AB">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Förbundsrepubliken" label="Förbundsrepubliken">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Föreningen" label="Föreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Förenta Nationernas" label="Förenta Nationernas">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Förenta Nationernas livsmedelskonferens" label="Förenta Nationernas livsmedelskonferens">
+        <attvalues>
+          <attvalue for="0" value="EVN"/>
+        </attvalues>
+      </node>
+      <node id="Förenta nationernas" label="Förenta nationernas">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Förpackningsforskningsinstitutet" label="Förpackningsforskningsinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Gang" label="Gang">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Gari Stockholm." label="Gari Stockholm.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Geer" label="Geer">
+        <attvalues>
+          <attvalue for="0" value="Geer"/>
+        </attvalues>
+      </node>
+      <node id="Gelin" label="Gelin">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Geneve" label="Geneve">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Gert" label="Gert">
+        <attvalues>
+          <attvalue for="0" value="Gert"/>
+        </attvalues>
+      </node>
+      <node id="Glenn T." label="Glenn T.">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Green Revolution," label="Green Revolution,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Gregor" label="Gregor">
+        <attvalues>
+          <attvalue for="0" value="Gregor"/>
+        </attvalues>
+      </node>
+      <node id="Gregor Mendels" label="Gregor Mendels">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Gummitekniska institutet" label="Gummitekniska institutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Gunnar" label="Gunnar">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Gunnar Myrdal" label="Gunnar Myrdal">
+        <attvalues>
+          <attvalue for="0" value="Gunnar"/>
+        </attvalues>
+      </node>
+      <node id="Gunnar Östergren." label="Gunnar Östergren.">
+        <attvalues>
+          <attvalue for="0" value="Gunnar"/>
+        </attvalues>
+      </node>
+      <node id="Gustafsson" label="Gustafsson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Gustafssons" label="Gustafssons">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Gustav" label="Gustav">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Göran" label="Göran">
+        <attvalues>
+          <attvalue for="0" value="G%C3%B6ran"/>
+        </attvalues>
+      </node>
+      <node id="Gösta" label="Gösta">
+        <attvalues>
+          <attvalue for="0" value="G%C3%B6sta"/>
+        </attvalues>
+      </node>
+      <node id="Gösta Netzén" label="Gösta Netzén">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Gösta Netzén." label="Gösta Netzén.">
+        <attvalues>
+          <attvalue for="0" value="G%C3%B6sta"/>
+        </attvalues>
+      </node>
+      <node id="Göta" label="Göta">
+        <attvalues>
+          <attvalue for="0" value="LOC/PRS"/>
+        </attvalues>
+      </node>
+      <node id="Götaland" label="Götaland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Göte Tu50" label="Göte Tu50">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Göte Turesson" label="Göte Turesson">
+        <attvalues>
+          <attvalue for="0" value="G%C3%B6te"/>
+        </attvalues>
+      </node>
+      <node id="Göte Turesson." label="Göte Turesson.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Göteborg" label="Göteborg">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="H." label="H.">
+        <attvalues>
+          <attvalue for="0" value="H."/>
+        </attvalues>
+      </node>
+      <node id="H. F. Robinson" label="H. F. Robinson">
+        <attvalues>
+          <attvalue for="0" value="H."/>
+        </attvalues>
+      </node>
+      <node id="H. F. Smith" label="H. F. Smith">
+        <attvalues>
+          <attvalue for="0" value="H."/>
+        </attvalues>
+      </node>
+      <node id="H. Nilsson-Ehle," label="H. Nilsson-Ehle,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Hagberg" label="Hagberg">
+        <attvalues>
+          <attvalue for="0" value="Hagberg"/>
+        </attvalues>
+      </node>
+      <node id="Hagbergs" label="Hagbergs">
+        <attvalues>
+          <attvalue for="0" value="Hagbergs"/>
+        </attvalues>
+      </node>
+      <node id="Hall" label="Hall">
+        <attvalues>
+          <attvalue for="0" value="Hall"/>
+        </attvalues>
+      </node>
+      <node id="Hallands" label="Hallands">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Halvor" label="Halvor">
+        <attvalues>
+          <attvalue for="0" value="Halvor"/>
+        </attvalues>
+      </node>
+      <node id="Hammen" label="Hammen">
+        <attvalues>
+          <attvalue for="0" value="Hammen"/>
+        </attvalues>
+      </node>
+      <node id="Hammenhög" label="Hammenhög">
+        <attvalues>
+          <attvalue for="0" value="LOC/PRS"/>
+        </attvalues>
+      </node>
+      <node id="Hammenhögs" label="Hammenhögs">
+        <attvalues>
+          <attvalue for="0" value="LOC/PRS"/>
+        </attvalues>
+      </node>
+      <node id="Handbuch der Pflanzenzüchtung" label="Handbuch der Pflanzenzüchtung">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Handelsdepartementet" label="Handelsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Hankkija" label="Hankkija">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Hans Rasmuson" label="Hans Rasmuson">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Hansson" label="Hansson">
+        <attvalues>
+          <attvalue for="0" value="Hansson"/>
+        </attvalues>
+      </node>
+      <node id="Hanssons" label="Hanssons">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Harald" label="Harald">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Harald Esbo" label="Harald Esbo">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Harrie" label="Harrie">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Havamal" label="Havamal">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Heimo" label="Heimo">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="HelSkåne-Hallands" label="HelSkåne-Hallands">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Helge Johnsson." label="Helge Johnsson.">
+        <attvalues>
+          <attvalue for="0" value="Helge"/>
+        </attvalues>
+      </node>
+      <node id="Helsingfors" label="Helsingfors">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Henry" label="Henry">
+        <attvalues>
+          <attvalue for="0" value="Henry"/>
+        </attvalues>
+      </node>
+      <node id="Henry Gusavdelningschefen" label="Henry Gusavdelningschefen">
+        <attvalues>
+          <attvalue for="0" value="Henry"/>
+        </attvalues>
+      </node>
+      <node id="Herbert" label="Herbert">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Hereditas" label="Hereditas">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Heribert" label="Heribert">
+        <attvalues>
+          <attvalue for="0" value="Heribert"/>
+        </attvalues>
+      </node>
+      <node id="Herman" label="Herman">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Herman Nilsson-Ehle" label="Herman Nilsson-Ehle">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Herman Nilsvid Sveriges utsädesförening" label="Herman Nilsvid Sveriges utsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Hermes" label="Hermes">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Hernfrid" label="Hernfrid">
+        <attvalues>
+          <attvalue for="0" value="Hernfrid"/>
+        </attvalues>
+      </node>
+      <node id="Herr Harry Weibull" label="Herr Harry Weibull">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Hilleshög" label="Hilleshög">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Hilleshögs Frö AB" label="Hilleshögs Frö AB">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Hilleshögs-institutionen" label="Hilleshögs-institutionen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Hilleshögsinstitutet" label="Hilleshögsinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Hjalmar" label="Hjalmar">
+        <attvalues>
+          <attvalue for="0" value="Hjalmar"/>
+        </attvalues>
+      </node>
+      <node id="Hjalmar Nilsson" label="Hjalmar Nilsson">
+        <attvalues>
+          <attvalue for="0" value="Hjalmar"/>
+        </attvalues>
+      </node>
+      <node id="Holland)." label="Holland).">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Holmberg" label="Holmberg">
+        <attvalues>
+          <attvalue for="0" value="Holmberg"/>
+        </attvalues>
+      </node>
+      <node id="Holt" label="Holt">
+        <attvalues>
+          <attvalue for="0" value="Holt"/>
+        </attvalues>
+      </node>
+      <node id="Hushållningssällskap" label="Hushållningssällskap">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Håkan" label="Håkan">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Håkan Boberg" label="Håkan Boberg">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="IAEA" label="IAEA">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Iantbruksförbundet" label="Iantbruksförbundet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Ijubileumsskriften" label="Ijubileumsskriften">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Ikke" label="Ikke">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Inc/Ian" label="Inc/Ian">
+        <attvalues>
+          <attvalue for="0" value="Inc/ian"/>
+        </attvalues>
+      </node>
+      <node id="Indien" label="Indien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Indonesien" label="Indonesien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Ingrid" label="Ingrid">
+        <attvalues>
+          <attvalue for="0" value="Ingrid"/>
+        </attvalues>
+      </node>
+      <node id="Ingvar" label="Ingvar">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Ingvar Granhall" label="Ingvar Granhall">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Institutet för metallforskning" label="Institutet för metallforskning">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Institutet för mikrovågsteknik" label="Institutet för mikrovågsteknik">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Institutet för optisk forskning" label="Institutet för optisk forskning">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Institutet för tillämpad matematik" label="Institutet för tillämpad matematik">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Institutet för verkstadsteknisk forskning" label="Institutet för verkstadsteknisk forskning">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Institutet för värmeteknisk forskning" label="Institutet för värmeteknisk forskning">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Institutionen för skogsgenetik: Rapporter" label="Institutionen för skogsgenetik: Rapporter">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Iowa" label="Iowa">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Iran" label="Iran">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Irland" label="Irland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Island" label="Island">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Italien" label="Italien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="J. O. Bergstrand" label="J. O. Bergstrand">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Jaakko" label="Jaakko">
+        <attvalues>
+          <attvalue for="0" value="ORG/PRS"/>
+        </attvalues>
+      </node>
+      <node id="James Mac Key" label="James Mac Key">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="James Mac Key)" label="James Mac Key)">
+        <attvalues>
+          <attvalue for="0" value="James"/>
+        </attvalues>
+      </node>
+      <node id="James Mac Key:" label="James Mac Key:">
+        <attvalues>
+          <attvalue for="0" value="James"/>
+        </attvalues>
+      </node>
+      <node id="Jan Boman" label="Jan Boman">
+        <attvalues>
+          <attvalue for="0" value="Jan"/>
+        </attvalues>
+      </node>
+      <node id="Japan" label="Japan">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Japans" label="Japans">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Jens" label="Jens">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Jens Clausen," label="Jens Clausen,">
+        <attvalues>
+          <attvalue for="0" value="Jens"/>
+        </attvalues>
+      </node>
+      <node id="Johan" label="Johan">
+        <attvalues>
+          <attvalue for="0" value="Johan"/>
+        </attvalues>
+      </node>
+      <node id="Johan Lindvid utsädesföreningen" label="Johan Lindvid utsädesföreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Johan Rasmusson" label="Johan Rasmusson">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Johannsens" label="Johannsens">
+        <attvalues>
+          <attvalue for="0" value="Johannsens"/>
+        </attvalues>
+      </node>
+      <node id="John" label="John">
+        <attvalues>
+          <attvalue for="0" value="John"/>
+        </attvalues>
+      </node>
+      <node id="John Murray," label="John Murray,">
+        <attvalues>
+          <attvalue for="0" value="John"/>
+        </attvalues>
+      </node>
+      <node id="Jonsson" label="Jonsson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Jordbruksdepartementet" label="Jordbruksdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Julén" label="Julén">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="June" label="June">
+        <attvalues>
+          <attvalue for="0" value="June"/>
+        </attvalues>
+      </node>
+      <node id="Justitiedepartementet" label="Justitiedepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Jylland," label="Jylland,">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Jämtlands" label="Jämtlands">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Jörgen Weibull." label="Jörgen Weibull.">
+        <attvalues>
+          <attvalue for="0" value="J%C3%B6rgen"/>
+        </attvalues>
+      </node>
+      <node id="Jörgen Weibull. Falkenberg:" label="Jörgen Weibull. Falkenberg:">
+        <attvalues>
+          <attvalue for="0" value="J%C3%B6rgen"/>
+        </attvalues>
+      </node>
+      <node id="Jörgensens" label="Jörgensens">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="K. G. Lüning" label="K. G. Lüning">
+        <attvalues>
+          <attvalue for="0" value="K."/>
+        </attvalues>
+      </node>
+      <node id="Kairo" label="Kairo">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Kajsa" label="Kajsa">
+        <attvalues>
+          <attvalue for="0" value="female"/>
+        </attvalues>
+      </node>
+      <node id="Kalb Ag Research." label="Kalb Ag Research.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Kalmar" label="Kalmar">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Karl Pearson" label="Karl Pearson">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Kenya" label="Kenya">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Kerstin" label="Kerstin">
+        <attvalues>
+          <attvalue for="0" value="female"/>
+        </attvalues>
+      </node>
+      <node id="Klaas Tjebbes" label="Klaas Tjebbes">
+        <attvalues>
+          <attvalue for="0" value="Klaas"/>
+        </attvalues>
+      </node>
+      <node id="Klaas Tjebbes." label="Klaas Tjebbes.">
+        <attvalues>
+          <attvalue for="0" value="Klaas"/>
+        </attvalues>
+      </node>
+      <node id="Knut" label="Knut">
+        <attvalues>
+          <attvalue for="0" value="Knut"/>
+        </attvalues>
+      </node>
+      <node id="Kommunikationsdepartementet" label="Kommunikationsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Konstans" label="Konstans">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Korrosionsinstitutet" label="Korrosionsinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Kristianstads" label="Kristianstads">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Kåre" label="Kåre">
+        <attvalues>
+          <attvalue for="0" value="K%C3%A5re"/>
+        </attvalues>
+      </node>
+      <node id="LILLERUD" label="LILLERUD">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Laboratorieverk" label="Laboratorieverk">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Landboforeningfølgende" label="Landboforeningfølgende">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Landboog" label="Landboog">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Landbrugs" label="Landbrugs">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Landbrugsministeriet" label="Landbrugsministeriet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Landskrona" label="Landskrona">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Lantbrukshögskolan" label="Lantbrukshögskolan">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Lantbruksuniversitetet" label="Lantbruksuniversitetet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Lantbruksuniversitetets" label="Lantbruksuniversitetets">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Lars" label="Lars">
+        <attvalues>
+          <attvalue for="0" value="Lars"/>
+        </attvalues>
+      </node>
+      <node id="Lars Ehrenberg" label="Lars Ehrenberg">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Lars Ehrenbergs" label="Lars Ehrenbergs">
+        <attvalues>
+          <attvalue for="0" value="Lars"/>
+        </attvalues>
+      </node>
+      <node id="Lars Ehrenuniversitet," label="Lars Ehrenuniversitet,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Lars-Åke" label="Lars-Åke">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Larsen-Petersen" label="Larsen-Petersen">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Larson benämnd" label="Larson benämnd">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Larsson" label="Larsson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Larssons" label="Larssons">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Leif Poll" label="Leif Poll">
+        <attvalues>
+          <attvalue for="0" value="Leif"/>
+        </attvalues>
+      </node>
+      <node id="Lennart" label="Lennart">
+        <attvalues>
+          <attvalue for="0" value="Lennart"/>
+        </attvalues>
+      </node>
+      <node id="Lennart Hjelm)" label="Lennart Hjelm)">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Les Prix" label="Les Prix">
+        <attvalues>
+          <attvalue for="0" value="EVN"/>
+        </attvalues>
+      </node>
+      <node id="Levan" label="Levan">
+        <attvalues>
+          <attvalue for="0" value="Levan"/>
+        </attvalues>
+      </node>
+      <node id="Libanon" label="Libanon">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Liberia" label="Liberia">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Lillön" label="Lillön">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Linders" label="Linders">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Lindhards" label="Lindhards">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Lindqvist" label="Lindqvist">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Ljung" label="Ljung">
+        <attvalues>
+          <attvalue for="0" value="Ljung"/>
+        </attvalues>
+      </node>
+      <node id="Lock" label="Lock">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Louis" label="Louis">
+        <attvalues>
+          <attvalue for="0" value="female"/>
+        </attvalues>
+      </node>
+      <node id="Luleå" label="Luleå">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Lund" label="Lund">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Lund," label="Lund,">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Lund, utsädesföreningen" label="Lund, utsädesföreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Lund-Alnarp" label="Lund-Alnarp">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Lund. Institutionen" label="Lund. Institutionen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Lundkvist" label="Lundkvist">
+        <attvalues>
+          <attvalue for="0" value="Lundkvist"/>
+        </attvalues>
+      </node>
+      <node id="Lunds universitet" label="Lunds universitet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Løsning af Spørgsmaal" label="Løsning af Spørgsmaal">
+        <attvalues>
+          <attvalue for="0" value="L%C3%B8sning"/>
+        </attvalues>
+      </node>
+      <node id="Lüning" label="Lüning">
+        <attvalues>
+          <attvalue for="0" value="L%C3%BCning"/>
+        </attvalues>
+      </node>
+      <node id="Mac Key" label="Mac Key">
+        <attvalues>
+          <attvalue for="0" value="Mac"/>
+        </attvalues>
+      </node>
+      <node id="Mac Key)" label="Mac Key)">
+        <attvalues>
+          <attvalue for="0" value="Mac"/>
+        </attvalues>
+      </node>
+      <node id="Mac Key, J." label="Mac Key, J.">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Mac Key. J." label="Mac Key. J.">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Malling" label="Malling">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Malmö" label="Malmö">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Malmöhus" label="Malmöhus">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Mange" label="Mange">
+        <attvalues>
+          <attvalue for="0" value="Mange"/>
+        </attvalues>
+      </node>
+      <node id="Marianne" label="Marianne">
+        <attvalues>
+          <attvalue for="0" value="Marianne"/>
+        </attvalues>
+      </node>
+      <node id="Maris Beacon" label="Maris Beacon">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Maris Huntsman" label="Maris Huntsman">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Maurice Wilkins" label="Maurice Wilkins">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Med lantbruksinstitutet" label="Med lantbruksinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Melchers" label="Melchers">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Mellansverige" label="Mellansverige">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Mellansveriges" label="Mellansveriges">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Mendel" label="Mendel">
+        <attvalues>
+          <attvalue for="0" value="Mendel"/>
+        </attvalues>
+      </node>
+      <node id="Mendels" label="Mendels">
+        <attvalues>
+          <attvalue for="0" value="Mendels"/>
+        </attvalues>
+      </node>
+      <node id="Mexico" label="Mexico">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Mexicos" label="Mexicos">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Mexiko" label="Mexiko">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Micke" label="Micke">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Milano" label="Milano">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Minnesskrift" label="Minnesskrift">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Mona" label="Mona">
+        <attvalues>
+          <attvalue for="0" value="female"/>
+        </attvalues>
+      </node>
+      <node id="Myrdal" label="Myrdal">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Möbelinstitutet" label="Möbelinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="München" label="München">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Müntzing" label="Müntzing">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Müntzings" label="Müntzings">
+        <attvalues>
+          <attvalue for="0" value="M%C3%BCntzings"/>
+        </attvalues>
+      </node>
+      <node id="N. I. Vavilov." label="N. I. Vavilov.">
+        <attvalues>
+          <attvalue for="0" value="N."/>
+        </attvalues>
+      </node>
+      <node id="N.I." label="N.I.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="NFR:s forskargrupp" label="NFR:s forskargrupp">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Nederländerna" label="Nederländerna">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Neergaard" label="Neergaard">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="New Scientist" label="New Scientist">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="New Zealand" label="New Zealand">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Nickerson" label="Nickerson">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Nigeria" label="Nigeria">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Nils" label="Nils">
+        <attvalues>
+          <attvalue for="0" value="Nils"/>
+        </attvalues>
+      </node>
+      <node id="Nils Heriben" label="Nils Heriben">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Nils Heribert" label="Nils Heribert">
+        <attvalues>
+          <attvalue for="0" value="Nils"/>
+        </attvalues>
+      </node>
+      <node id="Nils Nybom" label="Nils Nybom">
+        <attvalues>
+          <attvalue for="0" value="Nils"/>
+        </attvalues>
+      </node>
+      <node id="Nils Nybom," label="Nils Nybom,">
+        <attvalues>
+          <attvalue for="0" value="Nils"/>
+        </attvalues>
+      </node>
+      <node id="Nils Sylvén:" label="Nils Sylvén:">
+        <attvalues>
+          <attvalue for="0" value="Nils"/>
+        </attvalues>
+      </node>
+      <node id="Nilsson" label="Nilsson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Nilsson-Ehle" label="Nilsson-Ehle">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Nilssons" label="Nilssons">
+        <attvalues>
+          <attvalue for="0" value="Nilssons"/>
+        </attvalues>
+      </node>
+      <node id="Nobel" label="Nobel">
+        <attvalues>
+          <attvalue for="0" value="ORG/PRS"/>
+        </attvalues>
+      </node>
+      <node id="Nordamerika" label="Nordamerika">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norden" label="Norden">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Nordens" label="Nordens">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norge" label="Norge">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norges" label="Norges">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norman" label="Norman">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Norman Borär CIMMYT," label="Norman Borär CIMMYT,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Nororganisationen" label="Nororganisationen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Norra Götaland" label="Norra Götaland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norrbotten" label="Norrbotten">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norrbottens" label="Norrbottens">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norrland" label="Norrland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norstedts" label="Norstedts">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="North-Carolina" label="North-Carolina">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Norup" label="Norup">
+        <attvalues>
+          <attvalue for="0" value="Norup"/>
+        </attvalues>
+      </node>
+      <node id="Nya Zeeland" label="Nya Zeeland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Nybom" label="Nybom">
+        <attvalues>
+          <attvalue for="0" value="Nybom"/>
+        </attvalues>
+      </node>
+      <node id="Nygrens" label="Nygrens">
+        <attvalues>
+          <attvalue for="0" value="Nygrens"/>
+        </attvalues>
+      </node>
+      <node id="OECD" label="OECD">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="OECD:s" label="OECD:s">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Ohlsens Enke AS. Ett" label="Ohlsens Enke AS. Ett">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Olle" label="Olle">
+        <attvalues>
+          <attvalue for="0" value="Olle"/>
+        </attvalues>
+      </node>
+      <node id="Olli Rekola. Utredrepresentant" label="Olli Rekola. Utredrepresentant">
+        <attvalues>
+          <attvalue for="0" value="Olli"/>
+        </attvalues>
+      </node>
+      <node id="Olof" label="Olof">
+        <attvalues>
+          <attvalue for="0" value="Olof"/>
+        </attvalues>
+      </node>
+      <node id="Olof Langlet" label="Olof Langlet">
+        <attvalues>
+          <attvalue for="0" value="Olof"/>
+        </attvalues>
+      </node>
+      <node id="Olof Nils(Bror Hasselrot" label="Olof Nils(Bror Hasselrot">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Omszetning af Frø af Foder-" label="Omszetning af Frø af Foder-">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Organizing Committee for the" label="Organizing Committee for the">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Originalutsädesnämnden" label="Originalutsädesnämnden">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Oslo" label="Oslo">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Ottar" label="Ottar">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Otto Berg. Det" label="Otto Berg. Det">
+        <attvalues>
+          <attvalue for="0" value="Otto"/>
+        </attvalues>
+      </node>
+      <node id="Ove" label="Ove">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="POLCIRKELN" label="POLCIRKELN">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Pakistan" label="Pakistan">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Palo Alto" label="Palo Alto">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Palo Alto," label="Palo Alto,">
+        <attvalues>
+          <attvalue for="0" value="Palo"/>
+        </attvalues>
+      </node>
+      <node id="Palo Alto, Calif.," label="Palo Alto, Calif.,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Paris" label="Paris">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Pariskonventionen" label="Pariskonventionen">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Paul" label="Paul">
+        <attvalues>
+          <attvalue for="0" value="Paul"/>
+        </attvalues>
+      </node>
+      <node id="Per-Erik" label="Per-Erik">
+        <attvalues>
+          <attvalue for="0" value="Per-erik"/>
+        </attvalues>
+      </node>
+      <node id="Per-Åke" label="Per-Åke">
+        <attvalues>
+          <attvalue for="0" value="Per-%C3%A5ke"/>
+        </attvalues>
+      </node>
+      <node id="Peru" label="Peru">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Peta" label="Peta">
+        <attvalues>
+          <attvalue for="0" value="Peta"/>
+        </attvalues>
+      </node>
+      <node id="Pinus" label="Pinus">
+        <attvalues>
+          <attvalue for="0" value="Pinus"/>
+        </attvalues>
+      </node>
+      <node id="Plant" label="Plant">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Plant Breeding Research" label="Plant Breeding Research">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Plant Breeding. National Academy of Scienpropagated" label="Plant Breeding. National Academy of Scienpropagated">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Plant Research and Development:" label="Plant Research and Development:">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Plant-Breeding. XVI, Band" label="Plant-Breeding. XVI, Band">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Poa" label="Poa">
+        <attvalues>
+          <attvalue for="0" value="Poa"/>
+        </attvalues>
+      </node>
+      <node id="Populärtidskrifter" label="Populärtidskrifter">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Proceedings of the International" label="Proceedings of the International">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Procent af Landbrugshvilket" label="Procent af Landbrugshvilket">
+        <attvalues>
+          <attvalue for="0" value="Procent"/>
+        </attvalues>
+      </node>
+      <node id="Prof. von Wettstein," label="Prof. von Wettstein,">
+        <attvalues>
+          <attvalue for="0" value="Prof."/>
+        </attvalues>
+      </node>
+      <node id="R. A. Fisher" label="R. A. Fisher">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="R. A. H. Magnusson" label="R. A. H. Magnusson">
+        <attvalues>
+          <attvalue for="0" value="R."/>
+        </attvalues>
+      </node>
+      <node id="R. Mansfeld" label="R. Mansfeld">
+        <attvalues>
+          <attvalue for="0" value="R."/>
+        </attvalues>
+      </node>
+      <node id="Ramel" label="Ramel">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Rasmuson" label="Rasmuson">
+        <attvalues>
+          <attvalue for="0" value="Rasmuson"/>
+        </attvalues>
+      </node>
+      <node id="Rasmussons" label="Rasmussons">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Rena" label="Rena">
+        <attvalues>
+          <attvalue for="0" value="Rena"/>
+        </attvalues>
+      </node>
+      <node id="Research Institute" label="Research Institute">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Rice" label="Rice">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Rice Improveand Barley Improvement" label="Rice Improveand Barley Improvement">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Rice Research" label="Rice Research">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Riksdagen" label="Riksdagen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Ringsjön" label="Ringsjön">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Ris" label="Ris">
+        <attvalues>
+          <attvalue for="0" value="Ris"/>
+        </attvalues>
+      </node>
+      <node id="Risinstitut" label="Risinstitut">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Robert" label="Robert">
+        <attvalues>
+          <attvalue for="0" value="Robert"/>
+        </attvalues>
+      </node>
+      <node id="Rockefeller" label="Rockefeller">
+        <attvalues>
+          <attvalue for="0" value="Rockefeller"/>
+        </attvalues>
+      </node>
+      <node id="Roger Mossberg." label="Roger Mossberg.">
+        <attvalues>
+          <attvalue for="0" value="Roger"/>
+        </attvalues>
+      </node>
+      <node id="Rolf Karls-" label="Rolf Karls-">
+        <attvalues>
+          <attvalue for="0" value="Rolf"/>
+        </attvalues>
+      </node>
+      <node id="Rom" label="Rom">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Rosalind" label="Rosalind">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Röutsädesföreningen" label="Röutsädesföreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="SLR-organisationen" label="SLR-organisationen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="SOU" label="SOU">
+        <attvalues>
+          <attvalue for="0" value="source"/>
+        </attvalues>
+      </node>
+      <node id="STOCKHOLM" label="STOCKHOLM">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="STU-kommittén" label="STU-kommittén">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Salget af Frø," label="Salget af Frø,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Sam" label="Sam">
+        <attvalues>
+          <attvalue for="0" value="Sam"/>
+        </attvalues>
+      </node>
+      <node id="Sam Norup" label="Sam Norup">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Samarbetsnämnd" label="Samarbetsnämnd">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sammed utsädesföreningen" label="Sammed utsädesföreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Savolax" label="Savolax">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Schweiz" label="Schweiz">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Scotland College of Agriculture" label="Scotland College of Agriculture">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Selma" label="Selma">
+        <attvalues>
+          <attvalue for="0" value="female"/>
+        </attvalues>
+      </node>
+      <node id="Semi-Arid Tropics)" label="Semi-Arid Tropics)">
+        <attvalues>
+          <attvalue for="0" value="Semi-arid"/>
+        </attvalues>
+      </node>
+      <node id="Set" label="Set">
+        <attvalues>
+          <attvalue for="0" value="Set"/>
+        </attvalues>
+      </node>
+      <node id="Side" label="Side">
+        <attvalues>
+          <attvalue for="0" value="Side"/>
+        </attvalues>
+      </node>
+      <node id="Side af Frøproduktionen," label="Side af Frøproduktionen,">
+        <attvalues>
+          <attvalue for="0" value="Side"/>
+        </attvalues>
+      </node>
+      <node id="Sigurbjörnsson" label="Sigurbjörnsson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Sigvard Mejejämte" label="Sigvard Mejejämte">
+        <attvalues>
+          <attvalue for="0" value="Sigvard"/>
+        </attvalues>
+      </node>
+      <node id="Sirius" label="Sirius">
+        <attvalues>
+          <attvalue for="0" value="Sirius"/>
+        </attvalues>
+      </node>
+      <node id="Skandinavien" label="Skandinavien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Skara" label="Skara">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Skaraborg" label="Skaraborg">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Skive af Pajbjergfonden." label="Skive af Pajbjergfonden.">
+        <attvalues>
+          <attvalue for="0" value="Skive"/>
+        </attvalues>
+      </node>
+      <node id="Skåne" label="Skåne">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sköld" label="Sköld">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Socialdepartementet" label="Socialdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Solna" label="Solna">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Spanien" label="Spanien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Statens Alm." label="Statens Alm.">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Statens Kornforretlandbruk," label="Statens Kornforretlandbruk,">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Statens Kornforretning" label="Statens Kornforretning">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Statens Kornforretning." label="Statens Kornforretning.">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Statens jordbruksnämnd" label="Statens jordbruksnämnd">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Statens livsmedelsverk" label="Statens livsmedelsverk">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Statens råd" label="Statens råd">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Stemme" label="Stemme">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Stiftelsen för trämanufakturteknisk" label="Stiftelsen för trämanufakturteknisk">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Stig" label="Stig">
+        <attvalues>
+          <attvalue for="0" value="Stig"/>
+        </attvalues>
+      </node>
+      <node id="Stig Blixt." label="Stig Blixt.">
+        <attvalues>
+          <attvalue for="0" value="Stig"/>
+        </attvalues>
+      </node>
+      <node id="Stockholm" label="Stockholm">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Stockholms" label="Stockholms">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Storbritannien" label="Storbritannien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Storvik" label="Storvik">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Styring af Foradlingen" label="Styring af Foradlingen">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Sune Fröst," label="Sune Fröst,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Svalöf" label="Svalöf">
+        <attvalues>
+          <attvalue for="0" value="Sval%C3%B6f"/>
+        </attvalues>
+      </node>
+      <node id="Svalöv" label="Svalöv">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Svalöv." label="Svalöv.">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Svalöv. Föreningen" label="Svalöv. Föreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svalöv. Institutionen" label="Svalöv. Institutionen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svalövs" label="Svalövs">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Svalövsorganisationen" label="Svalövsorganisationen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svalövsutredningen" label="Svalövsutredningen">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Svante" label="Svante">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Svante Lundkvist" label="Svante Lundkvist">
+        <attvalues>
+          <attvalue for="0" value="Svante"/>
+        </attvalues>
+      </node>
+      <node id="Svealand" label="Svealand">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sven" label="Sven">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Sven Asker," label="Sven Asker,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Sven Linders" label="Sven Linders">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Sven Olsson" label="Sven Olsson">
+        <attvalues>
+          <attvalue for="0" value="Sven"/>
+        </attvalues>
+      </node>
+      <node id="Sven Persson" label="Sven Persson">
+        <attvalues>
+          <attvalue for="0" value="Sven"/>
+        </attvalues>
+      </node>
+      <node id="Svensk Detonikforskning" label="Svensk Detonikforskning">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svenska" label="Svenska">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svenska Livsmedelsinstitutet" label="Svenska Livsmedelsinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svenska Silikatforskningsinstitutet" label="Svenska Silikatforskningsinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svenska Textilforskningsinstitutet" label="Svenska Textilforskningsinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svenska Träforskningsinstitutet" label="Svenska Träforskningsinstitutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svenska betes- och vallföreningen" label="Svenska betes- och vallföreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svenska vatten- och avloppsverksföreningen" label="Svenska vatten- och avloppsverksföreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Svensriksförbund" label="Svensriksförbund">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sverige" label="Sverige">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sverige," label="Sverige,">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sverige." label="Sverige.">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sverige. Till" label="Sverige. Till">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sverige. Två" label="Sverige. Två">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges" label="Sveriges">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges Utsädesförening" label="Sveriges Utsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges lantbruksuniversitet" label="Sveriges lantbruksuniversitet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges utsädesförening" label="Sveriges utsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sverispecialisering" label="Sverispecialisering">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sydafrika" label="Sydafrika">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sydamerika" label="Sydamerika">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Syrien" label="Syrien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Säby" label="Säby">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sävar" label="Sävar">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Såväl Sveriges utsädesförening" label="Såväl Sveriges utsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Södra Götaland" label="Södra Götaland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Söner AB" label="Söner AB">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sören" label="Sören">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Sören Ekström," label="Sören Ekström,">
+        <attvalues>
+          <attvalue for="0" value="S%C3%B6ren"/>
+        </attvalues>
+      </node>
+      <node id="Sören Lane" label="Sören Lane">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Taastrup" label="Taastrup">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Tage Eriksson.)" label="Tage Eriksson.)">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Tellus" label="Tellus">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Texas" label="Texas">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Theodore B. Baigerad" label="Theodore B. Baigerad">
+        <attvalues>
+          <attvalue for="0" value="Theodore"/>
+        </attvalues>
+      </node>
+      <node id="Thore" label="Thore">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Thore Denward" label="Thore Denward">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Tidskrift" label="Tidskrift">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Tidutsädesförening" label="Tidutsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Troedssons" label="Troedssons">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Turesson" label="Turesson">
+        <attvalues>
+          <attvalue for="0" value="Turesson"/>
+        </attvalues>
+      </node>
+      <node id="Turessons" label="Turessons">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Tyskland" label="Tyskland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Tyskland," label="Tyskland,">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="UN Special Fund" label="UN Special Fund">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="USA:s" label="USA:s">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="USA:s regering" label="USA:s regering">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Ulf Thorselius" label="Ulf Thorselius">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Ultuna" label="Ultuna">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Umeå" label="Umeå">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Umeåkommitté" label="Umeåkommitté">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="United States" label="United States">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Universitetet" label="Universitetet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Universitetets" label="Universitetets">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Uppsala" label="Uppsala">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Utbildningsdepartementet" label="Utbildningsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Utredningsmännen," label="Utredningsmännen,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Utrikesdepartementet" label="Utrikesdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Utsädes AB" label="Utsädes AB">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Utsädesaktiebolagetsjubileumsskrift" label="Utsädesaktiebolagetsjubileumsskrift">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Utsädesförening" label="Utsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Utsädesföreningen" label="Utsädesföreningen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Valg af Opgaver." label="Valg af Opgaver.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Valget af Opgaver" label="Valget af Opgaver">
+        <attvalues>
+          <attvalue for="0" value="Valget"/>
+        </attvalues>
+      </node>
+      <node id="Vall" label="Vall">
+        <attvalues>
+          <attvalue for="0" value="Vall"/>
+        </attvalues>
+      </node>
+      <node id="Vallmo" label="Vallmo">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Varia" label="Varia">
+        <attvalues>
+          <attvalue for="0" value="Varia"/>
+        </attvalues>
+      </node>
+      <node id="Venus" label="Venus">
+        <attvalues>
+          <attvalue for="0" value="Venus"/>
+        </attvalues>
+      </node>
+      <node id="Vetenskapsakademien" label="Vetenskapsakademien">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Vilhelm" label="Vilhelm">
+        <attvalues>
+          <attvalue for="0" value="Vilhelm"/>
+        </attvalues>
+      </node>
+      <node id="Villiam" label="Villiam">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Volkmar" label="Volkmar">
+        <attvalues>
+          <attvalue for="0" value="Volkmar"/>
+        </attvalues>
+      </node>
+      <node id="Voll" label="Voll">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Värmlands" label="Värmlands">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Västergötland" label="Västergötland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Västernorrland" label="Västernorrland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Västernorrlands" label="Västernorrlands">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Västeuropa" label="Västeuropa">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Växtförädlingsnämnden" label="Växtförädlingsnämnden">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Växtförädlingsskyddsutredningen" label="Växtförädlingsskyddsutredningen">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Växtsortnämnden" label="Växtsortnämnden">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="W. Johannsen." label="W. Johannsen.">
+        <attvalues>
+          <attvalue for="0" value="W."/>
+        </attvalues>
+      </node>
+      <node id="W. Weibull" label="W. Weibull">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="W. Weibull AB" label="W. Weibull AB">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="W. Weibull AB," label="W. Weibull AB,">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="WARDA" label="WARDA">
+        <attvalues>
+          <attvalue for="0" value="Warda"/>
+        </attvalues>
+      </node>
+      <node id="Walfrid" label="Walfrid">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Walker" label="Walker">
+        <attvalues>
+          <attvalue for="0" value="Walker"/>
+        </attvalues>
+      </node>
+      <node id="Wallenbergs" label="Wallenbergs">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Walter" label="Walter">
+        <attvalues>
+          <attvalue for="0" value="Walter"/>
+        </attvalues>
+      </node>
+      <node id="Walter. Harry och William Weibull" label="Walter. Harry och William Weibull">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Wang" label="Wang">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Weibull" label="Weibull">
+        <attvalues>
+          <attvalue for="0" value="Weibull"/>
+        </attvalues>
+      </node>
+      <node id="Weibull AB)" label="Weibull AB)">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Weibull AB," label="Weibull AB,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Weibull AB." label="Weibull AB.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Weibull AB. Den" label="Weibull AB. Den">
+        <attvalues>
+          <attvalue for="0" value="Weibull"/>
+        </attvalues>
+      </node>
+      <node id="Weibull AB. Utsästörsta" label="Weibull AB. Utsästörsta">
+        <attvalues>
+          <attvalue for="0" value="Weibull"/>
+        </attvalues>
+      </node>
+      <node id="Weibull AB. Vid" label="Weibull AB. Vid">
+        <attvalues>
+          <attvalue for="0" value="Weibull"/>
+        </attvalues>
+      </node>
+      <node id="Weibull AB:s" label="Weibull AB:s">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Weibull ÄB" label="Weibull ÄB">
+        <attvalues>
+          <attvalue for="0" value="Weibull"/>
+        </attvalues>
+      </node>
+      <node id="Weibull." label="Weibull.">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Weibulls" label="Weibulls">
+        <attvalues>
+          <attvalue for="0" value="Weibulls"/>
+        </attvalues>
+      </node>
+      <node id="Weibullsbör nämnden" label="Weibullsbör nämnden">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Weibullsholms" label="Weibullsholms">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Weibullssorten" label="Weibullssorten">
+        <attvalues>
+          <attvalue for="0" value="Weibullssorten"/>
+        </attvalues>
+      </node>
+      <node id="Welsh Plant Breedtill Plant Breeding Institute" label="Welsh Plant Breedtill Plant Breeding Institute">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Wibergs" label="Wibergs">
+        <attvalues>
+          <attvalue for="0" value="Wibergs"/>
+        </attvalues>
+      </node>
+      <node id="Widar" label="Widar">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Wien" label="Wien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Wien," label="Wien,">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Wien. Island" label="Wien. Island">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Wilhelm" label="Wilhelm">
+        <attvalues>
+          <attvalue for="0" value="Wilhelm"/>
+        </attvalues>
+      </node>
+      <node id="Wilhelm Joframgår" label="Wilhelm Joframgår">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Wilhelm Johannsen." label="Wilhelm Johannsen.">
+        <attvalues>
+          <attvalue for="0" value="Wilhelm"/>
+        </attvalues>
+      </node>
+      <node id="York" label="York">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Ytkemiska institutet" label="Ytkemiska institutet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Zeller," label="Zeller,">
+        <attvalues>
+          <attvalue for="0" value="Zeller,"/>
+        </attvalues>
+      </node>
+      <node id="Zentralinstitut" label="Zentralinstitut">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="ZüchtungsforKaiser Wilhelm-Institut" label="ZüchtungsforKaiser Wilhelm-Institut">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="af Åke Gustafsson" label="af Åke Gustafsson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="akademien" label="akademien">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="akademiens" label="akademiens">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="amerika" label="amerika">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="andra världskriget" label="andra världskriget">
+        <attvalues>
+          <attvalue for="0" value="EVN"/>
+        </attvalues>
+      </node>
+      <node id="andra världskrigets" label="andra världskrigets">
+        <attvalues>
+          <attvalue for="0" value="EVN"/>
+        </attvalues>
+      </node>
+      <node id="artens" label="artens">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="bering" label="bering">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="bridge Plant Breeding" label="bridge Plant Breeding">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="britannien" label="britannien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="byggnadsstyrelsen" label="byggnadsstyrelsen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="citron" label="citron">
+        <attvalues>
+          <attvalue for="0" value="Citron"/>
+        </attvalues>
+      </node>
+      <node id="danner" label="danner">
+        <attvalues>
+          <attvalue for="0" value="Danner"/>
+        </attvalues>
+      </node>
+      <node id="der stilles" label="der stilles">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="dr Björn" label="dr Björn">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="dr Fredrik" label="dr Fredrik">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="dr Ingvar Gransom" label="dr Ingvar Gransom">
+        <attvalues>
+          <attvalue for="0" value="Dr"/>
+        </attvalues>
+      </node>
+      <node id="dr Kjell" label="dr Kjell">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="dr Sigurbjömsson" label="dr Sigurbjömsson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="dr Sigurbjörnsson" label="dr Sigurbjörnsson">
+        <attvalues>
+          <attvalue for="0" value="Dr"/>
+        </attvalues>
+      </node>
+      <node id="dr. B. Sigurbjörrzsson," label="dr. B. Sigurbjörrzsson,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="dr. D. von Wettstein" label="dr. D. von Wettstein">
+        <attvalues>
+          <attvalue for="0" value="Dr."/>
+        </attvalues>
+      </node>
+      <node id="ellers" label="ellers">
+        <attvalues>
+          <attvalue for="0" value="Ellers"/>
+        </attvalues>
+      </node>
+      <node id="engineering" label="engineering">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="exportrådets" label="exportrådets">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="foster" label="foster">
+        <attvalues>
+          <attvalue for="0" value="Foster"/>
+        </attvalues>
+      </node>
+      <node id="första världskriget" label="första världskriget">
+        <attvalues>
+          <attvalue for="0" value="EVN"/>
+        </attvalues>
+      </node>
+      <node id="första världskrigets" label="första världskrigets">
+        <attvalues>
+          <attvalue for="0" value="EVN"/>
+        </attvalues>
+      </node>
+      <node id="grenade" label="grenade">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="hertil" label="hertil">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="hurtig" label="hurtig">
+        <attvalues>
+          <attvalue for="0" value="Hurtig"/>
+        </attvalues>
+      </node>
+      <node id="inghar" label="inghar">
+        <attvalues>
+          <attvalue for="0" value="Inghar"/>
+        </attvalues>
+      </node>
+      <node id="institut för förädlingsforskutformas" label="institut för förädlingsforskutformas">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="institut för kulturväxnämnas" label="institut för kulturväxnämnas">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="institut för växtförädlingsoch" label="institut för växtförädlingsoch">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="jordbruksdepartementet" label="jordbruksdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="jordbruksdepartementets" label="jordbruksdepartementets">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="kalles" label="kalles">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="klander" label="klander">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="konstant" label="konstant">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="korners" label="korners">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="kroner" label="kroner">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="lantbrukshögskolan" label="lantbrukshögskolan">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="lantbrukshögskolans" label="lantbrukshögskolans">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="lantbruksuniversitet" label="lantbruksuniversitet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="lantbruksuniversitetet" label="lantbruksuniversitetet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="lantbruksuniversitetets" label="lantbruksuniversitetets">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="lantbruksuniversitets" label="lantbruksuniversitets">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="linden" label="linden">
+        <attvalues>
+          <attvalue for="0" value="Linden"/>
+        </attvalues>
+      </node>
+      <node id="majsen" label="majsen">
+        <attvalues>
+          <attvalue for="0" value="Majsen"/>
+        </attvalues>
+      </node>
+      <node id="nativa" label="nativa">
+        <attvalues>
+          <attvalue for="0" value="Nativa"/>
+        </attvalues>
+      </node>
+      <node id="nordsverige" label="nordsverige">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="piella" label="piella">
+        <attvalues>
+          <attvalue for="0" value="Piella"/>
+        </attvalues>
+      </node>
+      <node id="rammer" label="rammer">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="riksdagen" label="riksdagen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="riksdagens" label="riksdagens">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="sisten" label="sisten">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="sistens" label="sistens">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="skåneregionen" label="skåneregionen">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="statens skogsforskningsinstitut" label="statens skogsforskningsinstitut">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="stemmes" label="stemmes">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="stille" label="stille">
+        <attvalues>
+          <attvalue for="0" value="Stille"/>
+        </attvalues>
+      </node>
+      <node id="stiller" label="stiller">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="stilles" label="stilles">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="ställan" label="ställan">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="svenska utsädesaktiebolautsädesförening" label="svenska utsädesaktiebolautsädesförening">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="södra Sverige" label="södra Sverige">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="tillen" label="tillen">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="toriet" label="toriet">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="trenges" label="trenges">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="u-länder" label="u-länder">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="u-länderna" label="u-länderna">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="u-ländernas" label="u-ländernas">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="universitetet" label="universitetet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="universitetets" label="universitetets">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="uppland" label="uppland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="vallmo" label="vallmo">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="vetenskapsakademiens" label="vetenskapsakademiens">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="veterinärhögskolan" label="veterinärhögskolan">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="victorin" label="victorin">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="violett" label="violett">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="växtförädlingsanstalt för jordbruksväxter." label="växtförädlingsanstalt för jordbruksväxter.">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Åke" label="Åke">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Åke Gustafsson" label="Åke Gustafsson">
+        <attvalues>
+          <attvalue for="0" value="%C3%85ke"/>
+        </attvalues>
+      </node>
+      <node id="Åke Åkerman" label="Åke Åkerman">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Åke Åkerman," label="Åke Åkerman,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Åkerberg" label="Åkerberg">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Åkerman" label="Åkerman">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Åkerman," label="Åkerman,">
+        <attvalues>
+          <attvalue for="0" value="%C3%85kerman,"/>
+        </attvalues>
+      </node>
+      <node id="Åkermans" label="Åkermans">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Århus" label="Århus">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Årsskrift" label="Årsskrift">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="ÖREBRO" label="ÖREBRO">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Öjebyn" label="Öjebyn">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Örebro" label="Örebro">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="ÖresundsförbindelserBilaga B. Konsekvenserför företag" label="ÖresundsförbindelserBilaga B. Konsekvenserför företag">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Östergötland" label="Östergötland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Östergötlands" label="Östergötlands">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Österrike" label="Österrike">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Östeuropa" label="Östeuropa">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="ädling" label="ädling">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Askling" target="SOU"/>
+      <edge id="1" source="Göte Turesson." target="SOU"/>
+      <edge id="10" source="Danett" target="SOU"/>
+      <edge id="100" source="Otto Berg. Det" target="SOU"/>
+      <edge id="1000" source="Institutet för optisk forskning" target="SOU"/>
+      <edge id="1001" source="Villiam" target="SOU"/>
+      <edge id="1002" source="Nickerson" target="SOU"/>
+      <edge id="1003" source="Nygrens" target="SOU"/>
+      <edge id="1004" source="Weibull AB)" target="SOU"/>
+      <edge id="1005" source="Anders" target="SOU"/>
+      <edge id="1006" source="Edvin Sköld" target="SOU"/>
+      <edge id="1007" source="Lantbrukshögskolan" target="SOU"/>
+      <edge id="1008" source="Mellansverige" target="SOU"/>
+      <edge id="1009" source="Troedssons" target="SOU"/>
+      <edge id="101" source="Sirius" target="SOU"/>
+      <edge id="1010" source="kalles" target="SOU"/>
+      <edge id="1011" source="Sigurbjörnsson" target="SOU"/>
+      <edge id="1012" source="foster" target="SOU"/>
+      <edge id="1013" source="Jonsson" target="SOU"/>
+      <edge id="1014" source="Sören Lane" target="SOU"/>
+      <edge id="1015" source="James Mac Key:" target="SOU"/>
+      <edge id="1016" source="Ekström" target="SOU"/>
+      <edge id="1017" source="Jens Clausen," target="SOU"/>
+      <edge id="1018" source="institut för förädlingsforskutformas" target="SOU"/>
+      <edge id="1019" source="Frankrike" target="SOU"/>
+      <edge id="102" source="Bo Stockenström" target="SOU"/>
+      <edge id="1020" source="Weibullssorten" target="SOU"/>
+      <edge id="1021" source="Göte Tu50" target="SOU"/>
+      <edge id="1022" source="ställan" target="SOU"/>
+      <edge id="1023" source="citron" target="SOU"/>
+      <edge id="1024" source="Rolf Karls-" target="SOU"/>
+      <edge id="1025" source="hurtig" target="SOU"/>
+      <edge id="1026" source="Johan Rasmusson" target="SOU"/>
+      <edge id="1027" source="Henry" target="SOU"/>
+      <edge id="1028" source="Mexico" target="SOU"/>
+      <edge id="1029" source="Kalmar" target="SOU"/>
+      <edge id="103" source="Östergötlands" target="SOU"/>
+      <edge id="1030" source="Norra Götaland" target="SOU"/>
+      <edge id="1031" source="Halvor" target="SOU"/>
+      <edge id="1032" source="Västergötland" target="SOU"/>
+      <edge id="1033" source="Såväl Sveriges utsädesförening" target="SOU"/>
+      <edge id="1034" source="Thore Denward" target="SOU"/>
+      <edge id="1035" source="R. A. Fisher" target="SOU"/>
+      <edge id="1036" source="Form af Kød, Mazlk, Smør, Ost" target="SOU"/>
+      <edge id="1037" source="John Murray," target="SOU"/>
+      <edge id="1038" source="Set" target="SOU"/>
+      <edge id="1039" source="Darwin" target="SOU"/>
+      <edge id="104" source="Norden" target="SOU"/>
+      <edge id="1040" source="OECD:s" target="SOU"/>
+      <edge id="1041" source="Arne Hagberg" target="SOU"/>
+      <edge id="1042" source="Gelin" target="SOU"/>
+      <edge id="1043" source="ellers" target="SOU"/>
+      <edge id="1044" source="Åkerman" target="SOU"/>
+      <edge id="1045" source="Ellers" target="SOU"/>
+      <edge id="1046" source="Fredrik" target="SOU"/>
+      <edge id="1047" source="Weibulls" target="SOU"/>
+      <edge id="1048" source="Argentina" target="SOU"/>
+      <edge id="1049" source="Zentralinstitut" target="SOU"/>
+      <edge id="105" source="der stilles" target="SOU"/>
+      <edge id="1050" source="bering" target="SOU"/>
+      <edge id="1051" source="Rena" target="SOU"/>
+      <edge id="1052" source="Jan Boman" target="SOU"/>
+      <edge id="1053" source="Eslöv" target="SOU"/>
+      <edge id="1054" source="Maris Beacon" target="SOU"/>
+      <edge id="1055" source="Diter" target="SOU"/>
+      <edge id="1056" source="Japan" target="SOU"/>
+      <edge id="1057" source="Myrdal" target="SOU"/>
+      <edge id="1058" source="Svenska betes- och vallföreningen" target="SOU"/>
+      <edge id="1059" source="Cambridge University" target="SOU"/>
+      <edge id="106" source="Paris" target="SOU"/>
+      <edge id="1060" source="Åke Åkerman" target="SOU"/>
+      <edge id="1061" source="Clausen," target="SOU"/>
+      <edge id="1062" source="Kajsa" target="SOU"/>
+      <edge id="1063" source="Kenya" target="SOU"/>
+      <edge id="1064" source="Sverige. Till" target="SOU"/>
+      <edge id="1065" source="Johan" target="SOU"/>
+      <edge id="1066" source="Bengt Lidforss" target="SOU"/>
+      <edge id="1067" source="Vallmo" target="SOU"/>
+      <edge id="1068" source="Pinus" target="SOU"/>
+      <edge id="1069" source="Acta Agriculturae Scandinavica" target="SOU"/>
+      <edge id="107" source="Ove" target="SOU"/>
+      <edge id="1070" source="Cambridge" target="SOU"/>
+      <edge id="1071" source="Alice" target="SOU"/>
+      <edge id="1072" source="Weibullssorten" target="SOU"/>
+      <edge id="1073" source="H. Nilsson-Ehle," target="SOU"/>
+      <edge id="1074" source="Olle" target="SOU"/>
+      <edge id="1075" source="Dette" target="SOU"/>
+      <edge id="1076" source="Lennart Hjelm)" target="SOU"/>
+      <edge id="1077" source="dr. D. von Wettstein" target="SOU"/>
+      <edge id="1078" source="Adams" target="SOU"/>
+      <edge id="1079" source="Statens Kornforretning" target="SOU"/>
+      <edge id="108" source="Stig Blixt." target="SOU"/>
+      <edge id="1080" source="amerika" target="SOU"/>
+      <edge id="1081" source="Arne Müntzing:" target="SOU"/>
+      <edge id="1082" source="Utsädes AB" target="SOU"/>
+      <edge id="1083" source="Vetenskapsakademien" target="SOU"/>
+      <edge id="1084" source="vallmo" target="SOU"/>
+      <edge id="1085" source="Maris Huntsman" target="SOU"/>
+      <edge id="1086" source="D. von Wettstein" target="SOU"/>
+      <edge id="1087" source="Sköld" target="SOU"/>
+      <edge id="1088" source="Edvin Sköld" target="SOU"/>
+      <edge id="1089" source="Wang" target="SOU"/>
+      <edge id="109" source="violett" target="SOU"/>
+      <edge id="1090" source="Larsson" target="SOU"/>
+      <edge id="1091" source="Thore Denward" target="SOU"/>
+      <edge id="1092" source="Ehrenberg" target="SOU"/>
+      <edge id="1093" source="Samarbetsnämnd" target="SOU"/>
+      <edge id="1094" source="Blad" target="SOU"/>
+      <edge id="1095" source="Årsskrift" target="SOU"/>
+      <edge id="1096" source="Fredrik" target="SOU"/>
+      <edge id="1097" source="Frankrig" target="SOU"/>
+      <edge id="1098" source="Almqvist" target="SOU"/>
+      <edge id="1099" source="Bonnier" target="SOU"/>
+      <edge id="11" source="Skandinavien" target="SOU"/>
+      <edge id="110" source="Lund," target="SOU"/>
+      <edge id="1100" source="Håkan" target="SOU"/>
+      <edge id="1101" source="Johan Lindvid utsädesföreningen" target="SOU"/>
+      <edge id="1102" source="Energy Agency" target="SOU"/>
+      <edge id="1103" source="Utsädesförening" target="SOU"/>
+      <edge id="1104" source="Olof Nils(Bror Hasselrot" target="SOU"/>
+      <edge id="1105" source="piella" target="SOU"/>
+      <edge id="1106" source="Nils Heribert" target="SOU"/>
+      <edge id="1107" source="Turessons" target="SOU"/>
+      <edge id="1108" source="Paul" target="SOU"/>
+      <edge id="1109" source="Volkmar" target="SOU"/>
+      <edge id="111" source="Gari Stockholm." target="SOU"/>
+      <edge id="1110" source="Ris" target="SOU"/>
+      <edge id="1111" source="Weibull AB. Den" target="SOU"/>
+      <edge id="1112" source="Nils" target="SOU"/>
+      <edge id="1113" source="Mendels" target="SOU"/>
+      <edge id="1114" source="Italien" target="SOU"/>
+      <edge id="1115" source="Gang" target="SOU"/>
+      <edge id="1116" source="Harald Esbo" target="SOU"/>
+      <edge id="1117" source="Bolivia" target="SOU"/>
+      <edge id="1118" source="NFR:s forskargrupp" target="SOU"/>
+      <edge id="1119" source="Vall" target="SOU"/>
+      <edge id="112" source="Böhme" target="SOU"/>
+      <edge id="1120" source="Proceedings of the International" target="SOU"/>
+      <edge id="1121" source="Europa," target="SOU"/>
+      <edge id="1122" source="Nobel" target="SOU"/>
+      <edge id="1123" source="Fishers" target="SOU"/>
+      <edge id="1124" source="Scotland College of Agriculture" target="SOU"/>
+      <edge id="1125" source="Europas" target="SOU"/>
+      <edge id="1126" source="J. O. Bergstrand" target="SOU"/>
+      <edge id="1127" source="Mange" target="SOU"/>
+      <edge id="1128" source="Per-Åke" target="SOU"/>
+      <edge id="1129" source="Åke Åkerman," target="SOU"/>
+      <edge id="113" source="Melchers" target="SOU"/>
+      <edge id="1130" source="Weibull AB)" target="SOU"/>
+      <edge id="1131" source="Peta" target="SOU"/>
+      <edge id="1132" source="Geer" target="SOU"/>
+      <edge id="1133" source="Bengt" target="SOU"/>
+      <edge id="1134" source="Otto Berg. Det" target="SOU"/>
+      <edge id="1135" source="Gustafsson" target="SOU"/>
+      <edge id="1136" source="Skaraborg" target="SOU"/>
+      <edge id="1137" source="jordbruksdepartementets" target="SOU"/>
+      <edge id="1138" source="Andre" target="SOU"/>
+      <edge id="1139" source="Lindqvist" target="SOU"/>
+      <edge id="114" source="Arne Hagberg.)" target="SOU"/>
+      <edge id="1140" source="Entstehung der Kulturpflanzen." target="SOU"/>
+      <edge id="1141" source="Sverige," target="SOU"/>
+      <edge id="1142" source="Sven Linders" target="SOU"/>
+      <edge id="1143" source="Albert Levan:" target="SOU"/>
+      <edge id="1144" source="Malling" target="SOU"/>
+      <edge id="1145" source="Dorthi" target="SOU"/>
+      <edge id="1146" source="dr Sigurbjömsson" target="SOU"/>
+      <edge id="1147" source="bridge Plant Breeding" target="SOU"/>
+      <edge id="1148" source="Lars-Åke" target="SOU"/>
+      <edge id="1149" source="Lillön" target="SOU"/>
+      <edge id="115" source="Foreedlingen af Fabrikssukkerroe" target="SOU"/>
+      <edge id="1150" source="Olli Rekola. Utredrepresentant" target="SOU"/>
+      <edge id="1151" source="Weibull AB." target="SOU"/>
+      <edge id="1152" source="ädling" target="SOU"/>
+      <edge id="1153" source="Landboforeningfølgende" target="SOU"/>
+      <edge id="1154" source="Hammenhögs" target="SOU"/>
+      <edge id="1155" source="Stig Blixt." target="SOU"/>
+      <edge id="1156" source="Addis Abeba," target="SOU"/>
+      <edge id="1157" source="Sven" target="SOU"/>
+      <edge id="1158" source="Hilleshög" target="SOU"/>
+      <edge id="1159" source="Olle" target="SOU"/>
+      <edge id="116" source="Wien. Island" target="SOU"/>
+      <edge id="1160" source="inghar" target="SOU"/>
+      <edge id="1161" source="Nordamerika" target="SOU"/>
+      <edge id="1162" source="Mona" target="SOU"/>
+      <edge id="1163" source="Poa" target="SOU"/>
+      <edge id="1164" source="Camutsädesförening" target="SOU"/>
+      <edge id="1165" source="Statens Kornforretning." target="SOU"/>
+      <edge id="1166" source="H. Nilsson-Ehle," target="SOU"/>
+      <edge id="1167" source="Åkerman" target="SOU"/>
+      <edge id="1168" source="Ingrid" target="SOU"/>
+      <edge id="1169" source="Harald" target="SOU"/>
+      <edge id="117" source="Olof Langlet" target="SOU"/>
+      <edge id="1170" source="Abildgaard" target="SOU"/>
+      <edge id="1171" source="Ingvar" target="SOU"/>
+      <edge id="1172" source="Palo Alto," target="SOU"/>
+      <edge id="1173" source="Utredningsmännen," target="SOU"/>
+      <edge id="1174" source="Storvik" target="SOU"/>
+      <edge id="1175" source="kalles" target="SOU"/>
+      <edge id="1176" source="Bonniers" target="SOU"/>
+      <edge id="1177" source="Burgas" target="SOU"/>
+      <edge id="1178" source="inghar" target="SOU"/>
+      <edge id="1179" source="Johannsens" target="SOU"/>
+      <edge id="118" source="Herman Nilsson-Ehle" target="SOU"/>
+      <edge id="1180" source="Växtsortnämnden" target="SOU"/>
+      <edge id="1181" source="Institutet för tillämpad matematik" target="SOU"/>
+      <edge id="1182" source="Börje Norén." target="SOU"/>
+      <edge id="1183" source="Bengt Kihlman," target="SOU"/>
+      <edge id="1184" source="Abed" target="SOU"/>
+      <edge id="1185" source="Mexiko" target="SOU"/>
+      <edge id="1186" source="Myrdal" target="SOU"/>
+      <edge id="1187" source="Den Andel af Frøprisen." target="SOU"/>
+      <edge id="1188" source="Mac Key)" target="SOU"/>
+      <edge id="1189" source="John" target="SOU"/>
+      <edge id="119" source="Svalövsutredningen" target="SOU"/>
+      <edge id="1190" source="Lars Ehrenbergs" target="SOU"/>
+      <edge id="1191" source="D. F. Jones" target="SOU"/>
+      <edge id="1192" source="Arne Hagberg.)" target="SOU"/>
+      <edge id="1193" source="Nils Nybom," target="SOU"/>
+      <edge id="1194" source="Svante" target="SOU"/>
+      <edge id="1195" source="lantbruksuniversitetets" target="SOU"/>
+      <edge id="1196" source="Del af Forskningsmidlerne" target="SOU"/>
+      <edge id="1197" source="Herman Nilsvid Sveriges utsädesförening" target="SOU"/>
+      <edge id="1198" source="Svensk Detonikforskning" target="SOU"/>
+      <edge id="1199" source="Algot" target="SOU"/>
+      <edge id="12" source="James Mac Key" target="SOU"/>
+      <edge id="120" source="Charles Darwin. En" target="SOU"/>
+      <edge id="1200" source="Louis" target="SOU"/>
+      <edge id="121" source="Gunnar Östergren." target="SOU"/>
+      <edge id="122" source="Mendels" target="SOU"/>
+      <edge id="123" source="Set" target="SOU"/>
+      <edge id="124" source="Alnarps" target="SOU"/>
+      <edge id="125" source="C. G. Widell" target="SOU"/>
+      <edge id="126" source="Norup" target="SOU"/>
+      <edge id="127" source="Voll" target="SOU"/>
+      <edge id="128" source="Robert" target="SOU"/>
+      <edge id="129" source="James Mac Key:" target="SOU"/>
+      <edge id="13" source="Anders Elofson:" target="SOU"/>
+      <edge id="130" source="Thore" target="SOU"/>
+      <edge id="131" source="Växtförädlingsskyddsutredningen" target="SOU"/>
+      <edge id="132" source="Boberg" target="SOU"/>
+      <edge id="133" source="victorin" target="SOU"/>
+      <edge id="134" source="trenges" target="SOU"/>
+      <edge id="135" source="Socialdepartementet" target="SOU"/>
+      <edge id="136" source="Carl" target="SOU"/>
+      <edge id="137" source="Benno" target="SOU"/>
+      <edge id="138" source="Diter" target="SOU"/>
+      <edge id="139" source="Hall" target="SOU"/>
+      <edge id="14" source="Nils Nybom" target="SOU"/>
+      <edge id="140" source="Olof Nils(Bror Hasselrot" target="SOU"/>
+      <edge id="141" source="Gregor Mendels" target="SOU"/>
+      <edge id="142" source="Gustav" target="SOU"/>
+      <edge id="143" source="Åkermans" target="SOU"/>
+      <edge id="144" source="Del af Forskningsmidlerne" target="SOU"/>
+      <edge id="145" source="Addis Abeba," target="SOU"/>
+      <edge id="146" source="Sune Fröst," target="SOU"/>
+      <edge id="147" source="byggnadsstyrelsen" target="SOU"/>
+      <edge id="148" source="Bengt Lidforss”" target="SOU"/>
+      <edge id="149" source="Alfred Nobel: I" target="SOU"/>
+      <edge id="15" source="dr Sigurbjörnsson" target="SOU"/>
+      <edge id="150" source="Kerstin" target="SOU"/>
+      <edge id="151" source="Kåre" target="SOU"/>
+      <edge id="152" source="Luleå" target="SOU"/>
+      <edge id="153" source="Bertil Rasmuson," target="SOU"/>
+      <edge id="154" source="Australien" target="SOU"/>
+      <edge id="155" source="Öjebyn" target="SOU"/>
+      <edge id="156" source="Prof. von Wettstein," target="SOU"/>
+      <edge id="157" source="foster" target="SOU"/>
+      <edge id="158" source="Walter" target="SOU"/>
+      <edge id="159" source="Landskrona" target="SOU"/>
+      <edge id="16" source="Les Prix" target="SOU"/>
+      <edge id="160" source="Helge Johnsson." target="SOU"/>
+      <edge id="161" source="Einar" target="SOU"/>
+      <edge id="162" source="Wallenbergs" target="SOU"/>
+      <edge id="163" source="Florimond" target="SOU"/>
+      <edge id="164" source="af Åke Gustafsson" target="SOU"/>
+      <edge id="165" source="Wilhelm" target="SOU"/>
+      <edge id="166" source="North-Carolina" target="SOU"/>
+      <edge id="167" source="Research Institute" target="SOU"/>
+      <edge id="168" source="Svante" target="SOU"/>
+      <edge id="169" source="Lund. Institutionen" target="SOU"/>
+      <edge id="17" source="Savolax" target="SOU"/>
+      <edge id="170" source="Florimond" target="SOU"/>
+      <edge id="171" source="Edward Pollak, Oscar Kempthome" target="SOU"/>
+      <edge id="172" source="Böhme" target="SOU"/>
+      <edge id="173" source="Rosalind" target="SOU"/>
+      <edge id="174" source="stiller" target="SOU"/>
+      <edge id="175" source="Hagberg" target="SOU"/>
+      <edge id="176" source="konstant" target="SOU"/>
+      <edge id="177" source="Olof" target="SOU"/>
+      <edge id="178" source="Norman Borär CIMMYT," target="SOU"/>
+      <edge id="179" source="Larsson" target="SOU"/>
+      <edge id="18" source="Herman" target="SOU"/>
+      <edge id="180" source="Hjalmar" target="SOU"/>
+      <edge id="181" source="Neergaard" target="SOU"/>
+      <edge id="182" source="Weibull ÄB" target="SOU"/>
+      <edge id="183" source="Stockholms" target="SOU"/>
+      <edge id="184" source="Syrien" target="SOU"/>
+      <edge id="185" source="dr Ingvar Gransom" target="SOU"/>
+      <edge id="186" source="Glenn T." target="SOU"/>
+      <edge id="187" source="Campbell" target="SOU"/>
+      <edge id="188" source="Stockholm" target="SOU"/>
+      <edge id="189" source="dr. D. von Wettstein" target="SOU"/>
+      <edge id="19" source="Del af Forskningsget af Opgaver" target="SOU"/>
+      <edge id="190" source="stemmes" target="SOU"/>
+      <edge id="191" source="Albert Levans" target="SOU"/>
+      <edge id="192" source="Wibergs" target="SOU"/>
+      <edge id="193" source="Leif Poll" target="SOU"/>
+      <edge id="194" source="Jylland," target="SOU"/>
+      <edge id="195" source="Åke Gustafsson" target="SOU"/>
+      <edge id="196" source="Hammen" target="SOU"/>
+      <edge id="197" source="CarlsbergDiter von Wettstein," target="SOU"/>
+      <edge id="198" source="Marianne" target="SOU"/>
+      <edge id="199" source="kroner" target="SOU"/>
+      <edge id="2" source="Skara" target="SOU"/>
+      <edge id="20" source="Göteborg" target="SOU"/>
+      <edge id="200" source="Sveriges utsädesförening" target="SOU"/>
+      <edge id="201" source="Wilhelm" target="SOU"/>
+      <edge id="202" source="Evas" target="SOU"/>
+      <edge id="203" source="Finland" target="SOU"/>
+      <edge id="204" source="Åkerberg" target="SOU"/>
+      <edge id="205" source="Byggnadsstyrelsens" target="SOU"/>
+      <edge id="206" source="Selma" target="SOU"/>
+      <edge id="207" source="Håkan Boberg" target="SOU"/>
+      <edge id="208" source="Håkan Boberg" target="SOU"/>
+      <edge id="209" source="Henry Gusavdelningschefen" target="SOU"/>
+      <edge id="21" source="Birger" target="SOU"/>
+      <edge id="210" source="München" target="SOU"/>
+      <edge id="211" source="Nygrens" target="SOU"/>
+      <edge id="212" source="Evas" target="SOU"/>
+      <edge id="213" source="Alnarp" target="SOU"/>
+      <edge id="214" source="Walter" target="SOU"/>
+      <edge id="215" source="Ringsjön" target="SOU"/>
+      <edge id="216" source="Edda II" target="SOU"/>
+      <edge id="217" source="Side" target="SOU"/>
+      <edge id="218" source="Jens" target="SOU"/>
+      <edge id="219" source="W. Johannsen." target="SOU"/>
+      <edge id="22" source="ÖREBRO" target="SOU"/>
+      <edge id="220" source="Stig" target="SOU"/>
+      <edge id="221" source="Gösta Netzén" target="SOU"/>
+      <edge id="222" source="stemmes" target="SOU"/>
+      <edge id="223" source="Boberg" target="SOU"/>
+      <edge id="224" source="Nybom" target="SOU"/>
+      <edge id="225" source="LILLERUD" target="SOU"/>
+      <edge id="226" source="Gregor Mendels" target="SOU"/>
+      <edge id="227" source="Heimo" target="SOU"/>
+      <edge id="228" source="Ris" target="SOU"/>
+      <edge id="229" source="Lars" target="SOU"/>
+      <edge id="23" source="Lennart" target="SOU"/>
+      <edge id="230" source="Erik" target="SOU"/>
+      <edge id="231" source="Ehle" target="SOU"/>
+      <edge id="232" source="Föreningen" target="SOU"/>
+      <edge id="233" source="John" target="SOU"/>
+      <edge id="234" source="Plant Breeding. National Academy of Scienpropagated" target="SOU"/>
+      <edge id="235" source="Nils Heriben" target="SOU"/>
+      <edge id="236" source="Universitetet" target="SOU"/>
+      <edge id="237" source="Sam Norup" target="SOU"/>
+      <edge id="238" source="Landboforeningfølgende" target="SOU"/>
+      <edge id="239" source="June" target="SOU"/>
+      <edge id="24" source="Tage Eriksson.)" target="SOU"/>
+      <edge id="240" source="Arne" target="SOU"/>
+      <edge id="241" source="statens skogsforskningsinstitut" target="SOU"/>
+      <edge id="242" source="Valg af Opgaver." target="SOU"/>
+      <edge id="243" source="Svante Lundkvist" target="SOU"/>
+      <edge id="244" source="Ingvar" target="SOU"/>
+      <edge id="245" source="Lars Ehrenberg" target="SOU"/>
+      <edge id="246" source="Balsgårdsinstitutet" target="SOU"/>
+      <edge id="247" source="United States" target="SOU"/>
+      <edge id="248" source="Rolf Karls-" target="SOU"/>
+      <edge id="249" source="Bangladesh" target="SOU"/>
+      <edge id="25" source="korners" target="SOU"/>
+      <edge id="250" source="Ehrenberg" target="SOU"/>
+      <edge id="251" source="Ulf Thorselius" target="SOU"/>
+      <edge id="252" source="A. Ashri," target="SOU"/>
+      <edge id="253" source="Göran" target="SOU"/>
+      <edge id="254" source="Abed" target="SOU"/>
+      <edge id="255" source="uppland" target="SOU"/>
+      <edge id="256" source="Nils Sylvén:" target="SOU"/>
+      <edge id="257" source="Malmöhus" target="SOU"/>
+      <edge id="258" source="Herbert" target="SOU"/>
+      <edge id="259" source="Emil Johansson" target="SOU"/>
+      <edge id="26" source="Balsgård," target="SOU"/>
+      <edge id="260" source="Lars-Åke" target="SOU"/>
+      <edge id="261" source="Centrum för forskning hos" target="SOU"/>
+      <edge id="262" source="Röutsädesföreningen" target="SOU"/>
+      <edge id="263" source="Liberia" target="SOU"/>
+      <edge id="264" source="Dreyfus" target="SOU"/>
+      <edge id="265" source="Side af Frøproduktionen," target="SOU"/>
+      <edge id="266" source="C. G. Widell" target="SOU"/>
+      <edge id="267" source="Jordbruksdepartementet" target="SOU"/>
+      <edge id="268" source="Björck" target="SOU"/>
+      <edge id="269" source="Bengt Lidforss" target="SOU"/>
+      <edge id="27" source="Agri" target="SOU"/>
+      <edge id="270" source="USA" target="SOU"/>
+      <edge id="271" source="Norman" target="SOU"/>
+      <edge id="272" source="August" target="SOU"/>
+      <edge id="273" source="Fredrik Nilsson" target="SOU"/>
+      <edge id="274" source="Jörgen Weibull." target="SOU"/>
+      <edge id="275" source="Levan" target="SOU"/>
+      <edge id="276" source="institut för kulturväxnämnas" target="SOU"/>
+      <edge id="277" source="Semi-Arid Tropics)" target="SOU"/>
+      <edge id="278" source="Henry Gusavdelningschefen" target="SOU"/>
+      <edge id="279" source="Wilhelm Johannsen." target="SOU"/>
+      <edge id="28" source="andra världskriget" target="SOU"/>
+      <edge id="280" source="Amerika" target="SOU"/>
+      <edge id="281" source="kroner" target="SOU"/>
+      <edge id="282" source="Erwin" target="SOU"/>
+      <edge id="283" source="Alice" target="SOU"/>
+      <edge id="284" source="Francis Crick" target="SOU"/>
+      <edge id="285" source="Institutionen för skogsgenetik: Rapporter" target="SOU"/>
+      <edge id="286" source="Svenska Silikatforskningsinstitutet" target="SOU"/>
+      <edge id="287" source="universitetet" target="SOU"/>
+      <edge id="288" source="trenges" target="SOU"/>
+      <edge id="289" source="Aurora" target="SOU"/>
+      <edge id="29" source="Olof Langlet" target="SOU"/>
+      <edge id="290" source="Entstehung der Kulturpflanzen." target="SOU"/>
+      <edge id="291" source="Svenska" target="SOU"/>
+      <edge id="292" source="Bengt Kihlman" target="SOU"/>
+      <edge id="293" source="Åkerman," target="SOU"/>
+      <edge id="294" source="Erik" target="SOU"/>
+      <edge id="295" source="akademien" target="SOU"/>
+      <edge id="296" source="Björn" target="SOU"/>
+      <edge id="297" source="Ellers" target="SOU"/>
+      <edge id="298" source="toriet" target="SOU"/>
+      <edge id="299" source="Larsen-Petersen" target="SOU"/>
+      <edge id="3" source="Umeå" target="SOU"/>
+      <edge id="30" source="Lunds universitet" target="SOU"/>
+      <edge id="300" source="Indonesien" target="SOU"/>
+      <edge id="301" source="Tyskland" target="SOU"/>
+      <edge id="302" source="ZüchtungsforKaiser Wilhelm-Institut" target="SOU"/>
+      <edge id="303" source="Jens Clausen," target="SOU"/>
+      <edge id="304" source="Björck" target="SOU"/>
+      <edge id="305" source="Holmberg" target="SOU"/>
+      <edge id="306" source="Spanien" target="SOU"/>
+      <edge id="307" source="Lundkvist" target="SOU"/>
+      <edge id="308" source="Kristianstads" target="SOU"/>
+      <edge id="309" source="Green Revolution," target="SOU"/>
+      <edge id="31" source="Sigvard Mejejämte" target="SOU"/>
+      <edge id="310" source="HelSkåne-Hallands" target="SOU"/>
+      <edge id="311" source="Fajer Fajersson," target="SOU"/>
+      <edge id="312" source="Ljung" target="SOU"/>
+      <edge id="313" source="Hankkija" target="SOU"/>
+      <edge id="314" source="Pariskonventionen" target="SOU"/>
+      <edge id="315" source="Olof" target="SOU"/>
+      <edge id="316" source="majsen" target="SOU"/>
+      <edge id="317" source="Svalöv." target="SOU"/>
+      <edge id="318" source="Nybom" target="SOU"/>
+      <edge id="319" source="lantbruksuniversitetet" target="SOU"/>
+      <edge id="32" source="Hammenhög" target="SOU"/>
+      <edge id="320" source="Danmarks" target="SOU"/>
+      <edge id="321" source="Turesson" target="SOU"/>
+      <edge id="322" source="Hereditas" target="SOU"/>
+      <edge id="323" source="Nilssons" target="SOU"/>
+      <edge id="324" source="Hjalmar Nilsson" target="SOU"/>
+      <edge id="325" source="Helge Johnsson." target="SOU"/>
+      <edge id="326" source="Rockefeller" target="SOU"/>
+      <edge id="327" source="Almqvist &amp; Wiksell." target="SOU"/>
+      <edge id="328" source="Ekström" target="SOU"/>
+      <edge id="329" source="Schweiz" target="SOU"/>
+      <edge id="33" source="Atom-Energi-kommissionen" target="SOU"/>
+      <edge id="330" source="Hanssons" target="SOU"/>
+      <edge id="331" source="Bengt" target="SOU"/>
+      <edge id="332" source="Harald" target="SOU"/>
+      <edge id="333" source="Tidutsädesförening" target="SOU"/>
+      <edge id="334" source="Statens Alm." target="SOU"/>
+      <edge id="335" source="Anders" target="SOU"/>
+      <edge id="336" source="North-Carolina" target="SOU"/>
+      <edge id="337" source="Maris Huntsman" target="SOU"/>
+      <edge id="338" source="Herr Harry Weibull" target="SOU"/>
+      <edge id="339" source="Müntzings" target="SOU"/>
+      <edge id="34" source="Mac Key" target="SOU"/>
+      <edge id="340" source="Pinus" target="SOU"/>
+      <edge id="341" source="W. Weibull" target="SOU"/>
+      <edge id="342" source="Walter. Harry och William Weibull" target="SOU"/>
+      <edge id="343" source="Per-Erik" target="SOU"/>
+      <edge id="344" source="Forskningsrådet" target="SOU"/>
+      <edge id="345" source="Board of Health.)" target="SOU"/>
+      <edge id="346" source="Müntzings" target="SOU"/>
+      <edge id="347" source="Ehle" target="SOU"/>
+      <edge id="348" source="Gert" target="SOU"/>
+      <edge id="349" source="H. F. Robinson" target="SOU"/>
+      <edge id="35" source="Valget af Opgaver" target="SOU"/>
+      <edge id="350" source="Rom" target="SOU"/>
+      <edge id="351" source="Hilleshögs Frö AB" target="SOU"/>
+      <edge id="352" source="Risinstitut" target="SOU"/>
+      <edge id="353" source="Gösta" target="SOU"/>
+      <edge id="354" source="Ijubileumsskriften" target="SOU"/>
+      <edge id="355" source="Karl Pearson" target="SOU"/>
+      <edge id="356" source="Bengt Kihlman" target="SOU"/>
+      <edge id="357" source="Tidskrift" target="SOU"/>
+      <edge id="358" source="Tellus" target="SOU"/>
+      <edge id="359" source="IAEA" target="SOU"/>
+      <edge id="36" source="Sirius" target="SOU"/>
+      <edge id="360" source="Hans Rasmuson" target="SOU"/>
+      <edge id="361" source="Lund, utsädesföreningen" target="SOU"/>
+      <edge id="362" source="Stemme" target="SOU"/>
+      <edge id="363" source="Ingvar Granhall" target="SOU"/>
+      <edge id="364" source="Sam" target="SOU"/>
+      <edge id="365" source="Mac Key" target="SOU"/>
+      <edge id="366" source="Lund-Alnarp" target="SOU"/>
+      <edge id="367" source="Södra Götaland" target="SOU"/>
+      <edge id="368" source="Omszetning af Frø af Foder-" target="SOU"/>
+      <edge id="369" source="Sävar" target="SOU"/>
+      <edge id="37" source="Lock" target="SOU"/>
+      <edge id="370" source="Jörgensens" target="SOU"/>
+      <edge id="371" source="Foraedling af Køkkenurter" target="SOU"/>
+      <edge id="372" source="Alfred Nobel: I" target="SOU"/>
+      <edge id="373" source="Lantbruksuniversitetet" target="SOU"/>
+      <edge id="374" source="Europa" target="SOU"/>
+      <edge id="375" source="Heribert" target="SOU"/>
+      <edge id="376" source="dr Sigurbjörnsson" target="SOU"/>
+      <edge id="377" source="Hernfrid" target="SOU"/>
+      <edge id="378" source="Erik W. Ljung." target="SOU"/>
+      <edge id="379" source="Lars Ehrenuniversitet," target="SOU"/>
+      <edge id="38" source="F. Oehlkers," target="SOU"/>
+      <edge id="380" source="Sigvard Mejejämte" target="SOU"/>
+      <edge id="381" source="Erik Åkerberg" target="SOU"/>
+      <edge id="382" source="Einar" target="SOU"/>
+      <edge id="383" source="Filippinerna" target="SOU"/>
+      <edge id="384" source="Almqvist" target="SOU"/>
+      <edge id="385" source="violett" target="SOU"/>
+      <edge id="386" source="H." target="SOU"/>
+      <edge id="387" source="skåneregionen" target="SOU"/>
+      <edge id="388" source="Göran" target="SOU"/>
+      <edge id="389" source="bering" target="SOU"/>
+      <edge id="39" source="Landbrugs" target="SOU"/>
+      <edge id="390" source="Askling" target="SOU"/>
+      <edge id="391" source="C. E. J. Johansson" target="SOU"/>
+      <edge id="392" source="R. A. Fisher" target="SOU"/>
+      <edge id="393" source="Wien" target="SOU"/>
+      <edge id="394" source="Förenta Nationernas livsmedelskonferens" target="SOU"/>
+      <edge id="395" source="Sydamerika" target="SOU"/>
+      <edge id="396" source="exportrådets" target="SOU"/>
+      <edge id="397" source="Valg af Opgaver." target="SOU"/>
+      <edge id="398" source="Karl Pearson" target="SOU"/>
+      <edge id="399" source="Kerstin" target="SOU"/>
+      <edge id="4" source="dr Sigurbjömsson" target="SOU"/>
+      <edge id="40" source="Mexicos" target="SOU"/>
+      <edge id="400" source="Holt" target="SOU"/>
+      <edge id="401" source="Fajer Fajers-" target="SOU"/>
+      <edge id="402" source="Handbuch der Pflanzenzüchtung" target="SOU"/>
+      <edge id="403" source="Organizing Committee for the" target="SOU"/>
+      <edge id="404" source="Statens råd" target="SOU"/>
+      <edge id="405" source="WARDA" target="SOU"/>
+      <edge id="406" source="Alice Wallenbergs" target="SOU"/>
+      <edge id="407" source="Arne Müntzing" target="SOU"/>
+      <edge id="408" source="Larsen-Petersen" target="SOU"/>
+      <edge id="409" source="R. A. H. Magnusson" target="SOU"/>
+      <edge id="41" source="Larssons" target="SOU"/>
+      <edge id="410" source="Jonsson" target="SOU"/>
+      <edge id="411" source="Klaas Tjebbes." target="SOU"/>
+      <edge id="412" source="Institutet för mikrovågsteknik" target="SOU"/>
+      <edge id="413" source="nativa" target="SOU"/>
+      <edge id="414" source="Foraedling af Landbrugsplanter" target="SOU"/>
+      <edge id="415" source="stille" target="SOU"/>
+      <edge id="416" source="Weibull AB:s" target="SOU"/>
+      <edge id="417" source="Vilhelm" target="SOU"/>
+      <edge id="418" source="stille" target="SOU"/>
+      <edge id="419" source="James Mac Key" target="SOU"/>
+      <edge id="42" source="Sigurbjörnsson" target="SOU"/>
+      <edge id="420" source="akademiens" target="SOU"/>
+      <edge id="421" source="Kalb Ag Research." target="SOU"/>
+      <edge id="422" source="Wilhelm Joframgår" target="SOU"/>
+      <edge id="423" source="sisten" target="SOU"/>
+      <edge id="424" source="Palo Alto," target="SOU"/>
+      <edge id="425" source="Sverige. Två" target="SOU"/>
+      <edge id="426" source="Gang" target="SOU"/>
+      <edge id="427" source="Asien" target="SOU"/>
+      <edge id="428" source="Ashton" target="SOU"/>
+      <edge id="429" source="Hermes" target="SOU"/>
+      <edge id="43" source="STOCKHOLM" target="SOU"/>
+      <edge id="430" source="Hammen" target="SOU"/>
+      <edge id="431" source="WARDA" target="SOU"/>
+      <edge id="432" source="Hagbergs" target="SOU"/>
+      <edge id="433" source="New Zealand" target="SOU"/>
+      <edge id="434" source="Svalövs" target="SOU"/>
+      <edge id="435" source="Holland)." target="SOU"/>
+      <edge id="436" source="Förpackningsforskningsinstitutet" target="SOU"/>
+      <edge id="437" source="Del af Forskog Rodfrugter," target="SOU"/>
+      <edge id="438" source="Cardo" target="SOU"/>
+      <edge id="439" source="Francis Galton" target="SOU"/>
+      <edge id="44" source="N. I. Vavilov." target="SOU"/>
+      <edge id="440" source="Allan Nordenstam," target="SOU"/>
+      <edge id="441" source="Roger Mossberg." target="SOU"/>
+      <edge id="442" source="Plant-Breeding. XVI, Band" target="SOU"/>
+      <edge id="443" source="Robert" target="SOU"/>
+      <edge id="444" source="Marianne" target="SOU"/>
+      <edge id="445" source="Fisher" target="SOU"/>
+      <edge id="446" source="Semi-Arid Tropics)" target="SOU"/>
+      <edge id="447" source="Hansson" target="SOU"/>
+      <edge id="448" source="LILLERUD" target="SOU"/>
+      <edge id="449" source="danner" target="SOU"/>
+      <edge id="45" source="Doll" target="SOU"/>
+      <edge id="450" source="John Murray," target="SOU"/>
+      <edge id="451" source="Rasmuson" target="SOU"/>
+      <edge id="452" source="Gert" target="SOU"/>
+      <edge id="453" source="Mac Key, J." target="SOU"/>
+      <edge id="454" source="Rosalind" target="SOU"/>
+      <edge id="455" source="Vall" target="SOU"/>
+      <edge id="456" source="Klaas Tjebbes." target="SOU"/>
+      <edge id="457" source="Nederländerna" target="SOU"/>
+      <edge id="458" source="Gummitekniska institutet" target="SOU"/>
+      <edge id="459" source="citron" target="SOU"/>
+      <edge id="46" source="Darwin" target="SOU"/>
+      <edge id="460" source="Rasmussons" target="SOU"/>
+      <edge id="461" source="Danmark" target="SOU"/>
+      <edge id="462" source="Klaas Tjebbes" target="SOU"/>
+      <edge id="463" source="u-länder" target="SOU"/>
+      <edge id="464" source="Originalutsädesnämnden" target="SOU"/>
+      <edge id="465" source="Ikke" target="SOU"/>
+      <edge id="466" source="Sören Ekström," target="SOU"/>
+      <edge id="467" source="korners" target="SOU"/>
+      <edge id="468" source="Albert Levan.)" target="SOU"/>
+      <edge id="469" source="Carl Gunnar" target="SOU"/>
+      <edge id="47" source="Skive af Pajbjergfonden." target="SOU"/>
+      <edge id="470" source="E. Baur" target="SOU"/>
+      <edge id="471" source="Andel af Foraedlerafgiften," target="SOU"/>
+      <edge id="472" source="Norstedts" target="SOU"/>
+      <edge id="473" source="Åkerman," target="SOU"/>
+      <edge id="474" source="Österrike" target="SOU"/>
+      <edge id="475" source="Blad" target="SOU"/>
+      <edge id="476" source="Palo Alto, Calif.," target="SOU"/>
+      <edge id="477" source="FAO/IAEA" target="SOU"/>
+      <edge id="478" source="Geneve" target="SOU"/>
+      <edge id="479" source="H." target="SOU"/>
+      <edge id="48" source="Glenn T." target="SOU"/>
+      <edge id="480" source="Uppsala" target="SOU"/>
+      <edge id="481" source="Landboog" target="SOU"/>
+      <edge id="482" source="Palo Alto, Calif.," target="SOU"/>
+      <edge id="483" source="Göte Tu50" target="SOU"/>
+      <edge id="484" source="Säby" target="SOU"/>
+      <edge id="485" source="Aurora" target="SOU"/>
+      <edge id="486" source="riksdagens" target="SOU"/>
+      <edge id="487" source="Weibull AB. Utsästörsta" target="SOU"/>
+      <edge id="488" source="Procent af Landbrugshvilket" target="SOU"/>
+      <edge id="489" source="Landboog" target="SOU"/>
+      <edge id="49" source="Harald Esbo" target="SOU"/>
+      <edge id="490" source="Troedssons" target="SOU"/>
+      <edge id="491" source="Island" target="SOU"/>
+      <edge id="492" source="Frits Went" target="SOU"/>
+      <edge id="493" source="Claes" target="SOU"/>
+      <edge id="494" source="Knut" target="SOU"/>
+      <edge id="495" source="sistens" target="SOU"/>
+      <edge id="496" source="Rockefeller" target="SOU"/>
+      <edge id="497" source="dr Ingvar Gransom" target="SOU"/>
+      <edge id="498" source="Hushållningssällskap" target="SOU"/>
+      <edge id="499" source="Hilleshögsinstitutet" target="SOU"/>
+      <edge id="5" source="Svalöf" target="SOU"/>
+      <edge id="50" source="Sören Lane" target="SOU"/>
+      <edge id="500" source="Århus" target="SOU"/>
+      <edge id="501" source="Heribert" target="SOU"/>
+      <edge id="502" source="Göte Turesson" target="SOU"/>
+      <edge id="503" source="Svalöv" target="SOU"/>
+      <edge id="504" source="Weibull" target="SOU"/>
+      <edge id="505" source="Lüning" target="SOU"/>
+      <edge id="506" source="Norrbotten" target="SOU"/>
+      <edge id="507" source="linden" target="SOU"/>
+      <edge id="508" source="Fishers" target="SOU"/>
+      <edge id="509" source="första världskrigets" target="SOU"/>
+      <edge id="51" source="Bent Søgaard," target="SOU"/>
+      <edge id="510" source="Weibull." target="SOU"/>
+      <edge id="511" source="Hagberg" target="SOU"/>
+      <edge id="512" source="Iantbruksförbundet" target="SOU"/>
+      <edge id="513" source="Albert Levan:" target="SOU"/>
+      <edge id="514" source="Curly" target="SOU"/>
+      <edge id="515" source="Larssons" target="SOU"/>
+      <edge id="516" source="Turesson" target="SOU"/>
+      <edge id="517" source="Løsning af Spørgsmaal" target="SOU"/>
+      <edge id="518" source="stiller" target="SOU"/>
+      <edge id="519" source="N.I." target="SOU"/>
+      <edge id="52" source="Alice Wallenbergs" target="SOU"/>
+      <edge id="520" source="Gelin" target="SOU"/>
+      <edge id="521" source="dr Björn" target="SOU"/>
+      <edge id="522" source="Hansson" target="SOU"/>
+      <edge id="523" source="Arne Lundqvist" target="SOU"/>
+      <edge id="524" source="riksdagen" target="SOU"/>
+      <edge id="525" source="Dette" target="SOU"/>
+      <edge id="526" source="Albert Levans" target="SOU"/>
+      <edge id="527" source="Arne Müntzing" target="SOU"/>
+      <edge id="528" source="Norge" target="SOU"/>
+      <edge id="529" source="Lantbruksuniversitetets" target="SOU"/>
+      <edge id="53" source="Nilsson" target="SOU"/>
+      <edge id="530" source="Villiam" target="SOU"/>
+      <edge id="531" source="Jörgensens" target="SOU"/>
+      <edge id="532" source="Valget af Opgaver" target="SOU"/>
+      <edge id="533" source="C. E. J. Johansson" target="SOU"/>
+      <edge id="534" source="Doll" target="SOU"/>
+      <edge id="535" source="Svenska vatten- och avloppsverksföreningen" target="SOU"/>
+      <edge id="536" source="Texas" target="SOU"/>
+      <edge id="537" source="Kairo" target="SOU"/>
+      <edge id="538" source="E. Baur" target="SOU"/>
+      <edge id="539" source="USA:s regering" target="SOU"/>
+      <edge id="54" source="Gunnar" target="SOU"/>
+      <edge id="540" source="Agri" target="SOU"/>
+      <edge id="541" source="Nils Heriben" target="SOU"/>
+      <edge id="542" source="Johan Rasmusson" target="SOU"/>
+      <edge id="543" source="Nils Nybom," target="SOU"/>
+      <edge id="544" source="Julén" target="SOU"/>
+      <edge id="545" source="Mona" target="SOU"/>
+      <edge id="546" source="POLCIRKELN" target="SOU"/>
+      <edge id="547" source="Håkan" target="SOU"/>
+      <edge id="548" source="Clausen" target="SOU"/>
+      <edge id="549" source="Ohlsens Enke AS. Ett" target="SOU"/>
+      <edge id="55" source="tillen" target="SOU"/>
+      <edge id="550" source="D. F. Jones" target="SOU"/>
+      <edge id="551" source="Rice" target="SOU"/>
+      <edge id="552" source="tillen" target="SOU"/>
+      <edge id="553" source="veterinärhögskolan" target="SOU"/>
+      <edge id="554" source="Nils Heribert" target="SOU"/>
+      <edge id="555" source="USA:s" target="SOU"/>
+      <edge id="556" source="Linders" target="SOU"/>
+      <edge id="557" source="Weibull ÄB" target="SOU"/>
+      <edge id="558" source="Nordens" target="SOU"/>
+      <edge id="559" source="Lars Ehrenuniversitet," target="SOU"/>
+      <edge id="56" source="Edda II" target="SOU"/>
+      <edge id="560" source="Holmberg" target="SOU"/>
+      <edge id="561" source="Nils" target="SOU"/>
+      <edge id="562" source="Hilleshögs-institutionen" target="SOU"/>
+      <edge id="563" source="Svenska Textilforskningsinstitutet" target="SOU"/>
+      <edge id="564" source="H. F. Robinson" target="SOU"/>
+      <edge id="565" source="W. Weibull AB" target="SOU"/>
+      <edge id="566" source="Mac Key. J." target="SOU"/>
+      <edge id="567" source="Jaakko" target="SOU"/>
+      <edge id="568" source="Göte Turesson" target="SOU"/>
+      <edge id="569" source="Nils Nybom" target="SOU"/>
+      <edge id="57" source="Alaska" target="SOU"/>
+      <edge id="570" source="Rice Improveand Barley Improvement" target="SOU"/>
+      <edge id="571" source="Solna" target="SOU"/>
+      <edge id="572" source="Sammed utsädesföreningen" target="SOU"/>
+      <edge id="573" source="Rice Research" target="SOU"/>
+      <edge id="574" source="dr Kjell" target="SOU"/>
+      <edge id="575" source="Värmlands" target="SOU"/>
+      <edge id="576" source="Åke Åkerman" target="SOU"/>
+      <edge id="577" source="Ramel" target="SOU"/>
+      <edge id="578" source="Lund" target="SOU"/>
+      <edge id="579" source="Jörgen Weibull. Falkenberg:" target="SOU"/>
+      <edge id="58" source="Müntzing" target="SOU"/>
+      <edge id="580" source="Ingvar Granhall" target="SOU"/>
+      <edge id="581" source="Söner AB" target="SOU"/>
+      <edge id="582" source="OECD" target="SOU"/>
+      <edge id="583" source="sistens" target="SOU"/>
+      <edge id="584" source="Rice" target="SOU"/>
+      <edge id="585" source="ÖresundsförbindelserBilaga B. Konsekvenserför företag" target="SOU"/>
+      <edge id="586" source="Populärtidskrifter" target="SOU"/>
+      <edge id="587" source="Varia" target="SOU"/>
+      <edge id="588" source="Göta" target="SOU"/>
+      <edge id="589" source="Nororganisationen" target="SOU"/>
+      <edge id="59" source="STU-kommittén" target="SOU"/>
+      <edge id="590" source="Ashton" target="SOU"/>
+      <edge id="591" source="Darwins" target="SOU"/>
+      <edge id="592" source="bridge Plant Breeding" target="SOU"/>
+      <edge id="593" source="Procent af Landbrugshvilket" target="SOU"/>
+      <edge id="594" source="Korrosionsinstitutet" target="SOU"/>
+      <edge id="595" source="Sverige" target="SOU"/>
+      <edge id="596" source="Inc/Ian" target="SOU"/>
+      <edge id="597" source="Inc/Ian" target="SOU"/>
+      <edge id="598" source="Centre for Africa)" target="SOU"/>
+      <edge id="599" source="Walfrid" target="SOU"/>
+      <edge id="6" source="Hallands" target="SOU"/>
+      <edge id="60" source="Erik Dahl" target="SOU"/>
+      <edge id="600" source="Walker" target="SOU"/>
+      <edge id="601" source="Rasmuson" target="SOU"/>
+      <edge id="602" source="Mendel" target="SOU"/>
+      <edge id="603" source="Kajsa" target="SOU"/>
+      <edge id="604" source="Gregor" target="SOU"/>
+      <edge id="605" source="Clement" target="SOU"/>
+      <edge id="606" source="Sören" target="SOU"/>
+      <edge id="607" source="Taastrup" target="SOU"/>
+      <edge id="608" source="Gösta" target="SOU"/>
+      <edge id="609" source="Götaland" target="SOU"/>
+      <edge id="61" source="Thore" target="SOU"/>
+      <edge id="610" source="Riksdagen" target="SOU"/>
+      <edge id="611" source="Sven Linders" target="SOU"/>
+      <edge id="612" source="Carsom" target="SOU"/>
+      <edge id="613" source="Volkmar" target="SOU"/>
+      <edge id="614" source="R. Mansfeld" target="SOU"/>
+      <edge id="615" source="Maurice Wilkins" target="SOU"/>
+      <edge id="616" source="engineering" target="SOU"/>
+      <edge id="617" source="danner" target="SOU"/>
+      <edge id="618" source="Norup" target="SOU"/>
+      <edge id="619" source="Fajer Fajersson," target="SOU"/>
+      <edge id="62" source="Portugal" target="SOU"/>
+      <edge id="620" source="Prof. von Wettstein," target="SOU"/>
+      <edge id="621" source="Løsning af Spørgsmaal" target="SOU"/>
+      <edge id="622" source="Fajer Fajers-" target="SOU"/>
+      <edge id="623" source="Arne" target="SOU"/>
+      <edge id="624" source="Wien," target="SOU"/>
+      <edge id="625" source="Tellus" target="SOU"/>
+      <edge id="626" source="Handelsdepartementet" target="SOU"/>
+      <edge id="627" source="Per-Erik" target="SOU"/>
+      <edge id="628" source="Milano" target="SOU"/>
+      <edge id="629" source="Sverispecialisering" target="SOU"/>
+      <edge id="63" source="Hagbergs" target="SOU"/>
+      <edge id="630" source="Weibull AB." target="SOU"/>
+      <edge id="631" source="Nilsson" target="SOU"/>
+      <edge id="632" source="Utredningsmännen," target="SOU"/>
+      <edge id="633" source="Charles Darwin. En" target="SOU"/>
+      <edge id="634" source="Hernfrid" target="SOU"/>
+      <edge id="635" source="svenska utsädesaktiebolautsädesförening" target="SOU"/>
+      <edge id="636" source="Walfrid" target="SOU"/>
+      <edge id="637" source="Sam" target="SOU"/>
+      <edge id="638" source="Mac Key, J." target="SOU"/>
+      <edge id="639" source="Arne Lundqvist" target="SOU"/>
+      <edge id="64" source="Tage Eriksson.)" target="SOU"/>
+      <edge id="640" source="K. G. Lüning" target="SOU"/>
+      <edge id="641" source="Holt" target="SOU"/>
+      <edge id="642" source="ställan" target="SOU"/>
+      <edge id="643" source="rammer" target="SOU"/>
+      <edge id="644" source="J. O. Bergstrand" target="SOU"/>
+      <edge id="645" source="För AllmänW. Weibull AB" target="SOU"/>
+      <edge id="646" source="Konstans" target="SOU"/>
+      <edge id="647" source="Svalöv. Föreningen" target="SOU"/>
+      <edge id="648" source="Theodore B. Baigerad" target="SOU"/>
+      <edge id="649" source="R. A. H. Magnusson" target="SOU"/>
+      <edge id="65" source="F. Oehlkers," target="SOU"/>
+      <edge id="650" source="Hans Rasmuson" target="SOU"/>
+      <edge id="651" source="Åke Åkerman," target="SOU"/>
+      <edge id="652" source="victorin" target="SOU"/>
+      <edge id="653" source="universitetets" target="SOU"/>
+      <edge id="654" source="Side af Frøproduktionen," target="SOU"/>
+      <edge id="655" source="Weibullsbör nämnden" target="SOU"/>
+      <edge id="656" source="Japans" target="SOU"/>
+      <edge id="657" source="Frits Went" target="SOU"/>
+      <edge id="658" source="Almqvist &amp; Wiksell." target="SOU"/>
+      <edge id="659" source="Clausen," target="SOU"/>
+      <edge id="66" source="Sydafrika" target="SOU"/>
+      <edge id="660" source="Norrbottens" target="SOU"/>
+      <edge id="661" source="Lennart" target="SOU"/>
+      <edge id="662" source="Müntzing" target="SOU"/>
+      <edge id="663" source="Algot" target="SOU"/>
+      <edge id="664" source="Adams" target="SOU"/>
+      <edge id="665" source="Gustafsson" target="SOU"/>
+      <edge id="666" source="Mange" target="SOU"/>
+      <edge id="667" source="Micke" target="SOU"/>
+      <edge id="668" source="Chile" target="SOU"/>
+      <edge id="669" source="Poa" target="SOU"/>
+      <edge id="67" source="New Scientist" target="SOU"/>
+      <edge id="670" source="Lars" target="SOU"/>
+      <edge id="671" source="Weibullsholms" target="SOU"/>
+      <edge id="672" source="Erik Dahl" target="SOU"/>
+      <edge id="673" source="Cardo AB" target="SOU"/>
+      <edge id="674" source="Roger Mossberg." target="SOU"/>
+      <edge id="675" source="Iran" target="SOU"/>
+      <edge id="676" source="England" target="SOU"/>
+      <edge id="677" source="Weibull AB. Den" target="SOU"/>
+      <edge id="678" source="Kalb Ag Research." target="SOU"/>
+      <edge id="679" source="Frö AB. Företaget" target="SOU"/>
+      <edge id="68" source="Svante Lundkvist" target="SOU"/>
+      <edge id="680" source="Claes" target="SOU"/>
+      <edge id="681" source="Umeåkommitté" target="SOU"/>
+      <edge id="682" source="Albert Levan.)" target="SOU"/>
+      <edge id="683" source="Mendel" target="SOU"/>
+      <edge id="684" source="Bonnier" target="SOU"/>
+      <edge id="685" source="lantbrukshögskolan" target="SOU"/>
+      <edge id="686" source="Bengt Kihlman," target="SOU"/>
+      <edge id="687" source="June" target="SOU"/>
+      <edge id="688" source="hertil" target="SOU"/>
+      <edge id="689" source="lantbruksuniversitet" target="SOU"/>
+      <edge id="69" source="Åke Gustafsson" target="SOU"/>
+      <edge id="690" source="Herman" target="SOU"/>
+      <edge id="691" source="Del af Forskog Rodfrugter," target="SOU"/>
+      <edge id="692" source="Ramel" target="SOU"/>
+      <edge id="693" source="R. Mansfeld" target="SOU"/>
+      <edge id="694" source="Indien" target="SOU"/>
+      <edge id="695" source="Palo Alto" target="SOU"/>
+      <edge id="696" source="Kommunikationsdepartementet" target="SOU"/>
+      <edge id="697" source="grenade" target="SOU"/>
+      <edge id="698" source="linden" target="SOU"/>
+      <edge id="699" source="Zeller," target="SOU"/>
+      <edge id="7" source="Åkermans" target="SOU"/>
+      <edge id="70" source="Antonio" target="SOU"/>
+      <edge id="700" source="Bintje" target="SOU"/>
+      <edge id="701" source="artens" target="SOU"/>
+      <edge id="702" source="Henry" target="SOU"/>
+      <edge id="703" source="Jämtlands" target="SOU"/>
+      <edge id="704" source="klander" target="SOU"/>
+      <edge id="705" source="Leif Poll" target="SOU"/>
+      <edge id="706" source="Arne Hagberg" target="SOU"/>
+      <edge id="707" source="Carl" target="SOU"/>
+      <edge id="708" source="Gösta Netzén." target="SOU"/>
+      <edge id="709" source="Mac Key. J." target="SOU"/>
+      <edge id="71" source="Curly" target="SOU"/>
+      <edge id="710" source="Widar" target="SOU"/>
+      <edge id="711" source="britannien" target="SOU"/>
+      <edge id="712" source="Herman Nilsson-Ehle" target="SOU"/>
+      <edge id="713" source="Gunnar Myrdal" target="SOU"/>
+      <edge id="714" source="Campbell" target="SOU"/>
+      <edge id="715" source="Sven" target="SOU"/>
+      <edge id="716" source="Julén" target="SOU"/>
+      <edge id="717" source="Göte Turesson." target="SOU"/>
+      <edge id="718" source="nativa" target="SOU"/>
+      <edge id="719" source="Östergötland" target="SOU"/>
+      <edge id="72" source="Erwin" target="SOU"/>
+      <edge id="720" source="H. F. Smith" target="SOU"/>
+      <edge id="721" source="Kåre" target="SOU"/>
+      <edge id="722" source="Jörgen Weibull." target="SOU"/>
+      <edge id="723" source="Wibergs" target="SOU"/>
+      <edge id="724" source="der stilles" target="SOU"/>
+      <edge id="725" source="Wallenbergs" target="SOU"/>
+      <edge id="726" source="Bengt Lidforss”" target="SOU"/>
+      <edge id="727" source="Lindqvist" target="SOU"/>
+      <edge id="728" source="Justitiedepartementet" target="SOU"/>
+      <edge id="729" source="Neergaard" target="SOU"/>
+      <edge id="73" source="Styring af Foradlingen" target="SOU"/>
+      <edge id="730" source="D. von Wettstein" target="SOU"/>
+      <edge id="731" source="dr Fredrik" target="SOU"/>
+      <edge id="732" source="hurtig" target="SOU"/>
+      <edge id="733" source="Albert Levan. Denne" target="SOU"/>
+      <edge id="734" source="Gregor" target="SOU"/>
+      <edge id="735" source="Bo Stockenström" target="SOU"/>
+      <edge id="736" source="Ove" target="SOU"/>
+      <edge id="737" source="Edvin Sköld." target="SOU"/>
+      <edge id="738" source="Fisher" target="SOU"/>
+      <edge id="739" source="Andel af Foraedlerafgiften," target="SOU"/>
+      <edge id="74" source="Heimo" target="SOU"/>
+      <edge id="740" source="Växtförädlingsnämnden" target="SOU"/>
+      <edge id="741" source="u-länderna" target="SOU"/>
+      <edge id="742" source="Harrie" target="SOU"/>
+      <edge id="743" source="Afrika" target="SOU"/>
+      <edge id="744" source="Malling" target="SOU"/>
+      <edge id="745" source="Gösta Netzén" target="SOU"/>
+      <edge id="746" source="Side" target="SOU"/>
+      <edge id="747" source="Weibull AB. Vid" target="SOU"/>
+      <edge id="748" source="Carl Bloms Boktryckeri," target="SOU"/>
+      <edge id="749" source="James Mac Key)" target="SOU"/>
+      <edge id="75" source="u-ländernas" target="SOU"/>
+      <edge id="750" source="Allan Nordenstam," target="SOU"/>
+      <edge id="751" source="Stig" target="SOU"/>
+      <edge id="752" source="Ytkemiska institutet" target="SOU"/>
+      <edge id="753" source="Louis" target="SOU"/>
+      <edge id="754" source="Edvin" target="SOU"/>
+      <edge id="755" source="Borlaug," target="SOU"/>
+      <edge id="756" source="Voll" target="SOU"/>
+      <edge id="757" source="Eliasson" target="SOU"/>
+      <edge id="758" source="Knut" target="SOU"/>
+      <edge id="759" source="Omszetning af Frø af Foder-" target="SOU"/>
+      <edge id="76" source="Utbildningsdepartementet" target="SOU"/>
+      <edge id="760" source="Landbrugsministeriet" target="SOU"/>
+      <edge id="761" source="Maurice Wilkins" target="SOU"/>
+      <edge id="762" source="Larson benämnd" target="SOU"/>
+      <edge id="763" source="Sköld" target="SOU"/>
+      <edge id="764" source="Gustafssons" target="SOU"/>
+      <edge id="765" source="Svealand" target="SOU"/>
+      <edge id="766" source="Skive af Pajbjergfonden." target="SOU"/>
+      <edge id="767" source="Svalöv. Institutionen" target="SOU"/>
+      <edge id="768" source="Ingrid" target="SOU"/>
+      <edge id="769" source="Gustafssons" target="SOU"/>
+      <edge id="77" source="H. F. Smith" target="SOU"/>
+      <edge id="770" source="Sven Persson" target="SOU"/>
+      <edge id="771" source="lantbruksuniversitets" target="SOU"/>
+      <edge id="772" source="Frö AB" target="SOU"/>
+      <edge id="773" source="Oslo" target="SOU"/>
+      <edge id="774" source="Jens" target="SOU"/>
+      <edge id="775" source="Darwins" target="SOU"/>
+      <edge id="776" source="Jan Boman" target="SOU"/>
+      <edge id="777" source="Laboratorieverk" target="SOU"/>
+      <edge id="778" source="Ikke" target="SOU"/>
+      <edge id="779" source="Rena" target="SOU"/>
+      <edge id="78" source="Birger" target="SOU"/>
+      <edge id="780" source="Selma" target="SOU"/>
+      <edge id="781" source="Västernorrland" target="SOU"/>
+      <edge id="782" source="York" target="SOU"/>
+      <edge id="783" source="Afrika." target="SOU"/>
+      <edge id="784" source="Tyskland," target="SOU"/>
+      <edge id="785" source="Form af Kød, Mazlk, Smør, Ost" target="SOU"/>
+      <edge id="786" source="Micke" target="SOU"/>
+      <edge id="787" source="Utsädesföreningen" target="SOU"/>
+      <edge id="788" source="Gari Stockholm." target="SOU"/>
+      <edge id="789" source="Albert Bonnier AB:" target="SOU"/>
+      <edge id="79" source="toriet" target="SOU"/>
+      <edge id="790" source="Welsh Plant Breedtill Plant Breeding Institute" target="SOU"/>
+      <edge id="791" source="Herbert" target="SOU"/>
+      <edge id="792" source="Gustav" target="SOU"/>
+      <edge id="793" source="Benno" target="SOU"/>
+      <edge id="794" source="af Åke Gustafsson" target="SOU"/>
+      <edge id="795" source="Sven Asker," target="SOU"/>
+      <edge id="796" source="W. Johannsen." target="SOU"/>
+      <edge id="797" source="Anders Nilsson" target="SOU"/>
+      <edge id="798" source="Finlands" target="SOU"/>
+      <edge id="799" source="Geer" target="SOU"/>
+      <edge id="8" source="Colombia" target="SOU"/>
+      <edge id="80" source="Weibull AB:s" target="SOU"/>
+      <edge id="800" source="Arbetsmarknadsdepartementet" target="SOU"/>
+      <edge id="801" source="Dorthi" target="SOU"/>
+      <edge id="802" source="Enjubileumsskrift" target="SOU"/>
+      <edge id="803" source="SLR-organisationen" target="SOU"/>
+      <edge id="804" source="K. G. Lüning" target="SOU"/>
+      <edge id="805" source="Nilsson-Ehle" target="SOU"/>
+      <edge id="806" source="Sune Fröst," target="SOU"/>
+      <edge id="807" source="N.I." target="SOU"/>
+      <edge id="808" source="Havamal" target="SOU"/>
+      <edge id="809" source="Arne Hagberg," target="SOU"/>
+      <edge id="81" source="Emil Johansson" target="SOU"/>
+      <edge id="810" source="Olli Rekola. Utredrepresentant" target="SOU"/>
+      <edge id="811" source="Nya Zeeland" target="SOU"/>
+      <edge id="812" source="Sven Asker," target="SOU"/>
+      <edge id="813" source="Sven Persson" target="SOU"/>
+      <edge id="814" source="Albert Bonnier AB:" target="SOU"/>
+      <edge id="815" source="Möbelinstitutet" target="SOU"/>
+      <edge id="816" source="N. I. Vavilov." target="SOU"/>
+      <edge id="817" source="Stemme" target="SOU"/>
+      <edge id="818" source="Antonio" target="SOU"/>
+      <edge id="819" source="Iowa" target="SOU"/>
+      <edge id="82" source="Halvor" target="SOU"/>
+      <edge id="820" source="Sverige." target="SOU"/>
+      <edge id="821" source="Östeuropa" target="SOU"/>
+      <edge id="822" source="Edvin" target="SOU"/>
+      <edge id="823" source="Lock" target="SOU"/>
+      <edge id="824" source="Danett" target="SOU"/>
+      <edge id="825" source="Minnesskrift" target="SOU"/>
+      <edge id="826" source="W. Weibull AB," target="SOU"/>
+      <edge id="827" source="lantbrukshögskolans" target="SOU"/>
+      <edge id="828" source="Förenta nationernas" target="SOU"/>
+      <edge id="829" source="Eliasson" target="SOU"/>
+      <edge id="83" source="klander" target="SOU"/>
+      <edge id="830" source="Lundkvist" target="SOU"/>
+      <edge id="831" source="Plant Research and Development:" target="SOU"/>
+      <edge id="832" source="Hjalmar Nilsson" target="SOU"/>
+      <edge id="833" source="Salget af Frø," target="SOU"/>
+      <edge id="834" source="Institutet för metallforskning" target="SOU"/>
+      <edge id="835" source="Svenska Livsmedelsinstitutet" target="SOU"/>
+      <edge id="836" source="Gunnar" target="SOU"/>
+      <edge id="837" source="första världskriget" target="SOU"/>
+      <edge id="838" source="Åkerberg" target="SOU"/>
+      <edge id="839" source="Statens livsmedelsverk" target="SOU"/>
+      <edge id="84" source="Storbritannien" target="SOU"/>
+      <edge id="840" source="Norman Borär CIMMYT," target="SOU"/>
+      <edge id="841" source="Weibull AB," target="SOU"/>
+      <edge id="842" source="Ottar" target="SOU"/>
+      <edge id="843" source="piella" target="SOU"/>
+      <edge id="844" source="växtförädlingsanstalt för jordbruksväxter." target="SOU"/>
+      <edge id="845" source="Förenta Nationernas" target="SOU"/>
+      <edge id="846" source="Anders Nilsson" target="SOU"/>
+      <edge id="847" source="Nilsson-Ehle" target="SOU"/>
+      <edge id="848" source="hertil" target="SOU"/>
+      <edge id="849" source="Ljung" target="SOU"/>
+      <edge id="85" source="stilles" target="SOU"/>
+      <edge id="850" source="Sam Norup" target="SOU"/>
+      <edge id="851" source="Sveriges" target="SOU"/>
+      <edge id="852" source="Statens jordbruksnämnd" target="SOU"/>
+      <edge id="853" source="Salget af Frø," target="SOU"/>
+      <edge id="854" source="Hall" target="SOU"/>
+      <edge id="855" source="Västernorrlands" target="SOU"/>
+      <edge id="856" source="Wilhelm Johannsen." target="SOU"/>
+      <edge id="857" source="Weibull AB," target="SOU"/>
+      <edge id="858" source="södra Sverige" target="SOU"/>
+      <edge id="859" source="Sven Olsson" target="SOU"/>
+      <edge id="86" source="ellers" target="SOU"/>
+      <edge id="860" source="Algot Holmberg" target="SOU"/>
+      <edge id="861" source="Nigeria" target="SOU"/>
+      <edge id="862" source="Maris Beacon" target="SOU"/>
+      <edge id="863" source="Handbuch der Pflanzenzüchtung" target="SOU"/>
+      <edge id="864" source="ädling" target="SOU"/>
+      <edge id="865" source="vallmo" target="SOU"/>
+      <edge id="866" source="Foreedlingen af Fabrikssukkerroe" target="SOU"/>
+      <edge id="867" source="Lars Ehrenbergs" target="SOU"/>
+      <edge id="868" source="artens" target="SOU"/>
+      <edge id="869" source="Sven Olsson" target="SOU"/>
+      <edge id="87" source="Ulf Thorselius" target="SOU"/>
+      <edge id="870" source="Lüning" target="SOU"/>
+      <edge id="871" source="Paul" target="SOU"/>
+      <edge id="872" source="Institutet för värmeteknisk forskning" target="SOU"/>
+      <edge id="873" source="Irland" target="SOU"/>
+      <edge id="874" source="Västeuropa" target="SOU"/>
+      <edge id="875" source="August Lyttkens)." target="SOU"/>
+      <edge id="876" source="Carl Gunnar" target="SOU"/>
+      <edge id="877" source="Venus" target="SOU"/>
+      <edge id="878" source="stilles" target="SOU"/>
+      <edge id="879" source="majsen" target="SOU"/>
+      <edge id="88" source="Utrikesdepartementet" target="SOU"/>
+      <edge id="880" source="Allmänmellan Sveriges utsädesförening" target="SOU"/>
+      <edge id="881" source="Konstans" target="SOU"/>
+      <edge id="882" source="Johannsens" target="SOU"/>
+      <edge id="883" source="Gunnar Östergren." target="SOU"/>
+      <edge id="884" source="Lars Ehrenberg" target="SOU"/>
+      <edge id="885" source="Svensriksförbund" target="SOU"/>
+      <edge id="886" source="Etiopien" target="SOU"/>
+      <edge id="887" source="Belgien" target="SOU"/>
+      <edge id="888" source="Libanon" target="SOU"/>
+      <edge id="889" source="Björn" target="SOU"/>
+      <edge id="89" source="sisten" target="SOU"/>
+      <edge id="890" source="Peru" target="SOU"/>
+      <edge id="891" source="Dreyfus" target="SOU"/>
+      <edge id="892" source="dr Fredrik" target="SOU"/>
+      <edge id="893" source="Herr Harry Weibull" target="SOU"/>
+      <edge id="894" source="rammer" target="SOU"/>
+      <edge id="895" source="August" target="SOU"/>
+      <edge id="896" source="Del af Forskningsget af Opgaver" target="SOU"/>
+      <edge id="897" source="Bernkonventionen" target="SOU"/>
+      <edge id="898" source="Nils Sylvén:" target="SOU"/>
+      <edge id="899" source="Anders Elofson:" target="SOU"/>
+      <edge id="9" source="CarlsbergDiter von Wettstein," target="SOU"/>
+      <edge id="90" source="Abildgaard" target="SOU"/>
+      <edge id="900" source="Weibulls" target="SOU"/>
+      <edge id="901" source="Stiftelsen för trämanufakturteknisk" target="SOU"/>
+      <edge id="902" source="Algot Holmberg" target="SOU"/>
+      <edge id="903" source="dr. B. Sigurbjörrzsson," target="SOU"/>
+      <edge id="904" source="Erik Åkerberg" target="SOU"/>
+      <edge id="905" source="Utsädesaktiebolagetsjubileumsskrift" target="SOU"/>
+      <edge id="906" source="Per-Åke" target="SOU"/>
+      <edge id="907" source="Widar" target="SOU"/>
+      <edge id="908" source="Rice Improveand Barley Improvement" target="SOU"/>
+      <edge id="909" source="Borlaug," target="SOU"/>
+      <edge id="91" source="Venus" target="SOU"/>
+      <edge id="910" source="Johan" target="SOU"/>
+      <edge id="911" source="Francis Crick" target="SOU"/>
+      <edge id="912" source="Wilhelm Joframgår" target="SOU"/>
+      <edge id="913" source="Peta" target="SOU"/>
+      <edge id="914" source="Melchers" target="SOU"/>
+      <edge id="915" source="Green Revolution," target="SOU"/>
+      <edge id="916" source="Ford" target="SOU"/>
+      <edge id="917" source="Weibull AB. Utsästörsta" target="SOU"/>
+      <edge id="918" source="nordsverige" target="SOU"/>
+      <edge id="919" source="Rasmussons" target="SOU"/>
+      <edge id="92" source="Ottar" target="SOU"/>
+      <edge id="920" source="dr Kjell" target="SOU"/>
+      <edge id="921" source="Hanssons" target="SOU"/>
+      <edge id="922" source="Harrie" target="SOU"/>
+      <edge id="923" source="Carl Bloms Boktryckeri," target="SOU"/>
+      <edge id="924" source="Foraedling af Landbrugsplanter" target="SOU"/>
+      <edge id="925" source="Svalöf" target="SOU"/>
+      <edge id="926" source="Albert Levan. Denne" target="SOU"/>
+      <edge id="927" source="Erik W. Ljung." target="SOU"/>
+      <edge id="928" source="Vallmo" target="SOU"/>
+      <edge id="929" source="Weibull AB. Vid" target="SOU"/>
+      <edge id="93" source="Helsingfors" target="SOU"/>
+      <edge id="930" source="Levan" target="SOU"/>
+      <edge id="931" source="Clement" target="SOU"/>
+      <edge id="932" source="Edvin Sköld." target="SOU"/>
+      <edge id="933" source="Nilssons" target="SOU"/>
+      <edge id="934" source="UN Special Fund" target="SOU"/>
+      <edge id="935" source="Plant" target="SOU"/>
+      <edge id="936" source="Skåne" target="SOU"/>
+      <edge id="937" source="Zeller," target="SOU"/>
+      <edge id="938" source="jordbruksdepartementet" target="SOU"/>
+      <edge id="939" source="Den Andel af Frøprisen." target="SOU"/>
+      <edge id="94" source="Clausen" target="SOU"/>
+      <edge id="940" source="Hereditas" target="SOU"/>
+      <edge id="941" source="Bertil Rasmuson," target="SOU"/>
+      <edge id="942" source="Hjalmar" target="SOU"/>
+      <edge id="943" source="Arne Müntzing:" target="SOU"/>
+      <edge id="944" source="Gösta Netzén." target="SOU"/>
+      <edge id="945" source="Walter. Harry och William Weibull" target="SOU"/>
+      <edge id="946" source="Turessons" target="SOU"/>
+      <edge id="947" source="Theodore B. Baigerad" target="SOU"/>
+      <edge id="948" source="Francis Galton" target="SOU"/>
+      <edge id="949" source="Svalövsorganisationen" target="SOU"/>
+      <edge id="95" source="Mac Key)" target="SOU"/>
+      <edge id="950" source="konstant" target="SOU"/>
+      <edge id="951" source="Foraedling af Køkkenurter" target="SOU"/>
+      <edge id="952" source="Lindhards" target="SOU"/>
+      <edge id="953" source="Vilhelm" target="SOU"/>
+      <edge id="954" source="Walker" target="SOU"/>
+      <edge id="955" source="Med lantbruksinstitutet" target="SOU"/>
+      <edge id="956" source="Bent Søgaard," target="SOU"/>
+      <edge id="957" source="Canada" target="SOU"/>
+      <edge id="958" source="Ultuna" target="SOU"/>
+      <edge id="959" source="Sören Ekström," target="SOU"/>
+      <edge id="96" source="Klaas Tjebbes" target="SOU"/>
+      <edge id="960" source="Landbrugs" target="SOU"/>
+      <edge id="961" source="Svenska Träforskningsinstitutet" target="SOU"/>
+      <edge id="962" source="Örebro" target="SOU"/>
+      <edge id="963" source="dr. B. Sigurbjörrzsson," target="SOU"/>
+      <edge id="964" source="Förbundsrepubliken" target="SOU"/>
+      <edge id="965" source="Hermes" target="SOU"/>
+      <edge id="966" source="Continental" target="SOU"/>
+      <edge id="967" source="Norman" target="SOU"/>
+      <edge id="968" source="Andre" target="SOU"/>
+      <edge id="969" source="vetenskapsakademiens" target="SOU"/>
+      <edge id="97" source="James Mac Key)" target="SOU"/>
+      <edge id="970" source="August Lyttkens)." target="SOU"/>
+      <edge id="971" source="Norrland" target="SOU"/>
+      <edge id="972" source="Linders" target="SOU"/>
+      <edge id="973" source="Weibull" target="SOU"/>
+      <edge id="974" source="andra världskrigets" target="SOU"/>
+      <edge id="975" source="Varia" target="SOU"/>
+      <edge id="976" source="Norges" target="SOU"/>
+      <edge id="977" source="Åke" target="SOU"/>
+      <edge id="978" source="Lindhards" target="SOU"/>
+      <edge id="979" source="institut för växtförädlingsoch" target="SOU"/>
+      <edge id="98" source="Åke" target="SOU"/>
+      <edge id="980" source="Statens Kornforretlandbruk," target="SOU"/>
+      <edge id="981" source="Börje Norén." target="SOU"/>
+      <edge id="982" source="Universitetets" target="SOU"/>
+      <edge id="983" source="Fredrik Nilsson" target="SOU"/>
+      <edge id="984" source="Jörgen Weibull. Falkenberg:" target="SOU"/>
+      <edge id="985" source="Sören" target="SOU"/>
+      <edge id="986" source="Lennart Hjelm)" target="SOU"/>
+      <edge id="987" source="Gunnar Myrdal" target="SOU"/>
+      <edge id="988" source="Wang" target="SOU"/>
+      <edge id="989" source="Pakistan" target="SOU"/>
+      <edge id="99" source="Sveriges Utsädesförening" target="SOU"/>
+      <edge id="990" source="Malmö" target="SOU"/>
+      <edge id="991" source="Edward Pollak, Oscar Kempthome" target="SOU"/>
+      <edge id="992" source="Sveriges lantbruksuniversitet" target="SOU"/>
+      <edge id="993" source="A. Ashri," target="SOU"/>
+      <edge id="994" source="Mellansveriges" target="SOU"/>
+      <edge id="995" source="Institutet för verkstadsteknisk forskning" target="SOU"/>
+      <edge id="996" source="Plant Breeding Research" target="SOU"/>
+      <edge id="997" source="dr Björn" target="SOU"/>
+      <edge id="998" source="Arne Hagberg," target="SOU"/>
+      <edge id="999" source="Styring af Foradlingen" target="SOU"/>
+    </edges>
+  </graph>
+</gexf>
