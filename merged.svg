@@ -1,0 +1,3194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2162.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1079.000000 -1200.000000 2162.000000 2354.000000" height="2354.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -982.857117,-215.849915 C -930.026428,-424.321594 -538.072937,-657.783081 -329.601257,-604.952393"
+              class="Gustavsson 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 478.522400,-781.430542 C 352.193298,-584.510132 -132.680908,-478.623322 -329.601257,-604.952393"
+              class="socialstyrelsens 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 141.853989,-691.310974 C 64.834656,-579.748169 -218.038498,-527.933044 -329.601257,-604.952393"
+              class="Lars 1989_73" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 297.719086,-764.147644 C 204.094070,-606.844543 -172.298141,-511.327393 -329.601257,-604.952393"
+              class="sporre 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 109.819084,-944.690125 C 89.882553,-788.858459 -173.769653,-585.015808 -329.601257,-604.952393"
+              class="PV-stationer 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 209.651215,-771.966248 C 135.203491,-630.713013 -188.347992,-530.504700 -329.601257,-604.952393"
+              class="TV-reklameffektutredningen 1989_73" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 522.347351,-486.923187 C 328.351776,-340.139282 -182.817352,-410.956818 -329.601257,-604.952393"
+              class="Västtyskland 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -856.551941,-99.073799 C -852.337524,-305.639648 -536.167114,-609.166809 -329.601257,-604.952393"
+              class="Sverige. 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 211.865814,-423.680267 C 67.317978,-351.641296 -257.562256,-460.404602 -329.601257,-604.952393"
+              class="Arbetsmarknadsdepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 176.254547,-578.080933 C 69.709099,-482.284058 -233.804398,-498.406982 -329.601257,-604.952393"
+              class="marknadsdomstolens 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -854.206909,-576.994568 C -754.877319,-687.507263 -440.113953,-704.281982 -329.601257,-604.952393"
+              class="Storstockholmsområdet 1989_73" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.901794,-23.985001 C -822.835144,-234.438599 -540.054871,-583.019043 -329.601257,-604.952393"
+              class="Utrikesdepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1023.928101,-570.834229 C -891.886353,-716.523193 -475.290253,-736.994141 -329.601257,-604.952393"
+              class="TV-Sat 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -677.794250,-293.350830 C -670.475952,-425.309753 -461.560181,-612.270691 -329.601257,-604.952393"
+              class="Italien 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -943.726563,71.182503 C -956.128479,-186.869537 -587.653320,-592.550476 -329.601257,-604.952393"
+              class="STOCKHOLM 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -629.471741,76.187798 C -705.725647,-120.014343 -525.803406,-528.698486 -329.601257,-604.952393"
+              class="Tyskland 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 481.203644,-946.865601 C 387.425293,-716.321960 -99.057625,-511.174011 -329.601257,-604.952393"
+              class="Bertil 1989_73" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -792.720093,-914.186890 C -638.249390,-944.963745 -360.378143,-759.423096 -329.601257,-604.952393"
+              class="SOU-förrådet 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1011.094360,4.015913 C -996.589417,-254.076355 -587.693542,-619.457397 -329.601257,-604.952393"
+              class="Tomas 1989_73" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -882.002502,-662.565857 C -759.999512,-761.523438 -428.558807,-726.955322 -329.601257,-604.952393"
+              class="Riksförbundet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1050.230835,-471.998383 C -932.695740,-642.715088 -500.317963,-722.487488 -329.601257,-604.952393"
+              class="Göteborg 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.463745,-488.425385 C 246.345352,-361.917786 -203.093658,-431.833984 -329.601257,-604.952393"
+              class="Frankrike 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 408.247009,-999.146545 C 339.516205,-772.738098 -103.192772,-536.221558 -329.601257,-604.952393"
+              class="Göransson 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -538.795898,-1093.533813 C -399.240692,-1037.656494 -273.723907,-744.507629 -329.601257,-604.952393"
+              class="Betel-TV 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 325.193695,-670.914856 C 207.427200,-526.763367 -185.449783,-487.185913 -329.601257,-604.952393"
+              class="Tor 1989_73" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 384.924957,-773.933044 C 275.815857,-597.231689 -152.899887,-495.843292 -329.601257,-604.952393"
+              class="Filminstitutet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -859.615051,42.008877 C -883.004578,-193.386139 -564.996277,-581.562866 -329.601257,-604.952393"
+              class="Monica 1989_73" stroke-opacity="1.0" stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -108.647987,-1100.695190 C -53.690086,-957.355957 -186.262054,-659.910278 -329.601257,-604.952393"
+              class="tenner 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -990.212280,-396.505890 C -899.779419,-570.317383 -503.412750,-695.385254 -329.601257,-604.952393"
+              class="TV 2 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -68.497368,-1189.001831 C -3.908257,-1019.971130 -160.570602,-669.541504 -329.601257,-604.952393"
+              class="energidepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -934.607178,-569.063843 C -820.783752,-697.242737 -457.780151,-718.775818 -329.601257,-604.952393"
+              class="Nämnden mot emisk 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 432.864044,-386.570313 C 236.694550,-277.753662 -220.784607,-408.782928 -329.601257,-604.952393"
+              class="Norden 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -353.898071,-1156.005005 C -238.828171,-1050.653809 -224.250107,-720.022278 -329.601257,-604.952393"
+              class="Reklam-TV 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -782.556396,-653.478821 C -682.260071,-734.364624 -410.487000,-705.248657 -329.601257,-604.952393"
+              class="Betal-TV 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1048.521240,-83.338799 C -1009.059937,-331.445526 -577.708008,-644.413696 -329.601257,-604.952393"
+              class="marknadsdomstolen 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 51.505112,-1008.369568 C 55.967270,-851.464844 -172.696533,-609.414551 -329.601257,-604.952393"
+              class="Grekland 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 29.694098,-149.165115 C -133.322418,-168.463501 -348.899658,-441.935852 -329.601257,-604.952393"
+              class="Danmark 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 156.796967,-846.487366 C 107.824310,-700.900696 -184.014618,-555.979736 -329.601257,-604.952393"
+              class="Riksdagen 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -720.872864,-981.681702 C -567.272644,-984.590149 -332.509735,-758.552612 -329.601257,-604.952393"
+              class="Göteborg - 1989_73" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -779.006165,-542.893677 C -701.536926,-645.186401 -431.893982,-682.421631 -329.601257,-604.952393"
+              class="Fi. 1989_73" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 175.266617,-1027.797363 C 158.862030,-842.254822 -144.058685,-588.547791 -329.601257,-604.952393"
+              class="Österrike 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -930.192871,-756.559082 C -779.753174,-846.356079 -419.398224,-755.392090 -329.601257,-604.952393"
+              class="TV-reklamutredningen 1989_73" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.278809,-86.698273 C -393.794128,-180.484619 -423.387573,-491.437073 -329.601257,-604.952393"
+              class="Finland 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 537.901062,-861.527100 C 415.715515,-636.711670 -104.785843,-482.766846 -329.601257,-604.952393"
+              class="Vännäs 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 59.988987,-856.703308 C 32.421127,-728.435120 -201.333023,-577.384521 -329.601257,-604.952393"
+              class="Kabelnämnden 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 322.475067,-450.311737 C 161.131668,-350.824585 -230.114120,-443.609009 -329.601257,-604.952393"
+              class="Europa 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.109623,-258.602814 C -100.702469,-253.330566 -324.328979,-461.140320 -329.601257,-604.952393"
+              class="Norge 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.051056,-229.121094 C 70.954315,-185.356873 -285.837036,-410.855652 -329.601257,-604.952393"
+              class="Kommunikationsdepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1063.302368,-176.538483 C -1002.244934,-408.961487 -562.024292,-666.009827 -329.601257,-604.952393"
+              class="Bergman 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -405.162872,21.687040 C -515.378418,-118.753159 -470.041473,-494.736847 -329.601257,-604.952393"
+              class="Sveriges Radio 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -754.498108,-747.527039 C -641.003784,-803.991455 -386.065704,-718.446716 -329.601257,-604.952393"
+              class="Europas 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -209.707108,-1104.705078 C -133.735413,-980.775696 -205.671906,-680.924133 -329.601257,-604.952393"
+              class="Astra 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -902.842224,-383.252838 C -832.533936,-542.240967 -488.589355,-675.260681 -329.601257,-604.952393"
+              class="Kanslirådet 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -675.913757,-135.884872 C -700.464722,-298.960876 -492.677277,-580.401367 -329.601257,-604.952393"
+              class="ing- 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -860.041382,-472.194183 C -780.505005,-604.833862 -462.240906,-684.488770 -329.601257,-604.952393"
+              class="Radiolagsutredningen 1989_73" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 261.515198,-863.185852 C 194.938599,-693.315918 -159.731262,-538.375854 -329.601257,-604.952393"
+              class="TV-konventionen 1989_73" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -166.327194,-1187.519287 C -82.468628,-1038.351074 -180.433060,-688.810913 -329.601257,-604.952393"
+              class="Gun 1989_73" stroke-opacity="1.0" stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -965.489624,-112.265694 C -936.849304,-337.980713 -555.316284,-633.592712 -329.601257,-604.952393"
+              class="Sky Channel 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 117.832138,-354.155090 C -21.813999,-314.827881 -290.274048,-465.306213 -329.601257,-604.952393"
+              class="Bostadsdepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -972.167847,-305.616699 C -903.521667,-493.997131 -517.981689,-673.598572 -329.601257,-604.952393"
+              class="Civildepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -977.170532,-666.338745 C -835.379395,-783.575317 -446.837830,-746.743530 -329.601257,-604.952393"
+              class="Förbundsrepubliken 1989_73" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -631.190552,-951.573975 C -501.548370,-942.567505 -320.594818,-734.594604 -329.601257,-604.952393"
+              class="Finansdepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3.588415,-926.215820 C 1.203163,-795.325195 -198.710632,-602.567139 -329.601257,-604.952393"
+              class="Bengt 1989_73" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -180.460495,-133.305450 C -304.618042,-197.806671 -394.102478,-480.794861 -329.601257,-604.952393"
+              class="Jordbruksdepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -821.567688,-366.949005 C -770.775024,-512.942993 -475.595215,-655.744995 -329.601257,-604.952393"
+              class="TV-satelliter 1989_73" stroke-opacity="1.0"
+              stroke="#e9849a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 416.748138,-688.874023 C 284.262604,-522.819824 -163.547043,-472.466797 -329.601257,-604.952393"
+              class="TV 3 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -760.507324,-832.374817 C -628.841614,-873.071533 -370.297974,-736.618103 -329.601257,-604.952393"
+              class="Basorganisationen 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -842.442627,-748.953491 C -711.074097,-822.721558 -403.369293,-736.320923 -329.601257,-604.952393"
+              class="Jack 1989_73" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -549.229553,-1001.550293 C -425.984314,-966.156372 -294.207336,-728.197632 -329.601257,-604.952393"
+              class="SR-studien 1989_73" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -766.934326,-449.370636 C -710.584045,-567.953613 -448.184235,-661.302673 -329.601257,-604.952393"
+              class="Pajala 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.409744,-88.095016 C -236.019516,-142.228180 -383.734436,-452.342621 -329.601257,-604.952393"
+              class="Sveriges Radios 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 263.657013,-991.663391 C 222.347534,-795.669495 -133.607391,-563.642944 -329.601257,-604.952393"
+              class="Olof Palme. C. 1989_73" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -923.074585,-28.856434 C -919.599060,-262.770325 -563.515137,-608.427856 -329.601257,-604.952393"
+              class="YLE, 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -267.619751,-1174.719849 C -166.062561,-1048.370117 -203.251465,-706.509583 -329.601257,-604.952393"
+              class="Gällivare 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 102.647392,-769.833679 C 49.173912,-650.407715 -210.175262,-551.478882 -329.601257,-604.952393"
+              class="Nacka 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -726.737976,-366.682556 C -694.964600,-493.763855 -456.682556,-636.725769 -329.601257,-604.952393"
+              class="Kustbevakningens 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 95.206970,-1083.989746 C 106.052795,-903.220581 -148.832153,-615.798218 -329.601257,-604.952393"
+              class="SÄPO 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.697701,-979.641663 C -49.140564,-853.323059 -203.282700,-628.509521 -329.601257,-604.952393"
+              class="Schweiz 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -62.236889,-193.709335 C -197.958374,-222.485077 -358.377014,-469.230927 -329.601257,-604.952393"
+              class="USA 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -805.731628,-189.725311 C -793.550964,-367.996796 -507.872742,-617.133057 -329.601257,-604.952393"
+              class="Olof Palme. 1989_73" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -27.057617,-1054.696167 C 2.382416,-904.238708 -179.143768,-634.392395 -329.601257,-604.952393"
+              class="ARD 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 337.201233,-1057.849365 C 294.420135,-833.909485 -105.661377,-562.171326 -329.601257,-604.952393"
+              class="Danmarks 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 360.707642,-310.454315 C 163.746262,-231.292175 -250.439102,-407.991028 -329.601257,-604.952393"
+              class="Radionämnden 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -454.267975,-1039.718994 C -342.381287,-977.699036 -267.581299,-716.839050 -329.601257,-604.952393"
+              class="Intelsat 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 234.250839,-675.882568 C 135.666443,-548.926086 -202.644806,-506.368011 -329.601257,-604.952393"
+              class="Regeringskansliets 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.723925,-1139.656616 C 41.599724,-966.650757 -156.595383,-645.828186 -329.601257,-604.952393"
+              class="The European 1989_73" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1067.831909,-366.028595 C -967.970581,-561.459473 -525.032104,-704.813721 -329.601257,-604.952393"
+              class="Stockholms 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -898.428833,-178.309906 C -869.991821,-377.403961 -528.695313,-633.389404 -329.601257,-604.952393"
+              class="TV -företag 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 196.110916,-929.274292 C 155.832870,-759.267456 -159.594452,-564.674316 -329.601257,-604.952393"
+              class="Göteborgs 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -884.894897,-269.018921 C -841.022888,-447.264374 -507.846710,-648.824402 -329.601257,-604.952393"
+              class="Spanien 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1068.437622,-272.263306 C -987.208130,-486.568390 -543.906372,-686.181824 -329.601257,-604.952393"
+              class="Kiruna 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 255.236374,-1094.895630 C 236.257492,-879.939453 -114.645081,-585.973511 -329.601257,-604.952393"
+              class="PV-konventionen 1989_73" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -862.816345,-841.805908 C -708.802612,-901.078186 -388.873566,-758.966125 -329.601257,-604.952393"
+              class="tionella 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 171.946228,-276.092987 C 5.864845,-241.555359 -295.063629,-438.871033 -329.601257,-604.952393"
+              class="Justitiedepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -362.934601,-1065.194580 C -264.219513,-979.812805 -244.219482,-703.667542 -329.601257,-604.952393"
+              class="regeringskansliet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -954.461670,-483.405334 C -853.798950,-632.686829 -478.882751,-705.615112 -329.601257,-604.952393"
+              class="Reklamstatistikprojektet 1989_73" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.104614,-1024.404785 C -109.313477,-906.414978 -211.611450,-654.743591 -329.601257,-604.952393"
+              class="Kvällsposten 1989_73" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -185.711456,-21.575375 C -331.164825,-109.472816 -417.498718,-459.499023 -329.601257,-604.952393"
+              class="Stockholm 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 175.109024,-1131.970337 C 179.570557,-925.624695 -123.255623,-609.413879 -329.601257,-604.952393"
+              class="Kinnevik 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 138.409103,-180.397858 C -40.103882,-171.706696 -320.910095,-426.439423 -329.601257,-604.952393"
+              class="riksdagen 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -688.899841,-881.275330 C -561.775513,-897.870483 -346.196381,-732.076721 -329.601257,-604.952393"
+              class="Nämnden mot etnisk 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -616.472900,-217.890472 C -636.510986,-352.677185 -464.387970,-584.914368 -329.601257,-604.952393"
+              class="RAI 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -790.484192,-284.716461 C -762.354797,-440.940247 -485.825012,-633.081787 -329.601257,-604.952393"
+              class="Lindex 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -531.936401,40.400570 C -620.539978,-129.137054 -499.138916,-516.348816 -329.601257,-604.952393"
+              class="Utbildningsdepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 335.913269,-945.036194 C 270.827118,-743.916504 -128.481598,-539.866272 -329.601257,-604.952393"
+              class="Europarådet 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.554443,-48.417244 C -568.870850,-191.714905 -472.898926,-525.635986 -329.601257,-604.952393"
+              class="Radio-koncernen 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.757904,-343.819061 C 97.659393,-276.173889 -261.956085,-432.853882 -329.601257,-604.952393"
+              class="Televerket 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -570.516907,159.504883 C -675.225220,-41.569695 -530.675842,-500.244080 -329.601257,-604.952393"
+              class="Sverige 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 518.272888,-700.683899 C 367.844360,-511.962769 -140.880127,-454.523865 -329.601257,-604.952393"
+              class="master 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.404762,-1172.797485 C 109.572578,-977.827332 -134.631012,-637.120239 -329.601257,-604.952393"
+              class="TV-stationer 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 577.258850,-775.720337 C 430.040436,-560.194763 -114.075645,-457.733948 -329.601257,-604.952393"
+              class="Expressen 1989_73" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -277.046021,28.414293 C -414.230408,-87.748001 -445.763550,-467.768005 -329.601257,-604.952393"
+              class="televerkets 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -380.826599,-82.526901 C -475.066650,-197.257065 -444.331421,-510.712341 -329.601257,-604.952393"
+              class="Storbritannien 1989_73" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -345.181458,104.626350 C -483.981171,-40.405430 -474.633026,-466.152679 -329.601257,-604.952393"
+              class="televerket 1989_73" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 439.718750,-873.200928 C 339.504456,-665.687195 -122.087532,-504.738098 -329.601257,-604.952393"
+              class="TV-satelliterna 1989_73" stroke-opacity="1.0"
+              stroke="#e9849a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -461.653778,127.491531 C -581.732056,-45.407761 -502.500549,-484.874115 -329.601257,-604.952393"
+              class="Sveriges 1989_73" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -720.188110,-214.457245 C -720.169800,-370.673645 -485.817657,-604.970703 -329.601257,-604.952393"
+              class="Dagbladet 1989_73" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -692.672485,170.105774 C -775.069824,-57.520096 -557.227173,-522.554993 -329.601257,-604.952393"
+              class="Socialdepartementet 1989_73" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.091522,-860.270020 C 267.616486,-672.667908 -141.999176,-519.477356 -329.601257,-604.952393"
+              class="Sverker 1989_73" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -755.536438,-99.939621 C -771.351990,-286.129211 -515.790833,-589.136841 -329.601257,-604.952393"
+              class="TV-utredningen 1989_73" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -634.344543,-1046.488647 C -485.088623,-1019.130066 -302.242676,-754.208313 -329.601257,-604.952393"
+              class="Ann-Christin 1989_73" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -445.511505,-1131.828491 C -316.954254,-1049.635254 -247.408081,-733.509705 -329.601257,-604.952393"
+              class="DBS-satelliter 1989_73" stroke-opacity="1.0"
+              stroke="#e9849a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -275.458527,-1053.586060 C -196.560333,-953.030762 -229.045959,-683.850586 -329.601257,-604.952393"
+              class="Nederländerna 1989_73" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 902.048889,511.669952 C 745.665344,627.148315 337.872498,565.790588 222.394104,409.407043"
+              class="RF:s regler 1979_69" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -51.218586,862.816467 C -87.177933,717.412048 76.989662,445.366394 222.394104,409.407043"
+              class="Audio Visual Systems 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -692.672485,170.105774 C -461.798920,34.952713 87.241043,178.533463 222.394104,409.407043"
+              class="Socialdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -345.181458,104.626350 C -170.710205,52.067375 169.835129,234.935791 222.394104,409.407043"
+              class="televerket 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -281.916504,565.487061 C -212.270386,433.408936 90.315979,339.760925 222.394104,409.407043"
+              class="Agne Henry 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 587.481750,796.708252 C 437.003998,792.265503 217.951385,559.884827 222.394104,409.407043"
+              class="Olsson 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.102844,613.475647 C -346.817169,440.562531 49.480984,318.121368 222.394104,409.407043"
+              class="Air Travel 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -83.409744,-88.095016 C 77.251450,-49.755367 260.733765,248.745850 222.394104,409.407043"
+              class="Sveriges Radios 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 577.451782,-126.651527 C 613.651978,51.571739 400.617371,373.206848 222.394104,409.407043"
+              class="Bank Services 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -368.868713,804.513428 C -329.637421,607.239563 25.120262,370.175751 222.394104,409.407043"
+              class="Pryltorg 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 776.862305,-321.309723 C 812.112000,-64.272705 479.431122,374.157318 222.394104,409.407043"
+              class="Finna 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 863.356873,746.037170 C 667.838257,806.903687 283.260651,604.925659 222.394104,409.407043"
+              class="Sealink 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -234.068542,1080.766724 C -277.047943,855.202209 -3.170380,452.386414 222.394104,409.407043"
+              class="Opinionsnämnd 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -207.268616,901.428833 C -219.740433,717.091919 38.057205,421.878845 222.394104,409.407043"
+              class="Postverket 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.109623,-258.602814 C 212.568497,-160.857727 320.139160,239.948151 222.394104,409.407043"
+              class="Norge 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 172.368362,1025.221191 C 59.210678,892.053223 89.226135,522.564758 222.394104,409.407043"
+              class="Prentice Hall, 1979_69" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.516235,174.555191 C 949.462219,391.549988 439.388885,532.461121 222.394104,409.407043"
+              class="Arbetsmarknadsstyrelsen 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -578.933655,444.433838 C -425.673462,277.162903 55.123180,256.146851 222.394104,409.407043"
+              class="Old 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 684.065674,822.920105 C 509.028717,832.551758 232.025818,584.443970 222.394104,409.407043"
+              class="Travel 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 615.111328,-292.407867 C 676.930847,-73.501427 441.300537,347.587524 222.394104,409.407043"
+              class="TET 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 260.356384,1030.856445 C 128.474060,914.159058 105.696678,541.289368 222.394104,409.407043"
+              class="Royal Institute of Chartered 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -389.891907,528.679321 C -291.289154,382.367645 76.082443,310.804291 222.394104,409.407043"
+              class="Handelsdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 992.484680,336.178467 C 853.112244,504.842285 391.057953,548.779419 222.394104,409.407043"
+              class="Michelin 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 948.444641,-266.624359 C 938.440796,13.792038 502.810486,419.410858 222.394104,409.407043"
+              class="TV-rutan. 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 914.460571,184.308563 C 821.067017,367.741547 405.827087,502.800598 222.394104,409.407043"
+              class="John Noble 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -61.294796,1131.240601 C -148.923737,930.136108 21.289612,497.035950 222.394104,409.407043"
+              class="PHILIPS 1979_69" stroke-opacity="1.0" stroke="#c9b9b8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 750.542114,882.653687 C 550.263123,893.633911 233.374390,609.685974 222.394104,409.407043"
+              class="kommunal 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -390.030121,1015.221069 C -388.708099,771.573364 -21.253555,408.084961 222.394104,409.407043"
+              class="Kungälv 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 322.475067,-450.311737 C 474.402618,-258.351776 414.354065,257.479492 222.394104,409.407043"
+              class="Europa 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -196.170441,1000.285461 C -230.633209,798.396912 20.505508,443.869781 222.394104,409.407043"
+              class="Mart 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -180.460495,-133.305450 C 8.652931,-105.333870 250.365692,220.293610 222.394104,409.407043"
+              class="Jordbruksdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -535.790955,796.325134 C -461.537537,567.304504 -6.626518,335.153625 222.394104,409.407043"
+              class="NANCE 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.463745,-488.425385 C 559.616272,-269.445007 441.374512,269.254517 222.394104,409.407043"
+              class="Frankrike 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 61.064869,986.283203 C -22.044518,838.642090 74.753029,492.516449 222.394104,409.407043"
+              class="TRAVEL 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 646.317627,-190.876007 C 681.589539,13.965317 427.235413,374.135132 222.394104,409.407043"
+              class="Japan 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 677.652161,939.718262 C 480.538269,924.707642 207.383469,606.520935 222.394104,409.407043"
+              class="Helsingfors 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 553.745239,-227.094971 C 614.775391,-33.524345 415.964722,348.376862 222.394104,409.407043"
+              class="Ohlin 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 603.940735,889.219849 C 431.668854,869.566589 202.740875,581.678955 222.394104,409.407043"
+              class="Catarina 1979_69" stroke-opacity="1.0" stroke="#69b8a2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 40.511215,901.167603 C -21.464325,766.438904 87.665398,471.382568 222.394104,409.407043"
+              class="Page 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -343.958374,622.389038 C -273.284271,466.522156 66.527206,338.732941 222.394104,409.407043"
+              class="Cosmos 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.186279,-54.844532 C 533.478149,92.564224 369.802856,371.115143 222.394104,409.407043"
+              class="Wahlström 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -152.429596,1112.765991 C -218.136642,897.129517 6.757584,475.114136 222.394104,409.407043"
+              class="rustad 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 898.822021,372.780609 C 770.861694,515.391479 365.004974,537.367310 222.394104,409.407043"
+              class="Informationsteknologiutredningen 1979_69"
+              stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -772.119202,552.800537 C -601.895264,325.219177 -5.187260,239.183090 222.394104,409.407043"
+              class="Grand Metropolitan 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 421.516663,896.819214 C 284.209717,839.161316 164.736191,546.713989 222.394104,409.407043"
+              class="Håkan Unsgaard 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 673.341003,-358.117676 C 736.656555,-114.423355 466.088440,346.091492 222.394104,409.407043"
+              class="Philips 1979_69" stroke-opacity="1.0" stroke="#c9b9b8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 230.425995,1123.669922 C 85.967026,982.423706 81.147903,553.866028 222.394104,409.407043"
+              class="Håkan Olander, 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 522.084778,944.954285 C 355.037170,897.782959 175.222794,576.454590 222.394104,409.407043"
+              class="Pub Information Centre 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 990.584839,-186.223297 C 956.072754,86.540932 495.158325,443.919128 222.394104,409.407043"
+              class="Pressombudsmannen 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.757904,-343.819061 C 410.930359,-183.701080 382.512085,268.234589 222.394104,409.407043"
+              class="Televerket 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -315.023041,294.027710 C -184.463745,209.620148 137.986542,278.847748 222.394104,409.407043"
+              class="dr PG Holmlöv 1979_69" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 741.302002,476.990540 C 624.003723,567.255432 312.658997,526.705322 222.394104,409.407043"
+              class="Nokia Oy 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 779.319275,-201.969666 C 790.209534,31.690720 456.054504,398.516754 222.394104,409.407043"
+              class="Building 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -531.936401,40.400570 C -307.269012,-36.664246 145.329285,184.739639 222.394104,409.407043"
+              class="Utbildningsdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 92.638847,1068.267822 C -13.182259,910.544617 64.670898,515.228149 222.394104,409.407043"
+              class="IBA 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 954.958862,598.115540 C 770.704224,706.886780 331.165344,593.661682 222.394104,409.407043"
+              class="W. H. Smith 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.716251,1143.371704 C -72.941101,959.443237 38.465607,519.064392 222.394104,409.407043"
+              class="Leif A 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 736.524231,-418.298492 C 799.239380,-149.931366 490.761230,346.691956 222.394104,409.407043"
+              class="Weather Force IS 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -635.789551,636.136047 C -509.498627,419.153503 5.411587,283.116119 222.394104,409.407043"
+              class="Yttrandefrihetsutredningen 1979_69" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -380.826599,-82.526901 C -161.795639,-104.784256 200.136749,190.376114 222.394104,409.407043"
+              class="Storbritannien 1979_69" stroke-opacity="1.0"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 935.318420,-89.848976 C 892.584717,152.587097 464.830170,452.140717 222.394104,409.407043"
+              class="Anders Björck 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 420.173004,-101.860184 C 482.870667,39.949039 364.203339,346.709381 222.394104,409.407043"
+              class="Coral Leisure 1979_69" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1050.870117,-17.786240 C 970.613586,233.347626 473.527954,489.663574 222.394104,409.407043"
+              class="utbildningsdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 420.514771,1081.206055 C 246.530823,986.470398 127.658447,583.390991 222.394104,409.407043"
+              class="Fry/torg 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -185.711456,-21.575375 C -17.893860,-17.000000 226.969482,241.589462 222.394104,409.407043"
+              class="Stockholm 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -461.653778,127.491531 C -268.461090,47.065063 141.967636,216.214355 222.394104,409.407043"
+              class="Sveriges 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -629.471741,76.187798 C -392.454712,-27.541519 118.664787,172.390015 222.394104,409.407043"
+              class="Tyskland 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 854.750488,611.680176 C 687.824585,697.696777 308.410767,576.332947 222.394104,409.407043"
+              class="Information Centre 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1068.384766,288.862274 C 923.295593,482.169373 415.701172,554.496216 222.394104,409.407043"
+              class="Sven 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -658.859985,371.216827 C -474.971130,202.604034 53.781322,225.518188 222.394104,409.407043"
+              class="Björn Fjzestad 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -405.475189,428.058319 C -283.631592,298.754211 93.089996,287.563446 222.394104,409.407043"
+              class="Sveriges Radio-koncernen 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 892.797485,-176.127991 C 875.823792,75.059708 473.581787,426.380737 222.394104,409.407043"
+              class="Farm News 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 138.409103,-180.397858 C 273.167084,-79.233871 323.558105,274.649048 222.394104,409.407043"
+              class="riksdagen 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -485.198883,527.905029 C -367.379883,362.686829 57.175907,291.588013 222.394104,409.407043"
+              class="SR-koncernen 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 737.048279,578.804382 C 600.237976,647.855774 291.445496,546.217346 222.394104,409.407043"
+              class="BASF 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -277.046021,28.414293 C -100.959442,4.724815 198.704620,233.320465 222.394104,409.407043"
+              class="televerkets 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.273865,1055.152710 C -92.889404,879.469971 46.711365,492.022552 222.394104,409.407043"
+              class="sten- 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 360.707642,-310.454315 C 477.017212,-138.819336 394.029083,293.097473 222.394104,409.407043"
+              class="Radionämnden 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -62.236889,-193.709335 C 115.312584,-130.012253 286.091187,231.857559 222.394104,409.407043"
+              class="USA 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 490.290710,-162.270020 C 551.046814,5.644714 390.308838,348.650940 222.394104,409.407043"
+              class="Car 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -584.840820,530.219116 C -447.556244,344.609711 36.784698,272.122467 222.394104,409.407043"
+              class="Uppslagsverk 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -533.770691,909.880310 C -482.632385,658.552673 -28.933502,358.268738 222.394104,409.407043"
+              class="Kanada 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1061.873169,75.611427 C 960.736450,310.266357 457.049042,510.543732 222.394104,409.407043"
+              class="Eriksson 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -570.516907,159.504883 C -361.954254,50.903122 113.792343,200.844406 222.394104,409.407043"
+              class="Sverige 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -742.881531,635.815186 C -595.108032,397.478455 -15.942654,261.633545 222.394104,409.407043"
+              class="The Economist 1979_69" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -297.668274,741.981140 C -260.170593,571.453857 51.866814,371.909393 222.394104,409.407043"
+              class="Allen 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -377.648865,920.123840 C -359.783630,697.971863 0.242157,391.541809 222.394104,409.407043"
+              class="ERIK 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1005.240601,520.632385 C 826.426208,654.956665 356.718353,588.221436 222.394104,409.407043"
+              class="Olle 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.770020,734.580566 C -172.371887,587.113098 74.926575,392.008911 222.394104,409.407043"
+              class="Link House Communications 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 721.069763,-137.842209 C 730.784424,71.342789 431.579102,399.692322 222.394104,409.407043"
+              class="Anders 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 985.219971,121.842812 C 890.167603,331.920837 432.472137,504.459351 222.394104,409.407043"
+              class="Leif Andersson, 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 29.694098,-149.165115 C 179.948532,-75.990685 295.568542,259.152618 222.394104,409.407043"
+              class="Danmark 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 920.544250,680.494812 C 726.696655,765.907349 307.806580,603.254639 222.394104,409.407043"
+              class="klaras 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -312.260559,476.954651 C -218.839142,356.514191 101.953651,315.985626 222.394104,409.407043"
+              class="Sveriges Utbildningsradio 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1021.631165,-102.285210 C 964.122192,159.900650 484.579956,466.916016 222.394104,409.407043"
+              class="Sports Council 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 236.955948,939.618958 C 128.001190,836.488953 119.264091,518.361755 222.394104,409.407043"
+              class="ICA-kuriren 1979_69" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -40.481209,961.736450 C -98.372032,798.695496 59.353165,467.297852 222.394104,409.407043"
+              class="Jan Pennlöv, 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 522.347351,-486.923187 C 641.622742,-247.666519 461.650818,290.131653 222.394104,409.407043"
+              class="Västtyskland 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 117.832138,-354.155090 C 291.456970,-222.355057 354.194153,235.782211 222.394104,409.407043"
+              class="Bostadsdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -106.705620,1030.346558 C -165.073578,840.338684 32.386253,467.775024 222.394104,409.407043"
+              class="SK GL. GR 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -466.172668,963.638916 C -439.305695,715.079224 -26.165619,382.540070 222.394104,409.407043"
+              class="Erik Essén 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 829.212036,140.212051 C 761.687439,315.414642 397.596680,476.931641 222.394104,409.407043"
+              class="Göran Lannegren, 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 915.973022,275.548553 C 804.028931,441.036041 387.881592,521.351135 222.394104,409.407043"
+              class="Institute for Scientific 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 798.262390,678.967529 C 629.176636,740.229065 283.655640,578.492798 222.394104,409.407043"
+              class="Olle Eriksson 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -452.143433,764.415771 C -388.237671,558.506592 16.484863,345.501282 222.394104,409.407043"
+              class="Qantas 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 763.131042,-51.201736 C 747.105408,149.067413 422.663269,425.432678 222.394104,409.407043"
+              class="Car Hire 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -451.235413,860.637939 C -406.755707,635.665894 -2.577980,364.927307 222.394104,409.407043"
+              class="Business Travel 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 825.442261,-402.519501 C 867.217957,-119.524551 505.389038,367.631348 222.394104,409.407043"
+              class="dr Bure Holmbäck 1979_69" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -571.497681,353.030457 C -401.443970,205.527420 74.891052,239.353348 222.394104,409.407043"
+              class="Sanomat, Nokia Oy 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 696.792908,11.317024 C 681.531128,185.814789 396.891876,424.668793 222.394104,409.407043"
+              class="TV-satellit 1979_69" stroke-opacity="1.0" stroke="#e9849a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -748.021057,387.536316 C -549.563904,197.827438 32.685226,210.949875 222.394104,409.407043"
+              class="kommunikationsdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -314.553650,385.954559 C -202.473602,283.255493 119.695045,297.326996 222.394104,409.407043"
+              class="Thunberg 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 432.864044,-386.570313 C 549.965515,-185.280853 423.683594,292.305542 222.394104,409.407043"
+              class="Norden 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -313.263947,1051.103394 C -334.471588,815.632568 -13.076775,430.614716 222.394104,409.407043"
+              class="Uppslagsverkskommittén 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 968.551514,14.178538 C 898.365723,242.455734 450.671326,479.592834 222.394104,409.407043"
+              class="Kjell Nowak, A 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 848.569031,-259.230133 C 857.061523,-0.267700 481.356537,400.914581 222.394104,409.407043"
+              class="Sveriges Radios dotterbolag 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 742.727661,750.552429 C 570.431885,786.390076 258.231750,581.702820 222.394104,409.407043"
+              class="Upphovsrättsutredningen 1979_69" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 876.050598,-25.800768 C 832.360901,191.972092 440.166962,453.096771 222.394104,409.407043"
+              class="Envar 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.210701,925.087708 C -158.025879,752.630554 49.937012,443.222260 222.394104,409.407043"
+              class="MacDonald Ltd. 1979_69" stroke-opacity="1.0"
+              stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 709.312744,-262.248901 C 746.260254,-30.533966 454.109039,372.459564 222.394104,409.407043"
+              class="Data-TV 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 324.552399,1114.443359 C 163.113464,993.867737 101.818497,570.845947 222.394104,409.407043"
+              class="Pressens Opinionsnämnd 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 811.992554,816.126282 C 612.729004,852.702087 258.969940,608.670593 222.394104,409.407043"
+              class="brottsbalken 1979_69" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 822.755249,315.769257 C 721.410522,454.569061 361.193909,510.751709 222.394104,409.407043"
+              class="Konsumentverket 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -383.966766,700.428223 C -320.898804,520.951843 42.917694,346.339111 222.394104,409.407043"
+              class="Pets 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 754.743225,381.657959 C 653.823181,493.677582 334.413727,510.327057 222.394104,409.407043"
+              class="TF:s regler 1979_69" stroke-opacity="1.0" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -677.664185,556.418823 C -527.054871,347.004822 12.980091,258.797729 222.394104,409.407043"
+              class="Baric Computing Services 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -656.457581,781.997131 C -555.205261,531.708801 -27.894257,308.154724 222.394104,409.407043"
+              class="Lew 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -497.949249,687.595398 C -409.518219,487.889038 22.687756,320.976013 222.394104,409.407043"
+              class="Carl Olov SomArvid 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 731.749939,283.312500 C 655.097717,410.402557 349.484161,486.059296 222.394104,409.407043"
+              class="Börshusets 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 348.583160,1019.824219 C 201.261902,922.978577 125.548477,556.728271 222.394104,409.407043"
+              class="England 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -400.025635,328.086151 C -259.277496,219.866394 114.174332,268.658905 222.394104,409.407043"
+              class="Sveriges Radios Publik- 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 834.686340,434.281036 C 707.253113,551.764709 339.877747,536.840271 222.394104,409.407043"
+              class="Rican Viewdata Services 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 698.555237,653.238342 C 554.556763,699.704346 268.860077,553.405518 222.394104,409.407043"
+              class="Hobsons 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 655.399292,-72.719704 C 665.223572,110.306694 405.420502,399.582733 222.394104,409.407043"
+              class="Ingemar 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 171.946228,-276.092987 C 319.135803,-149.082550 349.404541,262.217468 222.394104,409.407043"
+              class="Justitiedepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -677.144104,466.264618 C -508.607971,274.985474 31.114952,240.870926 222.394104,409.407043"
+              class="Gustafson 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 647.008972,726.834839 C 498.600433,748.272278 243.831512,557.815552 222.394104,409.407043"
+              class="ABC Travel 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -484.037811,338.998016 C -328.669617,211.793457 95.189529,254.038849 222.394104,409.407043"
+              class="institute for Scientific 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -405.162872,21.687040 C -202.107452,-26.280373 174.426697,206.351624 222.394104,409.407043"
+              class="Sveriges Radio 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 959.676819,440.707306 C 805.960205,581.903809 363.590607,563.123657 222.394104,409.407043"
+              class="biblioteket 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 572.881165,-25.256485 C 589.716431,131.773636 379.424225,392.571747 222.394104,409.407043"
+              class="British Airways 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1043.278931,412.185120 C 878.546326,575.806519 386.015472,574.139648 222.394104,409.407043"
+              class="Tomas Ohlin. 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.554443,-48.417244 C -255.599884,-99.242104 171.569244,175.452484 222.394104,409.407043"
+              class="Radio-koncernen 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -779.836792,467.965363 C -591.102295,255.807526 10.236273,220.672546 222.394104,409.407043"
+              class="Radioutredningen 1979_69" stroke-opacity="1.0"
+              stroke="#e99d5a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -587.930542,713.930359 C -486.770264,490.960754 -0.575485,308.246765 222.394104,409.407043"
+              class="Enstor 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 600.708130,995.710327 C 407.784607,954.112427 180.796249,602.330566 222.394104,409.407043"
+              class="Industrial Exchange &amp; Mart 1979_69"
+              stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -601.995789,849.810547 C -525.198486,596.851868 -30.564575,332.609741 222.394104,409.407043"
+              class="Konsumentombudsmannen 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -229.185150,812.469116 C -219.481720,641.540833 51.465828,399.703613 222.394104,409.407043"
+              class="Hermods 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 436.576080,985.802490 C 278.460602,913.359863 149.951416,567.522583 222.394104,409.407043"
+              class="Sports News 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 728.763245,192.650116 C 670.840820,337.275330 367.019318,467.329498 222.394104,409.407043"
+              class="Comet 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 893.007996,-341.730347 C 909.112671,-57.380081 506.744385,393.302368 222.394104,409.407043"
+              class="English Tourist Board 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -701.275818,709.149902 C -576.490356,464.467346 -22.288464,284.621643 222.394104,409.407043"
+              class="Travel News 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -253.118484,662.456360 C -208.625824,516.743958 76.681725,364.914398 222.394104,409.407043"
+              class="Ivar 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 665.824646,128.220810 C 633.375793,273.144165 367.317444,441.855896 222.394104,409.407043"
+              class="Envar (myndighet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 145.386810,1137.548828 C 15.159912,976.518982 61.364288,539.633911 222.394104,409.407043"
+              class="Green Thumb 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 514.019165,1045.620605 C 328.451447,976.702881 153.476410,594.974792 222.394104,409.407043"
+              class="Sven Gustafson, 1979_69" stroke-opacity="1.0"
+              stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -303.488007,863.220276 C -289.074219,667.281250 26.455032,394.993256 222.394104,409.407043"
+              class="Closed User Group 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.278809,-86.698273 C -80.523148,-88.011795 221.080582,209.651382 222.394104,409.407043"
+              class="Finland 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 827.313782,-112.301216 C 810.671509,113.024376 447.719696,426.049347 222.394104,409.407043"
+              class="New York 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 814.156555,532.392944 C 671.206909,626.148254 316.149414,552.356689 222.394104,409.407043"
+              class="OECD 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 752.229004,87.195290 C 710.704346,257.604614 392.803436,450.931671 222.394104,409.407043"
+              class="Benn Brothers 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.268982,436.941895 C -352.443298,289.102295 74.554504,272.581360 222.394104,409.407043"
+              class="Örebros 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.051056,-229.121094 C 384.225281,-92.884071 358.631134,290.232819 222.394104,409.407043"
+              class="Kommunikationsdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 902.940369,76.712608 C 833.369995,279.360748 425.042236,478.977417 222.394104,409.407043"
+              class="Text-TV 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -130.934509,816.251770 C -141.637726,664.217102 70.359428,420.110291 222.394104,409.407043"
+              class="Gunnar 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 509.593933,852.275757 C 363.580231,821.141968 191.260345,555.420715 222.394104,409.407043"
+              class="London 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.360504,929.846313 C 205.479370,847.551758 140.099518,535.288147 222.394104,409.407043"
+              class="British Rail 1979_69" stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 820.842529,227.880524 C 737.458130,383.875488 378.389099,492.791443 222.394104,409.407043"
+              class="PAGE 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -543.218445,609.545776 C -430.123688,416.395508 29.243847,296.312256 222.394104,409.407043"
+              class="Industrial Exchange 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 211.865814,-423.680267 C 380.588928,-259.168457 386.905914,240.683929 222.394104,409.407043"
+              class="Arbetsmarknadsdepartementet 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 999.625122,227.691376 C 880.522095,419.480713 414.183441,528.510132 222.394104,409.407043"
+              class="Långedrag 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 814.003967,36.068993 C 770.349609,229.058594 415.383728,453.061432 222.394104,409.407043"
+              class="Cars 1979_69" stroke-opacity="1.0" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 613.412842,50.145214 C 607.061462,200.201340 372.450195,415.758423 222.394104,409.407043"
+              class="Paris 1979_69" stroke-opacity="1.0" stroke="#a3b958"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 140.570786,932.092834 C 52.398300,811.190979 101.492279,497.579559 222.394104,409.407043"
+              class="Business Services 1979_69" stroke-opacity="1.0"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -285.617462,957.756042 C -293.684937,746.483948 11.121979,417.474518 222.394104,409.407043"
+              class="Ivar Ivre 1979_69" stroke-opacity="1.0" stroke="#8f7c77"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="-329.60126"
+                class="1989_73" cy="-604.9524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-27.057617"
+                class="ARD" cy="-1054.6962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-634.34454"
+                class="Ann-Christin" cy="-1046.4886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="211.86581"
+                class="Arbetsmarknadsdepartementet" cy="-423.68027"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-209.7071"
+                class="Astra" cy="-1104.7051" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-760.5073"
+                class="Basorganisationen" cy="-832.3748" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="3.5884154"
+                class="Bengt" cy="-926.2158" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-1063.3024"
+                class="Bergman" cy="-176.53848" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="481.20364"
+                class="Bertil" cy="-946.8656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-782.5564"
+                class="Betal-TV" cy="-653.4788" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-538.7959"
+                class="Betel-TV" cy="-1093.5338" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="117.83214"
+                class="Bostadsdepartementet" cy="-354.1551" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-972.16785"
+                class="Civildepartementet" cy="-305.6167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-445.5115"
+                class="DBS-satelliter" cy="-1131.8285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-720.1881"
+                class="Dagbladet" cy="-214.45724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="29.694098"
+                class="Danmark" cy="-149.16512" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="337.20123"
+                class="Danmarks" cy="-1057.8494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="322.47507"
+                class="Europa" cy="-450.31174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="335.91327"
+                class="Europarådet" cy="-945.0362" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-754.4981"
+                class="Europas" cy="-747.52704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="577.25885"
+                class="Expressen" cy="-775.72034" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-779.00616"
+                class="Fi." cy="-542.8937" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="384.92496"
+                class="Filminstitutet" cy="-773.93304" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-631.19055"
+                class="Finansdepartementet" cy="-951.574" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-280.2788"
+                class="Finland" cy="-86.69827" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="419.46375"
+                class="Frankrike" cy="-488.42538" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-977.17053"
+                class="Förbundsrepubliken" cy="-666.33875" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="51.50511"
+                class="Grekland" cy="-1008.36957" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-166.3272"
+                class="Gun" cy="-1187.5193" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-982.8571"
+                class="Gustavsson" cy="-215.84991" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-267.61975"
+                class="Gällivare" cy="-1174.7198" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="408.247"
+                class="Göransson" cy="-999.14655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-1050.2308"
+                class="Göteborg" cy="-471.99838" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-720.87286"
+                class="Göteborg -" cy="-981.6817" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="196.11092"
+                class="Göteborgs" cy="-929.2743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-454.26797"
+                class="Intelsat" cy="-1039.719" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-677.79425"
+                class="Italien" cy="-293.35083" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-842.4426"
+                class="Jack" cy="-748.9535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-180.4605"
+                class="Jordbruksdepartementet" cy="-133.30545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="171.94623"
+                class="Justitiedepartementet" cy="-276.093" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="59.988987"
+                class="Kabelnämnden" cy="-856.7033" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-902.8422"
+                class="Kanslirådet" cy="-383.25284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="175.10902"
+                class="Kinnevik" cy="-1131.9703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-1068.4376"
+                class="Kiruna" cy="-272.2633" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="265.05106"
+                class="Kommunikationsdepartementet" cy="-229.1211"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-726.738"
+                class="Kustbevakningens" cy="-366.68256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-159.10461"
+                class="Kvällsposten" cy="-1024.4048" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="141.85399"
+                class="Lars" cy="-691.311" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-790.4842"
+                class="Lindex" cy="-284.71646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-859.61505"
+                class="Monica" cy="42.008877" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="102.64739"
+                class="Nacka" cy="-769.8337" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-275.45853"
+                class="Nederländerna" cy="-1053.586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="432.86404"
+                class="Norden" cy="-386.5703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="43.109623"
+                class="Norge" cy="-258.6028" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-934.6072"
+                class="Nämnden mot emisk" cy="-569.06384" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-688.89984"
+                class="Nämnden mot etnisk" cy="-881.2753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-805.7316"
+                class="Olof Palme." cy="-189.72531" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="263.657"
+                class="Olof Palme. C." cy="-991.6634" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="255.23637"
+                class="PV-konventionen" cy="-1094.8956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="109.819084"
+                class="PV-stationer" cy="-944.6901" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-766.9343"
+                class="Pajala" cy="-449.37064" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-616.4729"
+                class="RAI" cy="-217.89047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-489.55444"
+                class="Radio-koncernen" cy="-48.417244" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-860.0414"
+                class="Radiolagsutredningen" cy="-472.19418" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="360.70764"
+                class="Radionämnden" cy="-310.4543" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="234.25084"
+                class="Regeringskansliets" cy="-675.88257" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-353.89807"
+                class="Reklam-TV" cy="-1156.005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-954.4617"
+                class="Reklamstatistikprojektet" cy="-483.40533"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="156.79697"
+                class="Riksdagen" cy="-846.48737" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-882.0025"
+                class="Riksförbundet" cy="-662.56586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-792.7201"
+                class="SOU-förrådet" cy="-914.1869" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-549.22955"
+                class="SR-studien" cy="-1001.5503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-943.72656"
+                class="STOCKHOLM" cy="71.1825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-72.6977"
+                class="Schweiz" cy="-979.64166" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-965.4896"
+                class="Sky Channel" cy="-112.26569" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-692.6725"
+                class="Socialdepartementet" cy="170.10577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-884.8949"
+                class="Spanien" cy="-269.01892" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-185.71146"
+                class="Stockholm" cy="-21.575375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-1067.8319"
+                class="Stockholms" cy="-366.0286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-380.8266"
+                class="Storbritannien" cy="-82.5269" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-854.2069"
+                class="Storstockholmsområdet" cy="-576.99457" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-570.5169"
+                class="Sverige" cy="159.50488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-856.55194"
+                class="Sverige." cy="-99.0738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-461.65378"
+                class="Sveriges" cy="127.49153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-405.16287"
+                class="Sveriges Radio" cy="21.68704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-83.409744"
+                class="Sveriges Radios" cy="-88.09502" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="353.09152"
+                class="Sverker" cy="-860.27" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="95.20697"
+                class="SÄPO" cy="-1083.9897" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-898.42883"
+                class="TV -företag" cy="-178.3099" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-990.2123"
+                class="TV 2" cy="-396.5059" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="416.74814"
+                class="TV 3" cy="-688.874" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-1023.9281"
+                class="TV-Sat" cy="-570.8342" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="261.5152"
+                class="TV-konventionen" cy="-863.18585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="209.65121"
+                class="TV-reklameffektutredningen" cy="-771.96625"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-930.1929"
+                class="TV-reklamutredningen" cy="-756.5591" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-821.5677"
+                class="TV-satelliter" cy="-366.949" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="439.71875"
+                class="TV-satelliterna" cy="-873.2009" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="77.40476"
+                class="TV-stationer" cy="-1172.7975" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-755.53644"
+                class="TV-utredningen" cy="-99.93962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="269.7579"
+                class="Televerket" cy="-343.81906" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="0.7239255"
+                class="The European" cy="-1139.6566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-1011.09436"
+                class="Tomas" cy="4.0159125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="325.1937"
+                class="Tor" cy="-670.91486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-629.47174"
+                class="Tyskland" cy="76.1878" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-62.23689"
+                class="USA" cy="-193.70934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-531.9364"
+                class="Utbildningsdepartementet" cy="40.40057" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-800.9018"
+                class="Utrikesdepartementet" cy="-23.985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="537.90106"
+                class="Vännäs" cy="-861.5271" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="522.34735"
+                class="Västtyskland" cy="-486.9232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-923.0746"
+                class="YLE," cy="-28.856434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-68.49737"
+                class="energidepartementet" cy="-1189.0018" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-675.91376"
+                class="ing-" cy="-135.88487" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-1048.5212"
+                class="marknadsdomstolen" cy="-83.3388" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="176.25455"
+                class="marknadsdomstolens" cy="-578.08093" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="518.2729"
+                class="master" cy="-700.6839" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-362.9346"
+                class="regeringskansliet" cy="-1065.1946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="138.4091"
+                class="riksdagen" cy="-180.39786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="478.5224"
+                class="socialstyrelsens" cy="-781.43054" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="297.7191"
+                class="sporre" cy="-764.14764" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-345.18146"
+                class="televerket" cy="104.62635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-277.04602"
+                class="televerkets" cy="28.414293" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-108.64799"
+                class="tenner" cy="-1100.6952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-862.81635"
+                class="tionella" cy="-841.8059" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="175.26662"
+                class="Österrike" cy="-1027.7974" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="222.3941"
+                class="1979_69" cy="409.40704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="647.009"
+                class="ABC Travel" cy="726.83484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-281.9165"
+                class="Agne Henry" cy="565.48706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-438.10284"
+                class="Air Travel" cy="613.47565" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-297.66827"
+                class="Allen" cy="741.98114" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="721.06976"
+                class="Anders" cy="-137.84221" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="935.3184"
+                class="Anders Björck" cy="-89.848976" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="1072.5162"
+                class="Arbetsmarknadsstyrelsen" cy="174.55519" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-51.218586"
+                class="Audio Visual Systems" cy="862.81647" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="737.0483"
+                class="BASF" cy="578.8044" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="577.4518"
+                class="Bank Services" cy="-126.65153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-677.6642"
+                class="Baric Computing Services" cy="556.4188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="752.229"
+                class="Benn Brothers" cy="87.19529" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-658.86"
+                class="Björn Fjzestad" cy="371.21683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="572.88116"
+                class="British Airways" cy="-25.256485" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="331.3605"
+                class="British Rail" cy="929.8463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="779.3193"
+                class="Building" cy="-201.96967" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="140.57079"
+                class="Business Services" cy="932.09283" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-451.2354"
+                class="Business Travel" cy="860.63794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="731.74994"
+                class="Börshusets" cy="283.3125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="490.2907"
+                class="Car" cy="-162.27002" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="763.13104"
+                class="Car Hire" cy="-51.201736" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-497.94925"
+                class="Carl Olov SomArvid" cy="687.5954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="814.00397"
+                class="Cars" cy="36.068993" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="603.94073"
+                class="Catarina" cy="889.21985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-303.488"
+                class="Closed User Group" cy="863.2203" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="728.76324"
+                class="Comet" cy="192.65012" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="420.173"
+                class="Coral Leisure" cy="-101.86018" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-343.95837"
+                class="Cosmos" cy="622.38904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="709.31274"
+                class="Data-TV" cy="-262.2489" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-377.64886"
+                class="ERIK" cy="920.12384" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="348.58316"
+                class="England" cy="1019.8242" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="893.008"
+                class="English Tourist Board" cy="-341.73035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-587.93054"
+                class="Enstor" cy="713.93036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="876.0506"
+                class="Envar" cy="-25.800768" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="665.82465"
+                class="Envar (myndighet" cy="128.22081" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-466.17267"
+                class="Erik Essén" cy="963.6389" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="1061.8732"
+                class="Eriksson" cy="75.61143" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="892.7975"
+                class="Farm News" cy="-176.12799" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="776.8623"
+                class="Finna" cy="-321.30972" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="420.51477"
+                class="Fry/torg" cy="1081.206" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-772.1192"
+                class="Grand Metropolitan" cy="552.80054" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="145.38681"
+                class="Green Thumb" cy="1137.5488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-130.93451"
+                class="Gunnar" cy="816.2518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-677.1441"
+                class="Gustafson" cy="466.26462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="829.21204"
+                class="Göran Lannegren," cy="140.21205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-389.8919"
+                class="Handelsdepartementet" cy="528.6793" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="677.65216"
+                class="Helsingfors" cy="939.71826" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-229.18515"
+                class="Hermods" cy="812.4691" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="698.55524"
+                class="Hobsons" cy="653.23834" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="230.426"
+                class="Håkan Olander," cy="1123.6699" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="421.51666"
+                class="Håkan Unsgaard" cy="896.8192" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="92.63885"
+                class="IBA" cy="1068.2678" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="236.95595"
+                class="ICA-kuriren" cy="939.61896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-543.21844"
+                class="Industrial Exchange" cy="609.5458" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="600.7081"
+                class="Industrial Exchange &amp; Mart" cy="995.7103"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="854.7505"
+                class="Information Centre" cy="611.6802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="898.822"
+                class="Informationsteknologiutredningen" cy="372.7806"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="655.3993"
+                class="Ingemar" cy="-72.7197" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="915.973"
+                class="Institute for Scientific" cy="275.54855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-253.11848"
+                class="Ivar" cy="662.45636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-285.61746"
+                class="Ivar Ivre" cy="957.75604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-40.48121"
+                class="Jan Pennlöv," cy="961.73645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="646.3176"
+                class="Japan" cy="-190.876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="914.4606"
+                class="John Noble" cy="184.30856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-533.7707"
+                class="Kanada" cy="909.8803" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="968.5515"
+                class="Kjell Nowak, A" cy="14.178538" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-601.9958"
+                class="Konsumentombudsmannen" cy="849.81055" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="822.75525"
+                class="Konsumentverket" cy="315.76926" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-390.03012"
+                class="Kungälv" cy="1015.22107" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="36.71625"
+                class="Leif A" cy="1143.3717" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="985.22"
+                class="Leif Andersson," cy="121.84281" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-656.4576"
+                class="Lew" cy="781.99713" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-189.77002"
+                class="Link House Communications" cy="734.58057"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="509.59393"
+                class="London" cy="852.27576" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="999.6251"
+                class="Långedrag" cy="227.69138" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-124.2107"
+                class="MacDonald Ltd." cy="925.0877" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-196.17044"
+                class="Mart" cy="1000.28546" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="992.4847"
+                class="Michelin" cy="336.17847" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-535.79095"
+                class="NANCE" cy="796.32513" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="827.3138"
+                class="New York" cy="-112.301216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="741.302"
+                class="Nokia Oy" cy="476.99054" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="814.15656"
+                class="OECD" cy="532.39294" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="553.74524"
+                class="Ohlin" cy="-227.09497" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-578.93365"
+                class="Old" cy="444.43384" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1005.2406"
+                class="Olle" cy="520.6324" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="798.2624"
+                class="Olle Eriksson" cy="678.9675" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="587.48175"
+                class="Olsson" cy="796.70825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-234.06854"
+                class="Opinionsnämnd" cy="1080.7667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="820.8425"
+                class="PAGE" cy="227.88052" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-61.294796"
+                class="PHILIPS" cy="1131.2406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="40.511215"
+                class="Page" cy="901.1676" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="613.41284"
+                class="Paris" cy="50.145214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-383.96677"
+                class="Pets" cy="700.4282" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="673.341"
+                class="Philips" cy="-358.11768" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-207.26862"
+                class="Postverket" cy="901.42883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="172.36836"
+                class="Prentice Hall," cy="1025.2212" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="324.5524"
+                class="Pressens Opinionsnämnd" cy="1114.4434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="990.58484"
+                class="Pressombudsmannen" cy="-186.2233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-368.8687"
+                class="Pryltorg" cy="804.5134" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="522.0848"
+                class="Pub Information Centre" cy="944.9543" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-452.14343"
+                class="Qantas" cy="764.4158" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="902.0489"
+                class="RF:s regler" cy="511.66995" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-779.8368"
+                class="Radioutredningen" cy="467.96536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="834.68634"
+                class="Rican Viewdata Services" cy="434.28104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="260.35638"
+                class="Royal Institute of Chartered" cy="1030.8564"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-106.70562"
+                class="SK GL. GR" cy="1030.3466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-485.19888"
+                class="SR-koncernen" cy="527.905" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-571.4977"
+                class="Sanomat, Nokia Oy" cy="353.03046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="863.3569"
+                class="Sealink" cy="746.0372" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="1021.63116"
+                class="Sports Council" cy="-102.28521" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="436.57608"
+                class="Sports News" cy="985.8025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1068.3848"
+                class="Sven" cy="288.86227" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="514.01917"
+                class="Sven Gustafson," cy="1045.6206" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-405.4752"
+                class="Sveriges Radio-koncernen" cy="428.05832" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-400.02563"
+                class="Sveriges Radios Publik-" cy="328.08615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="848.56903"
+                class="Sveriges Radios dotterbolag" cy="-259.23013"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-312.26056"
+                class="Sveriges Utbildningsradio" cy="476.95465"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="615.1113"
+                class="TET" cy="-292.40787" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="754.7432"
+                class="TF:s regler" cy="381.65796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="61.06487"
+                class="TRAVEL" cy="986.2832" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="948.44464"
+                class="TV-rutan." cy="-266.62436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="696.7929"
+                class="TV-satellit" cy="11.317024" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="902.94037"
+                class="Text-TV" cy="76.71261" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-742.88153"
+                class="The Economist" cy="635.8152" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-314.55365"
+                class="Thunberg" cy="385.95456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1043.2789"
+                class="Tomas Ohlin." cy="412.18512" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="684.0657"
+                class="Travel" cy="822.9201" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-701.2758"
+                class="Travel News" cy="709.1499" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="742.72766"
+                class="Upphovsrättsutredningen" cy="750.5524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-584.8408"
+                class="Uppslagsverk" cy="530.2191" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-313.26395"
+                class="Uppslagsverkskommittén" cy="1051.1034" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="954.95886"
+                class="W. H. Smith" cy="598.11554" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="495.18628"
+                class="Wahlström" cy="-54.844532" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="736.52423"
+                class="Weather Force IS" cy="-418.2985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-635.78955"
+                class="Yttrandefrihetsutredningen" cy="636.13605"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="959.6768"
+                class="biblioteket" cy="440.7073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="811.99255"
+                class="brottsbalken" cy="816.1263" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="825.44226"
+                class="dr Bure Holmbäck" cy="-402.5195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-315.02304"
+                class="dr PG Holmlöv" cy="294.0277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-484.0378"
+                class="institute for Scientific" cy="338.99802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="920.54425"
+                class="klaras" cy="680.4948" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="750.5421"
+                class="kommunal" cy="882.6537" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-748.02106"
+                class="kommunikationsdepartementet" cy="387.53632"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-152.4296"
+                class="rustad" cy="1112.766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-10.273865"
+                class="sten-" cy="1055.1527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="1050.8701"
+                class="utbildningsdepartementet" cy="-17.78624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-489.26898"
+                class="Örebros" cy="436.9419" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-329.60126" y="-599.4475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1989_73">
+            1989_73
+        </text>
+        <text font-size="24" x="-27.057617" y="-1050.4012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ARD">
+            ARD
+        </text>
+        <text font-size="24" x="-634.34454" y="-1042.0472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Ann-Christin">
+            Ann-Christin
+        </text>
+        <text font-size="24" x="211.86581" y="-418.19296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Arbetsmarknadsdepartementet">
+            Arbetsmarknadsdepartementet
+        </text>
+        <text font-size="24" x="-209.7071" y="-1100.3398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Astra">
+            Astra
+        </text>
+        <text font-size="24" x="-760.5073" y="-826.8172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Basorganisationen">
+            Basorganisationen
+        </text>
+        <text font-size="24" x="3.5884154" y="-920.6582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Bengt">
+            Bengt
+        </text>
+        <text font-size="24" x="-1063.3024" y="-170.98087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Bergman">
+            Bergman
+        </text>
+        <text font-size="24" x="481.20364" y="-942.50037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Bertil">
+            Bertil
+        </text>
+        <text font-size="24" x="-782.5564" y="-649.1136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Betal-TV">
+            Betal-TV
+        </text>
+        <text font-size="24" x="-538.7959" y="-1089.1686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Betel-TV">
+            Betel-TV
+        </text>
+        <text font-size="24" x="117.83214" y="-348.6678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Bostadsdepartementet">
+            Bostadsdepartementet
+        </text>
+        <text font-size="24" x="-972.16785" y="-300.05615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Civildepartementet">
+            Civildepartementet
+        </text>
+        <text font-size="24" x="-445.5115" y="-1127.3871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DBS-satelliter">
+            DBS-satelliter
+        </text>
+        <text font-size="24" x="-720.1881" y="-208.89963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Dagbladet">
+            Dagbladet
+        </text>
+        <text font-size="24" x="29.694098" y="-144.79988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Danmark">
+            Danmark
+        </text>
+        <text font-size="24" x="337.20123" y="-1053.4841" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Danmarks">
+            Danmarks
+        </text>
+        <text font-size="24" x="322.47507" y="-444.82443" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Europa">
+            Europa
+        </text>
+        <text font-size="24" x="335.91327" y="-939.3995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Europarådet">
+            Europarådet
+        </text>
+        <text font-size="24" x="-754.4981" y="-742.03973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Europas">
+            Europas
+        </text>
+        <text font-size="24" x="577.25885" y="-770.23303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Expressen">
+            Expressen
+        </text>
+        <text font-size="24" x="-779.00616" y="-538.59875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Fi.">
+            Fi.
+        </text>
+        <text font-size="24" x="384.92496" y="-769.5678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Filminstitutet">
+            Filminstitutet
+        </text>
+        <text font-size="24" x="-631.19055" y="-946.0867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Finansdepartementet">
+            Finansdepartementet
+        </text>
+        <text font-size="24" x="-280.2788" y="-82.33304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Finland">
+            Finland
+        </text>
+        <text font-size="24" x="419.46375" y="-484.06015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Frankrike">
+            Frankrike
+        </text>
+        <text font-size="24" x="-977.17053" y="-660.8251" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Förbundsrepubliken">
+            Förbundsrepubliken
+        </text>
+        <text font-size="24" x="51.50511" y="-1003.92816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Grekland">
+            Grekland
+        </text>
+        <text font-size="24" x="-166.3272" y="-1183.0779" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Gun">
+            Gun
+        </text>
+        <text font-size="24" x="-982.8571" y="-211.40851" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Gustavsson">
+            Gustavsson
+        </text>
+        <text font-size="24" x="-267.61975" y="-1170.2784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Gällivare">
+            Gällivare
+        </text>
+        <text font-size="24" x="408.247" y="-994.70514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Göransson">
+            Göransson
+        </text>
+        <text font-size="24" x="-1050.2308" y="-466.36752" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Göteborg">
+            Göteborg
+        </text>
+        <text font-size="24" x="-720.87286" y="-976.05084" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Göteborg -">
+            Göteborg -
+        </text>
+        <text font-size="24" x="196.11092" y="-923.64343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Göteborgs">
+            Göteborgs
+        </text>
+        <text font-size="24" x="-454.26797" y="-1035.3538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Intelsat">
+            Intelsat
+        </text>
+        <text font-size="24" x="-677.79425" y="-288.9856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Italien">
+            Italien
+        </text>
+        <text font-size="24" x="-842.4426" y="-744.5853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Jack">
+            Jack
+        </text>
+        <text font-size="24" x="-180.4605" y="-127.818146" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Jordbruksdepartementet">
+            Jordbruksdepartementet
+        </text>
+        <text font-size="24" x="171.94623" y="-270.60568" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Justitiedepartementet">
+            Justitiedepartementet
+        </text>
+        <text font-size="24" x="59.988987" y="-852.3117" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kabelnämnden">
+            Kabelnämnden
+        </text>
+        <text font-size="24" x="-902.8422" y="-378.7382" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kanslirådet">
+            Kanslirådet
+        </text>
+        <text font-size="24" x="175.10902" y="-1127.6051" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kinnevik">
+            Kinnevik
+        </text>
+        <text font-size="24" x="-1068.4376" y="-267.89807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kiruna">
+            Kiruna
+        </text>
+        <text font-size="24" x="265.05106" y="-223.63379" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kommunikationsdepartementet">
+            Kommunikationsdepartementet
+        </text>
+        <text font-size="24" x="-726.738" y="-361.12494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kustbevakningens">
+            Kustbevakningens
+        </text>
+        <text font-size="24" x="-159.10461" y="-1018.8911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kvällsposten">
+            Kvällsposten
+        </text>
+        <text font-size="24" x="141.85399" y="-686.94574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Lars">
+            Lars
+        </text>
+        <text font-size="24" x="-790.4842" y="-280.35123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Lindex">
+            Lindex
+        </text>
+        <text font-size="24" x="-859.61505" y="46.37411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Monica">
+            Monica
+        </text>
+        <text font-size="24" x="102.64739" y="-765.46844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nacka">
+            Nacka
+        </text>
+        <text font-size="24" x="-275.45853" y="-1049.1945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nederländerna">
+            Nederländerna
+        </text>
+        <text font-size="24" x="432.86404" y="-382.20508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Norden">
+            Norden
+        </text>
+        <text font-size="24" x="43.109623" y="-253.0452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Norge">
+            Norge
+        </text>
+        <text font-size="24" x="-934.6072" y="-564.67224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nämnden mot emisk">
+            Nämnden mot emisk
+        </text>
+        <text font-size="24" x="-688.89984" y="-876.8837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nämnden mot etnisk">
+            Nämnden mot etnisk
+        </text>
+        <text font-size="24" x="-805.7316" y="-185.28098" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Olof Palme.">
+            Olof Palme.
+        </text>
+        <text font-size="24" x="263.657" y="-987.21906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Olof Palme. C.">
+            Olof Palme. C.
+        </text>
+        <text font-size="24" x="255.23637" y="-1090.5304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PV-konventionen">
+            PV-konventionen
+        </text>
+        <text font-size="24" x="109.819084" y="-940.3249" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PV-stationer">
+            PV-stationer
+        </text>
+        <text font-size="24" x="-766.9343" y="-443.81302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pajala">
+            Pajala
+        </text>
+        <text font-size="24" x="-616.4729" y="-213.59555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="RAI">
+            RAI
+        </text>
+        <text font-size="24" x="-489.55444" y="-44.05201" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Radio-koncernen">
+            Radio-koncernen
+        </text>
+        <text font-size="24" x="-860.0414" y="-466.63657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Radiolagsutredningen">
+            Radiolagsutredningen
+        </text>
+        <text font-size="24" x="360.70764" y="-306.0627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Radionämnden">
+            Radionämnden
+        </text>
+        <text font-size="24" x="234.25084" y="-670.32495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Regeringskansliets">
+            Regeringskansliets
+        </text>
+        <text font-size="24" x="-353.89807" y="-1151.6398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Reklam-TV">
+            Reklam-TV
+        </text>
+        <text font-size="24" x="-954.4617" y="-477.84772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Reklamstatistikprojektet">
+            Reklamstatistikprojektet
+        </text>
+        <text font-size="24" x="156.79697" y="-840.92975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Riksdagen">
+            Riksdagen
+        </text>
+        <text font-size="24" x="-882.0025" y="-658.1274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Riksförbundet">
+            Riksförbundet
+        </text>
+        <text font-size="24" x="-792.7201" y="-909.6693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SOU-förrådet">
+            SOU-förrådet
+        </text>
+        <text font-size="24" x="-549.22955" y="-997.1089" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SR-studien">
+            SR-studien
+        </text>
+        <text font-size="24" x="-943.72656" y="75.62684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="STOCKHOLM">
+            STOCKHOLM
+        </text>
+        <text font-size="24" x="-72.6977" y="-975.20026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Schweiz">
+            Schweiz
+        </text>
+        <text font-size="24" x="-965.4896" y="-106.634834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sky Channel">
+            Sky Channel
+        </text>
+        <text font-size="24" x="-692.6725" y="175.66632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Socialdepartementet">
+            Socialdepartementet
+        </text>
+        <text font-size="24" x="-884.8949" y="-263.45837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Spanien">
+            Spanien
+        </text>
+        <text font-size="24" x="-185.71146" y="-17.133968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Stockholm">
+            Stockholm
+        </text>
+        <text font-size="24" x="-1067.8319" y="-361.5872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Stockholms">
+            Stockholms
+        </text>
+        <text font-size="24" x="-380.8266" y="-78.085495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Storbritannien">
+            Storbritannien
+        </text>
+        <text font-size="24" x="-854.2069" y="-572.477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Storstockholmsområdet">
+            Storstockholmsområdet
+        </text>
+        <text font-size="24" x="-570.5169" y="165.13574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sverige">
+            Sverige
+        </text>
+        <text font-size="24" x="-856.55194" y="-93.44294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sverige.">
+            Sverige.
+        </text>
+        <text font-size="24" x="-461.65378" y="133.12239" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sveriges">
+            Sveriges
+        </text>
+        <text font-size="24" x="-405.16287" y="27.3179" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sveriges Radio">
+            Sveriges Radio
+        </text>
+        <text font-size="24" x="-83.409744" y="-82.46416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sveriges Radios">
+            Sveriges Radios
+        </text>
+        <text font-size="24" x="353.09152" y="-855.8286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sverker">
+            Sverker
+        </text>
+        <text font-size="24" x="95.20697" y="-1078.7573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SÄPO">
+            SÄPO
+        </text>
+        <text font-size="24" x="-898.42883" y="-172.67905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV -företag">
+            TV -företag
+        </text>
+        <text font-size="24" x="-990.2123" y="-392.1934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV 2">
+            TV 2
+        </text>
+        <text font-size="24" x="416.74814" y="-684.48535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV 3">
+            TV 3
+        </text>
+        <text font-size="24" x="-1023.9281" y="-566.3928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-Sat">
+            TV-Sat
+        </text>
+        <text font-size="24" x="261.5152" y="-858.8206" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-konventionen">
+            TV-konventionen
+        </text>
+        <text font-size="24" x="209.65121" y="-766.3354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-reklameffektutredningen">
+            TV-reklameffektutredningen
+        </text>
+        <text font-size="24" x="-930.1929" y="-751.00146" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-reklamutredningen">
+            TV-reklamutredningen
+        </text>
+        <text font-size="24" x="-821.5677" y="-362.58377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-satelliter">
+            TV-satelliter
+        </text>
+        <text font-size="24" x="439.71875" y="-868.8357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-satelliterna">
+            TV-satelliterna
+        </text>
+        <text font-size="24" x="77.40476" y="-1168.4323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-stationer">
+            TV-stationer
+        </text>
+        <text font-size="24" x="-755.53644" y="-94.382" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-utredningen">
+            TV-utredningen
+        </text>
+        <text font-size="24" x="269.7579" y="-339.45383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Televerket">
+            Televerket
+        </text>
+        <text font-size="24" x="0.7239255" y="-1134.1693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="The European">
+            The European
+        </text>
+        <text font-size="24" x="-1011.09436" y="8.381147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Tomas">
+            Tomas
+        </text>
+        <text font-size="24" x="325.1937" y="-666.5496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Tor">
+            Tor
+        </text>
+        <text font-size="24" x="-629.47174" y="81.745415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Tyskland">
+            Tyskland
+        </text>
+        <text font-size="24" x="-62.23689" y="-189.26793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="USA">
+            USA
+        </text>
+        <text font-size="24" x="-531.9364" y="45.958187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Utbildningsdepartementet">
+            Utbildningsdepartementet
+        </text>
+        <text font-size="24" x="-800.9018" y="-18.497696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Utrikesdepartementet">
+            Utrikesdepartementet
+        </text>
+        <text font-size="24" x="537.90106" y="-857.1355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Vännäs">
+            Vännäs
+        </text>
+        <text font-size="24" x="522.34735" y="-481.3392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Västtyskland">
+            Västtyskland
+        </text>
+        <text font-size="24" x="-923.0746" y="-23.711903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="YLE,">
+            YLE,
+        </text>
+        <text font-size="24" x="-68.49737" y="-1183.4442" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="energidepartementet">
+            energidepartementet
+        </text>
+        <text font-size="24" x="-675.91376" y="-130.32726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ing-">
+            ing-
+        </text>
+        <text font-size="24" x="-1048.5212" y="-78.973564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="marknadsdomstolen">
+            marknadsdomstolen
+        </text>
+        <text font-size="24" x="176.25455" y="-573.7157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="marknadsdomstolens">
+            marknadsdomstolens
+        </text>
+        <text font-size="24" x="518.2729" y="-696.41534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="master">
+            master
+        </text>
+        <text font-size="24" x="-362.9346" y="-1059.637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="regeringskansliet">
+            regeringskansliet
+        </text>
+        <text font-size="24" x="138.4091" y="-174.84024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="riksdagen">
+            riksdagen
+        </text>
+        <text font-size="24" x="478.5224" y="-775.8729" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="socialstyrelsens">
+            socialstyrelsens
+        </text>
+        <text font-size="24" x="297.7191" y="-759.7736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sporre">
+            sporre
+        </text>
+        <text font-size="24" x="-345.18146" y="108.991585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="televerket">
+            televerket
+        </text>
+        <text font-size="24" x="-277.04602" y="32.779526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="televerkets">
+            televerkets
+        </text>
+        <text font-size="24" x="-108.64799" y="-1096.4266" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tenner">
+            tenner
+        </text>
+        <text font-size="24" x="-862.81635" y="-837.4407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tionella">
+            tionella
+        </text>
+        <text font-size="24" x="175.26662" y="-1022.56494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Österrike">
+            Österrike
+        </text>
+        <text font-size="24" x="222.3941" y="414.91193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="1979_69">
+            1979_69
+        </text>
+        <text font-size="24" x="647.009" y="731.27625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ABC Travel">
+            ABC Travel
+        </text>
+        <text font-size="24" x="-281.9165" y="571.0447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Agne Henry">
+            Agne Henry
+        </text>
+        <text font-size="24" x="-438.10284" y="617.8409" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Air Travel">
+            Air Travel
+        </text>
+        <text font-size="24" x="-297.66827" y="746.3464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Allen">
+            Allen
+        </text>
+        <text font-size="24" x="721.06976" y="-133.47697" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Anders">
+            Anders
+        </text>
+        <text font-size="24" x="935.3184" y="-84.26499" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Anders Björck">
+            Anders Björck
+        </text>
+        <text font-size="24" x="1072.5162" y="180.11281" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Arbetsmarknadsstyrelsen">
+            Arbetsmarknadsstyrelsen
+        </text>
+        <text font-size="24" x="-51.218586" y="868.4473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Audio Visual Systems">
+            Audio Visual Systems
+        </text>
+        <text font-size="24" x="737.0483" y="583.2458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="BASF">
+            BASF
+        </text>
+        <text font-size="24" x="577.4518" y="-122.21012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Bank Services">
+            Bank Services
+        </text>
+        <text font-size="24" x="-677.6642" y="562.0497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Baric Computing Services">
+            Baric Computing Services
+        </text>
+        <text font-size="24" x="752.229" y="91.560524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Benn Brothers">
+            Benn Brothers
+        </text>
+        <text font-size="24" x="-658.86" y="376.8008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Björn Fjzestad">
+            Björn Fjzestad
+        </text>
+        <text font-size="24" x="572.88116" y="-19.698868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="British Airways">
+            British Airways
+        </text>
+        <text font-size="24" x="331.3605" y="934.21155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="British Rail">
+            British Rail
+        </text>
+        <text font-size="24" x="779.3193" y="-196.41205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Building">
+            Building
+        </text>
+        <text font-size="24" x="140.57079" y="936.53424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Business Services">
+            Business Services
+        </text>
+        <text font-size="24" x="-451.2354" y="865.0032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Business Travel">
+            Business Travel
+        </text>
+        <text font-size="24" x="731.74994" y="287.7041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Börshusets">
+            Börshusets
+        </text>
+        <text font-size="24" x="490.2907" y="-157.82861" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Car">
+            Car
+        </text>
+        <text font-size="24" x="763.13104" y="-46.76033" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Car Hire">
+            Car Hire
+        </text>
+        <text font-size="24" x="-497.94925" y="692.03973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Carl Olov SomArvid">
+            Carl Olov SomArvid
+        </text>
+        <text font-size="24" x="814.00397" y="40.5104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Cars">
+            Cars
+        </text>
+        <text font-size="24" x="603.94073" y="893.66125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Catarina">
+            Catarina
+        </text>
+        <text font-size="24" x="-303.488" y="868.7808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Closed User Group">
+            Closed User Group
+        </text>
+        <text font-size="24" x="728.76324" y="197.09152" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Comet">
+            Comet
+        </text>
+        <text font-size="24" x="420.173" y="-97.41878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Coral Leisure">
+            Coral Leisure
+        </text>
+        <text font-size="24" x="-343.95837" y="626.83044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Cosmos">
+            Cosmos
+        </text>
+        <text font-size="24" x="709.31274" y="-257.88367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Data-TV">
+            Data-TV
+        </text>
+        <text font-size="24" x="-377.64886" y="924.41876" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ERIK">
+            ERIK
+        </text>
+        <text font-size="24" x="348.58316" y="1025.3818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="England">
+            England
+        </text>
+        <text font-size="24" x="893.008" y="-336.17273" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="English Tourist Board">
+            English Tourist Board
+        </text>
+        <text font-size="24" x="-587.93054" y="718.2956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Enstor">
+            Enstor
+        </text>
+        <text font-size="24" x="876.0506" y="-21.435534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Envar">
+            Envar
+        </text>
+        <text font-size="24" x="665.82465" y="133.85167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Envar (myndighet">
+            Envar (myndighet
+        </text>
+        <text font-size="24" x="-466.17267" y="968.0276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Erik Essén">
+            Erik Essén
+        </text>
+        <text font-size="24" x="1061.8732" y="79.97666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Eriksson">
+            Eriksson
+        </text>
+        <text font-size="24" x="892.7975" y="-171.76276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Farm News">
+            Farm News
+        </text>
+        <text font-size="24" x="776.8623" y="-316.9445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Finna">
+            Finna
+        </text>
+        <text font-size="24" x="420.51477" y="1086.8369" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Fry/torg">
+            Fry/torg
+        </text>
+        <text font-size="24" x="-772.1192" y="558.3611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Grand Metropolitan">
+            Grand Metropolitan
+        </text>
+        <text font-size="24" x="145.38681" y="1141.9902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Green Thumb">
+            Green Thumb
+        </text>
+        <text font-size="24" x="-130.93451" y="820.6932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Gunnar">
+            Gunnar
+        </text>
+        <text font-size="24" x="-677.1441" y="470.70602" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Gustafson">
+            Gustafson
+        </text>
+        <text font-size="24" x="829.21204" y="145.84291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Göran Lannegren,">
+            Göran Lannegren,
+        </text>
+        <text font-size="24" x="-389.8919" y="534.1666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Handelsdepartementet">
+            Handelsdepartementet
+        </text>
+        <text font-size="24" x="677.65216" y="945.3491" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Helsingfors">
+            Helsingfors
+        </text>
+        <text font-size="24" x="-229.18515" y="816.83435" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hermods">
+            Hermods
+        </text>
+        <text font-size="24" x="698.55524" y="657.6036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hobsons">
+            Hobsons
+        </text>
+        <text font-size="24" x="230.426" y="1128.9639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Håkan Olander,">
+            Håkan Olander,
+        </text>
+        <text font-size="24" x="421.51666" y="902.52625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Håkan Unsgaard">
+            Håkan Unsgaard
+        </text>
+        <text font-size="24" x="92.63885" y="1072.5627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="IBA">
+            IBA
+        </text>
+        <text font-size="24" x="236.95595" y="944.06036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ICA-kuriren">
+            ICA-kuriren
+        </text>
+        <text font-size="24" x="-543.21844" y="615.1034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Industrial Exchange">
+            Industrial Exchange
+        </text>
+        <text font-size="24" x="600.7081" y="1001.3412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Industrial Exchange &amp; Mart">
+            Industrial Exchange&amp; Mart
+        </text>
+        <text font-size="24" x="854.7505" y="616.1216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Information Centre">
+            Information Centre
+        </text>
+        <text font-size="24" x="898.822" y="378.41147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Informationsteknologiutredningen">
+            Informationsteknologiutredningen
+        </text>
+        <text font-size="24" x="655.3993" y="-67.16209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Ingemar">
+            Ingemar
+        </text>
+        <text font-size="24" x="915.973" y="279.98996" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Institute for Scientific">
+            Institute for Scientific
+        </text>
+        <text font-size="24" x="-253.11848" y="666.8216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Ivar">
+            Ivar
+        </text>
+        <text font-size="24" x="-285.61746" y="962.1213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Ivar Ivre">
+            Ivar Ivre
+        </text>
+        <text font-size="24" x="-40.48121" y="966.90735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Jan Pennlöv,">
+            Jan Pennlöv,
+        </text>
+        <text font-size="24" x="646.3176" y="-185.3887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Japan">
+            Japan
+        </text>
+        <text font-size="24" x="914.4606" y="188.67673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="John Noble">
+            John Noble
+        </text>
+        <text font-size="24" x="-533.7707" y="914.24554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kanada">
+            Kanada
+        </text>
+        <text font-size="24" x="968.5515" y="19.736156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kjell Nowak, A">
+            Kjell Nowak, A
+        </text>
+        <text font-size="24" x="-601.9958" y="854.1758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Konsumentombudsmannen">
+            Konsumentombudsmannen
+        </text>
+        <text font-size="24" x="822.75525" y="320.1345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Konsumentverket">
+            Konsumentverket
+        </text>
+        <text font-size="24" x="-390.03012" y="1020.80505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kungälv">
+            Kungälv
+        </text>
+        <text font-size="24" x="36.71625" y="1147.8102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Leif A">
+            Leif A
+        </text>
+        <text font-size="24" x="985.22" y="127.060585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Leif Andersson,">
+            Leif Andersson,
+        </text>
+        <text font-size="24" x="-656.4576" y="786.36237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Lew">
+            Lew
+        </text>
+        <text font-size="24" x="-189.77002" y="739.022" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Link House Communications">
+            Link House Communications
+        </text>
+        <text font-size="24" x="509.59393" y="856.641" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="London">
+            London
+        </text>
+        <text font-size="24" x="999.6251" y="233.3984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Långedrag">
+            Långedrag
+        </text>
+        <text font-size="24" x="-124.2107" y="929.45294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MacDonald Ltd.">
+            MacDonald Ltd.
+        </text>
+        <text font-size="24" x="-196.17044" y="1004.6507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Mart">
+            Mart
+        </text>
+        <text font-size="24" x="992.4847" y="340.5437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Michelin">
+            Michelin
+        </text>
+        <text font-size="24" x="-535.79095" y="800.76654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="NANCE">
+            NANCE
+        </text>
+        <text font-size="24" x="827.3138" y="-107.93598" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="New York">
+            New York
+        </text>
+        <text font-size="24" x="741.302" y="482.62433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nokia Oy">
+            Nokia Oy
+        </text>
+        <text font-size="24" x="814.15656" y="536.8373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="OECD">
+            OECD
+        </text>
+        <text font-size="24" x="553.74524" y="-222.65063" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Ohlin">
+            Ohlin
+        </text>
+        <text font-size="24" x="-578.93365" y="448.87817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Old">
+            Old
+        </text>
+        <text font-size="24" x="1005.2406" y="525.0767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Olle">
+            Olle
+        </text>
+        <text font-size="24" x="798.2624" y="683.41187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Olle Eriksson">
+            Olle Eriksson
+        </text>
+        <text font-size="24" x="587.48175" y="801.1526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Olsson">
+            Olsson
+        </text>
+        <text font-size="24" x="-234.06854" y="1086.3302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Opinionsnämnd">
+            Opinionsnämnd
+        </text>
+        <text font-size="24" x="820.8425" y="232.32193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PAGE">
+            PAGE
+        </text>
+        <text font-size="24" x="-61.294796" y="1135.682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PHILIPS">
+            PHILIPS
+        </text>
+        <text font-size="24" x="40.511215" y="906.7252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Page">
+            Page
+        </text>
+        <text font-size="24" x="613.41284" y="54.51045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Paris">
+            Paris
+        </text>
+        <text font-size="24" x="-383.96677" y="704.79346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pets">
+            Pets
+        </text>
+        <text font-size="24" x="673.341" y="-352.63037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Philips">
+            Philips
+        </text>
+        <text font-size="24" x="-207.26862" y="905.79407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Postverket">
+            Postverket
+        </text>
+        <text font-size="24" x="172.36836" y="1030.3657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Prentice Hall,">
+            Prentice Hall,
+        </text>
+        <text font-size="24" x="324.5524" y="1120.0068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pressens Opinionsnämnd">
+            Pressens Opinionsnämnd
+        </text>
+        <text font-size="24" x="990.58484" y="-181.85806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pressombudsmannen">
+            Pressombudsmannen
+        </text>
+        <text font-size="24" x="-368.8687" y="810.07104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pryltorg">
+            Pryltorg
+        </text>
+        <text font-size="24" x="522.0848" y="949.3957" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pub Information Centre">
+            Pub Information Centre
+        </text>
+        <text font-size="24" x="-452.14343" y="769.12085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Qantas">
+            Qantas
+        </text>
+        <text font-size="24" x="902.0489" y="517.22754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="RF:s regler">
+            RF:s regler
+        </text>
+        <text font-size="24" x="-779.8368" y="473.52298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Radioutredningen">
+            Radioutredningen
+        </text>
+        <text font-size="24" x="834.68634" y="438.72244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Rican Viewdata Services">
+            Rican Viewdata Services
+        </text>
+        <text font-size="24" x="260.35638" y="1036.4873" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Royal Institute of Chartered">
+            Royal Institute of Chartered
+        </text>
+        <text font-size="24" x="-106.70562" y="1034.788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SK GL. GR">
+            SK GL. GR
+        </text>
+        <text font-size="24" x="-485.19888" y="532.34644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SR-koncernen">
+            SR-koncernen
+        </text>
+        <text font-size="24" x="-571.4977" y="358.66425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sanomat, Nokia Oy">
+            Sanomat, Nokia Oy
+        </text>
+        <text font-size="24" x="863.3569" y="750.4786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sealink">
+            Sealink
+        </text>
+        <text font-size="24" x="1021.63116" y="-96.72466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sports Council">
+            Sports Council
+        </text>
+        <text font-size="24" x="436.57608" y="991.36304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sports News">
+            Sports News
+        </text>
+        <text font-size="24" x="1068.3848" y="293.30368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sven">
+            Sven
+        </text>
+        <text font-size="24" x="514.01917" y="1050.8384" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sven Gustafson,">
+            Sven Gustafson,
+        </text>
+        <text font-size="24" x="-405.4752" y="433.68918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sveriges Radio-koncernen">
+            Sveriges Radio-koncernen
+        </text>
+        <text font-size="24" x="-400.02563" y="333.717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sveriges Radios Publik-">
+            Sveriges Radios Publik-
+        </text>
+        <text font-size="24" x="848.56903" y="-253.59927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sveriges Radios dotterbolag">
+            Sveriges Radios dotterbolag
+        </text>
+        <text font-size="24" x="-312.26056" y="482.5855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sveriges Utbildningsradio">
+            Sveriges Utbildningsradio
+        </text>
+        <text font-size="24" x="615.1113" y="-288.11295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TET">
+            TET
+        </text>
+        <text font-size="24" x="754.7432" y="387.21558" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TF:s regler">
+            TF:s regler
+        </text>
+        <text font-size="24" x="61.06487" y="990.5781" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TRAVEL">
+            TRAVEL
+        </text>
+        <text font-size="24" x="948.44464" y="-262.25912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-rutan.">
+            TV-rutan.
+        </text>
+        <text font-size="24" x="696.7929" y="15.682259" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TV-satellit">
+            TV-satellit
+        </text>
+        <text font-size="24" x="902.94037" y="81.07784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Text-TV">
+            Text-TV
+        </text>
+        <text font-size="24" x="-742.88153" y="640.1804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="The Economist">
+            The Economist
+        </text>
+        <text font-size="24" x="-314.55365" y="391.51218" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Thunberg">
+            Thunberg
+        </text>
+        <text font-size="24" x="1043.2789" y="416.62946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Tomas Ohlin.">
+            Tomas Ohlin.
+        </text>
+        <text font-size="24" x="684.0657" y="827.28534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Travel">
+            Travel
+        </text>
+        <text font-size="24" x="-701.2758" y="713.51514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Travel News">
+            Travel News
+        </text>
+        <text font-size="24" x="742.72766" y="756.1364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Upphovsrättsutredningen">
+            Upphovsrättsutredningen
+        </text>
+        <text font-size="24" x="-584.8408" y="535.77673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Uppslagsverk">
+            Uppslagsverk
+        </text>
+        <text font-size="24" x="-313.26395" y="1056.6844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Uppslagsverkskommittén">
+            Uppslagsverkskommittén
+        </text>
+        <text font-size="24" x="954.95886" y="602.55695" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="W. H. Smith">
+            W. H. Smith
+        </text>
+        <text font-size="24" x="495.18628" y="-50.45293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Wahlström">
+            Wahlström
+        </text>
+        <text font-size="24" x="736.52423" y="-413.8571" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Weather Force IS">
+            Weather Force IS
+        </text>
+        <text font-size="24" x="-635.78955" y="641.7669" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Yttrandefrihetsutredningen">
+            Yttrandefrihetsutredningen
+        </text>
+        <text font-size="24" x="959.6768" y="445.07254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="biblioteket">
+            biblioteket
+        </text>
+        <text font-size="24" x="811.99255" y="820.4915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="brottsbalken">
+            brottsbalken
+        </text>
+        <text font-size="24" x="825.44226" y="-398.1279" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="dr Bure Holmbäck">
+            dr Bure Holmbäck
+        </text>
+        <text font-size="24" x="-315.02304" y="298.46912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="dr PG Holmlöv">
+            dr PG Holmlöv
+        </text>
+        <text font-size="24" x="-484.0378" y="343.43942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="institute for Scientific">
+            institute for Scientific
+        </text>
+        <text font-size="24" x="920.54425" y="684.86005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="klaras">
+            klaras
+        </text>
+        <text font-size="24" x="750.5421" y="887.0189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="kommunal">
+            kommunal
+        </text>
+        <text font-size="24" x="-748.02106" y="393.02362" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="kommunikationsdepartementet">
+            kommunikationsdepartementet
+        </text>
+        <text font-size="24" x="-152.4296" y="1117.1312" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rustad">
+            rustad
+        </text>
+        <text font-size="24" x="-10.273865" y="1059.4213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sten-">
+            sten-
+        </text>
+        <text font-size="24" x="1050.8701" y="-12.228622" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="utbildningsdepartementet">
+            utbildningsdepartementet
+        </text>
+        <text font-size="24" x="-489.26898" y="442.17432" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Örebros">
+            Örebros
+        </text>
+    </g>
+</svg>

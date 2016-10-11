@@ -1,0 +1,1073 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2016-10-11">
+    <creator>SOUTEST</creator>
+    <description>The whole is always smaller than its parts</description>
+  </meta>
+  <graph defaultedgetype="undirected" label="Directed network" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Type" type="string">
+        <default>default_value</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="1979_69" label="1979_69">
+        <attvalues>
+          <attvalue for="0" value="source"/>
+        </attvalues>
+      </node>
+      <node id="ABC Travel" label="ABC Travel">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Agne Henry" label="Agne Henry">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Air Travel" label="Air Travel">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Allen" label="Allen">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Anders" label="Anders">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Anders Björck" label="Anders Björck">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Arbetsmarknadsdepartementet" label="Arbetsmarknadsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Arbetsmarknadsstyrelsen" label="Arbetsmarknadsstyrelsen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Audio Visual Systems" label="Audio Visual Systems">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="BASF" label="BASF">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Bank Services" label="Bank Services">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Baric Computing Services" label="Baric Computing Services">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Benn Brothers" label="Benn Brothers">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Björn Fjzestad" label="Björn Fjzestad">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Bostadsdepartementet" label="Bostadsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="British Airways" label="British Airways">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="British Rail" label="British Rail">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Building" label="Building">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Business Services" label="Business Services">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Business Travel" label="Business Travel">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Börshusets" label="Börshusets">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Car" label="Car">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Car Hire" label="Car Hire">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Carl Olov SomArvid" label="Carl Olov SomArvid">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Cars" label="Cars">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Catarina" label="Catarina">
+        <attvalues>
+          <attvalue for="0" value="female"/>
+        </attvalues>
+      </node>
+      <node id="Closed User Group" label="Closed User Group">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Comet" label="Comet">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Coral Leisure" label="Coral Leisure">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Cosmos" label="Cosmos">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Danmark" label="Danmark">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Data-TV" label="Data-TV">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="ERIK" label="ERIK">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="England" label="England">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="English Tourist Board" label="English Tourist Board">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Enstor" label="Enstor">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Envar" label="Envar">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Envar (myndighet" label="Envar (myndighet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Erik Essén" label="Erik Essén">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Eriksson" label="Eriksson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Europa" label="Europa">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Farm News" label="Farm News">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Finland" label="Finland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Finna" label="Finna">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Frankrike" label="Frankrike">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Fry/torg" label="Fry/torg">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Grand Metropolitan" label="Grand Metropolitan">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Green Thumb" label="Green Thumb">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Gunnar" label="Gunnar">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Gustafson" label="Gustafson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Göran Lannegren," label="Göran Lannegren,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Handelsdepartementet" label="Handelsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Helsingfors" label="Helsingfors">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Hermods" label="Hermods">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Hobsons" label="Hobsons">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Håkan Olander," label="Håkan Olander,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Håkan Unsgaard" label="Håkan Unsgaard">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="IBA" label="IBA">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="ICA-kuriren" label="ICA-kuriren">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Industrial Exchange" label="Industrial Exchange">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Industrial Exchange &amp; Mart" label="Industrial Exchange &amp; Mart">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Information Centre" label="Information Centre">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Informationsteknologiutredningen" label="Informationsteknologiutredningen">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Ingemar" label="Ingemar">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Institute for Scientific" label="Institute for Scientific">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Ivar" label="Ivar">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Ivar Ivre" label="Ivar Ivre">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Jan Pennlöv," label="Jan Pennlöv,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Japan" label="Japan">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="John Noble" label="John Noble">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Jordbruksdepartementet" label="Jordbruksdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Justitiedepartementet" label="Justitiedepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Kanada" label="Kanada">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Kjell Nowak, A" label="Kjell Nowak, A">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Kommunikationsdepartementet" label="Kommunikationsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Konsumentombudsmannen" label="Konsumentombudsmannen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Konsumentverket" label="Konsumentverket">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Kungälv" label="Kungälv">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Leif A" label="Leif A">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Leif Andersson," label="Leif Andersson,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Lew" label="Lew">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Link House Communications" label="Link House Communications">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="London" label="London">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Långedrag" label="Långedrag">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="MacDonald Ltd." label="MacDonald Ltd.">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Mart" label="Mart">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Michelin" label="Michelin">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="NANCE" label="NANCE">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="New York" label="New York">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Nokia Oy" label="Nokia Oy">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Norden" label="Norden">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Norge" label="Norge">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="OECD" label="OECD">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Ohlin" label="Ohlin">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Old" label="Old">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Olle" label="Olle">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Olle Eriksson" label="Olle Eriksson">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Olsson" label="Olsson">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Opinionsnämnd" label="Opinionsnämnd">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="PAGE" label="PAGE">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="PHILIPS" label="PHILIPS">
+        <attvalues>
+          <attvalue for="0" value="ORG/PRS"/>
+        </attvalues>
+      </node>
+      <node id="Page" label="Page">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Paris" label="Paris">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Pets" label="Pets">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Philips" label="Philips">
+        <attvalues>
+          <attvalue for="0" value="ORG/PRS"/>
+        </attvalues>
+      </node>
+      <node id="Postverket" label="Postverket">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Prentice Hall," label="Prentice Hall,">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Pressens Opinionsnämnd" label="Pressens Opinionsnämnd">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Pressombudsmannen" label="Pressombudsmannen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Pryltorg" label="Pryltorg">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Pub Information Centre" label="Pub Information Centre">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Qantas" label="Qantas">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="RF:s regler" label="RF:s regler">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Radio-koncernen" label="Radio-koncernen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Radionämnden" label="Radionämnden">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Radioutredningen" label="Radioutredningen">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Rican Viewdata Services" label="Rican Viewdata Services">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Royal Institute of Chartered" label="Royal Institute of Chartered">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="SK GL. GR" label="SK GL. GR">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="SR-koncernen" label="SR-koncernen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sanomat, Nokia Oy" label="Sanomat, Nokia Oy">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sealink" label="Sealink">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Socialdepartementet" label="Socialdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sports Council" label="Sports Council">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sports News" label="Sports News">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Stockholm" label="Stockholm">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Storbritannien" label="Storbritannien">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sven" label="Sven">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Sven Gustafson," label="Sven Gustafson,">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Sverige" label="Sverige">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges" label="Sveriges">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges Radio" label="Sveriges Radio">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges Radio-koncernen" label="Sveriges Radio-koncernen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges Radios" label="Sveriges Radios">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges Radios Publik-" label="Sveriges Radios Publik-">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges Radios dotterbolag" label="Sveriges Radios dotterbolag">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Sveriges Utbildningsradio" label="Sveriges Utbildningsradio">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="TET" label="TET">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="TF:s regler" label="TF:s regler">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="TRAVEL" label="TRAVEL">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="TV-rutan." label="TV-rutan.">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="TV-satellit" label="TV-satellit">
+        <attvalues>
+          <attvalue for="0" value="OBJ"/>
+        </attvalues>
+      </node>
+      <node id="Televerket" label="Televerket">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Text-TV" label="Text-TV">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="The Economist" label="The Economist">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Thunberg" label="Thunberg">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Tomas Ohlin." label="Tomas Ohlin.">
+        <attvalues>
+          <attvalue for="0" value="male"/>
+        </attvalues>
+      </node>
+      <node id="Travel" label="Travel">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Travel News" label="Travel News">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Tyskland" label="Tyskland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="Upphovsrättsutredningen" label="Upphovsrättsutredningen">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="Uppslagsverk" label="Uppslagsverk">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Uppslagsverkskommittén" label="Uppslagsverkskommittén">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Utbildningsdepartementet" label="Utbildningsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Västtyskland" label="Västtyskland">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="W. H. Smith" label="W. H. Smith">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Wahlström" label="Wahlström">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="Weather Force IS" label="Weather Force IS">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Yttrandefrihetsutredningen" label="Yttrandefrihetsutredningen">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="biblioteket" label="biblioteket">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+      <node id="brottsbalken" label="brottsbalken">
+        <attvalues>
+          <attvalue for="0" value="WRK"/>
+        </attvalues>
+      </node>
+      <node id="dr Bure Holmbäck" label="dr Bure Holmbäck">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="dr PG Holmlöv" label="dr PG Holmlöv">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="institute for Scientific" label="institute for Scientific">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="klaras" label="klaras">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="kommunal" label="kommunal">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="kommunikationsdepartementet" label="kommunikationsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="riksdagen" label="riksdagen">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="rustad" label="rustad">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="sten-" label="sten-">
+        <attvalues>
+          <attvalue for="0" value="undetermined"/>
+        </attvalues>
+      </node>
+      <node id="televerket" label="televerket">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="televerkets" label="televerkets">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="utbildningsdepartementet" label="utbildningsdepartementet">
+        <attvalues>
+          <attvalue for="0" value="ORG"/>
+        </attvalues>
+      </node>
+      <node id="Örebros" label="Örebros">
+        <attvalues>
+          <attvalue for="0" value="LOC"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="" source="RF:s regler" target="1979_69"/>
+      <edge id="02c0f636b0224585a83af9ac8a4d0b6f" source="Audio Visual Systems" target="1979_69"/>
+      <edge id="03c0522ef28c41a9887b5df031121c4e" source="Socialdepartementet" target="1979_69"/>
+      <edge id="087b916b099d474ba9295d8fe7a46bec" source="televerket" target="1979_69"/>
+      <edge id="08ecdb77dcc64896a7236dd007b7afa4" source="Agne Henry" target="1979_69"/>
+      <edge id="09afc7ee29034db39da6c3edf0c8fffe" source="Olsson" target="1979_69"/>
+      <edge id="0b4c8fe9593448718722ec10997bcfc1" source="Air Travel" target="1979_69"/>
+      <edge id="107c2e3cf1f84fccb4a27449605d9c6d" source="Sveriges Radios" target="1979_69"/>
+      <edge id="127961b781a94749a2af4da28413c58e" source="Bank Services" target="1979_69"/>
+      <edge id="13a3edc1f18f41f796167895b49d9b34" source="Pryltorg" target="1979_69"/>
+      <edge id="144a091638d44e96a4adf431ccd9856c" source="Finna" target="1979_69"/>
+      <edge id="17b956b7274243289ed31ab780f2b420" source="Sealink" target="1979_69"/>
+      <edge id="18a71f0cd29848caa4201d6e9f448974" source="Opinionsnämnd" target="1979_69"/>
+      <edge id="1a2fe26dfe61436a9724b5239aa9510b" source="Postverket" target="1979_69"/>
+      <edge id="1a58914f8cb34f4596dcb4ed68166726" source="Norge" target="1979_69"/>
+      <edge id="1b57e417979943c095caa77665450562" source="Prentice Hall," target="1979_69"/>
+      <edge id="1c7f8cc9300d494ca97b9ebcf7a5f72a" source="Arbetsmarknadsstyrelsen" target="1979_69"/>
+      <edge id="1cea6d795f374b199b95b0b72bab143b" source="Old" target="1979_69"/>
+      <edge id="1f6fc361bf644563a78ceef2a0c8ef38" source="Travel" target="1979_69"/>
+      <edge id="22646c3a81064de5871f715e74b7a96b" source="TET" target="1979_69"/>
+      <edge id="229f623caf6145aa8d3069dd140e3343" source="Royal Institute of Chartered" target="1979_69"/>
+      <edge id="23d619fd17de4336b6113a6a1ec11804" source="Handelsdepartementet" target="1979_69"/>
+      <edge id="252b14a3cbb046a4984df0acdc12e648" source="Michelin" target="1979_69"/>
+      <edge id="2720d5ced79e4fc2bb9982f221fb35b0" source="TV-rutan." target="1979_69"/>
+      <edge id="2799c8ac4d6c4bdca128eeb1004f61bd" source="John Noble" target="1979_69"/>
+      <edge id="27bde3e5d0cc44e7832546aca92be522" source="PHILIPS" target="1979_69"/>
+      <edge id="280c010a48b149acb041896c84202b8d" source="kommunal" target="1979_69"/>
+      <edge id="28f478b27eef4bb9b95316bda852180b" source="Kungälv" target="1979_69"/>
+      <edge id="2965c4cf599c4db88981b27a621a25ab" source="Europa" target="1979_69"/>
+      <edge id="2faafc20c40d4cdc82861308f235019f" source="Mart" target="1979_69"/>
+      <edge id="309b1327031d4057a188902c6411bfa2" source="Jordbruksdepartementet" target="1979_69"/>
+      <edge id="30ef2f5612f34157940224425c7ec4b6" source="NANCE" target="1979_69"/>
+      <edge id="31aeb0d33cd04a5880cb07cfc904d9fc" source="Frankrike" target="1979_69"/>
+      <edge id="31d36b20716c40539b1b69f015b45a7b" source="TRAVEL" target="1979_69"/>
+      <edge id="328a26be8c504f9687a89b65863f5ad1" source="Japan" target="1979_69"/>
+      <edge id="32a0f9c19ed94e99a57b57a2917cf4a4" source="Helsingfors" target="1979_69"/>
+      <edge id="350e2334e7724fd0b73050401b9791ba" source="Ohlin" target="1979_69"/>
+      <edge id="35960e50716e49738a362ac399b089d8" source="Catarina" target="1979_69"/>
+      <edge id="3a09bd15c3a94b56bbadec1dfac3ffac" source="Page" target="1979_69"/>
+      <edge id="3cb94c3c43534f819642e7f2afff7416" source="Cosmos" target="1979_69"/>
+      <edge id="3f768dc66c6d4d1597984dd46d1a27cc" source="Wahlström" target="1979_69"/>
+      <edge id="3fdb75a6bb8646cfb74ae8722a1f5b95" source="rustad" target="1979_69"/>
+      <edge id="417d594cc2404d72ac1639b012bc06a5" source="Informationsteknologiutredningen" target="1979_69"/>
+      <edge id="41cf7f9a25a643fbb91b0f5c79b332a4" source="Grand Metropolitan" target="1979_69"/>
+      <edge id="42472046608249dab7ccaa4e39dd3e33" source="Håkan Unsgaard" target="1979_69"/>
+      <edge id="428f09330768441683e642c1184dcdfd" source="Philips" target="1979_69"/>
+      <edge id="43937913a9c349268bf1395b1a1172ec" source="Håkan Olander," target="1979_69"/>
+      <edge id="490db579ba5d4d7a9f41077c96701b0e" source="Pub Information Centre" target="1979_69"/>
+      <edge id="4cd867a3b0a94ad78d61a3cc875c8e11" source="Pressombudsmannen" target="1979_69"/>
+      <edge id="4dd6817afb7e43f8a809c5d59ddf438a" source="Televerket" target="1979_69"/>
+      <edge id="4fbfd7a5e6e742e8b7c87e652bc93cdb" source="dr PG Holmlöv" target="1979_69"/>
+      <edge id="5305fc033deb43899a16ee5c101c599d" source="Nokia Oy" target="1979_69"/>
+      <edge id="533a83c83ea0435fab867e7a01171082" source="Building" target="1979_69"/>
+      <edge id="5345fe8286da4e50a653aa3e4ab2f57a" source="Utbildningsdepartementet" target="1979_69"/>
+      <edge id="53746fd597194cb38a9e22a03aec168f" source="IBA" target="1979_69"/>
+      <edge id="538ae172fcfb46af96888018a53c0e45" source="W. H. Smith" target="1979_69"/>
+      <edge id="5464ed87c90e42b4a1b0c80a91e92fa2" source="Leif A" target="1979_69"/>
+      <edge id="54736070ef314b0d8566de1458ee6df8" source="Weather Force IS" target="1979_69"/>
+      <edge id="554d3ea7aae245a19a7bb0a020a05632" source="Yttrandefrihetsutredningen" target="1979_69"/>
+      <edge id="55e5230ea3ee462fa65f7e3e354757bf" source="Storbritannien" target="1979_69"/>
+      <edge id="58ceccbcb97c45c8a04f634af90b822d" source="Anders Björck" target="1979_69"/>
+      <edge id="5c8963eb06ec4846b38c9027868c12a0" source="Coral Leisure" target="1979_69"/>
+      <edge id="6088214f3a7548d38320ee8befc46950" source="utbildningsdepartementet" target="1979_69"/>
+      <edge id="61142c98a4fe4eb5841cb34c4dfcf08d" source="Fry/torg" target="1979_69"/>
+      <edge id="612a1905f3be4426b0bfe270fb2f5267" source="Stockholm" target="1979_69"/>
+      <edge id="628b6ae474ed4fcfb4bb875ef511136b" source="Sveriges" target="1979_69"/>
+      <edge id="642652d2757b4ad09f13f6efabaa0ca3" source="Tyskland" target="1979_69"/>
+      <edge id="65115d1ca18c45dfa1584326db7b7cc8" source="Information Centre" target="1979_69"/>
+      <edge id="65359926c6824de883d612b399af599f" source="Sven" target="1979_69"/>
+      <edge id="67a1da1097ca49a993f11ff2d0862010" source="Björn Fjzestad" target="1979_69"/>
+      <edge id="6b0d28f268784cdcb802156b9af60ec5" source="Sveriges Radio-koncernen" target="1979_69"/>
+      <edge id="6f02c72d23434b4caac408527f9b5d2c" source="Farm News" target="1979_69"/>
+      <edge id="6f80575acdee4201be33f39d94275e8c" source="riksdagen" target="1979_69"/>
+      <edge id="7135abc4cead48a292e017e988e56bae" source="SR-koncernen" target="1979_69"/>
+      <edge id="7292c9942a8943268335bf3171806fd6" source="BASF" target="1979_69"/>
+      <edge id="72b4a4b4895d4a009dd1a87de61f89c3" source="televerkets" target="1979_69"/>
+      <edge id="73f4e33ff6254be8bfe68ff896261f70" source="sten-" target="1979_69"/>
+      <edge id="742c7a39341e45ae97b76e6264ec2f28" source="Radionämnden" target="1979_69"/>
+      <edge id="74434434a135446fa79ef148cebc5887" source="USA" target="1979_69"/>
+      <edge id="7557ca8291294d04942425e7b4f8eead" source="Car" target="1979_69"/>
+      <edge id="762844f077104a249f12daba4a2cb57e" source="Uppslagsverk" target="1979_69"/>
+      <edge id="767eddc2e0174097b775da83033a69b7" source="Kanada" target="1979_69"/>
+      <edge id="775f607c513a4ce3a64a1cf08c6dfeb7" source="Eriksson" target="1979_69"/>
+      <edge id="786bb91fc24e44fe853ba1838deefd2f" source="Sverige" target="1979_69"/>
+      <edge id="78f5ede09a3c4a868c2882655cdad763" source="The Economist" target="1979_69"/>
+      <edge id="79556976c126498b9e44a75ee22f4bbc" source="Allen" target="1979_69"/>
+      <edge id="7ae1fca6604a48539a022bc48f437e08" source="ERIK" target="1979_69"/>
+      <edge id="7c4918b60f1c44c48f0bb19cd53dcf20" source="Olle" target="1979_69"/>
+      <edge id="7d3dd0e5adec4baf810666fdcfea60ba" source="Link House Communications" target="1979_69"/>
+      <edge id="7f37bc33b3ce4e7086005dc7673d00b8" source="Anders" target="1979_69"/>
+      <edge id="8011331cdd874f08b9b55c2f87543503" source="Leif Andersson," target="1979_69"/>
+      <edge id="829a78a648234817aa47a60267bebd8d" source="Danmark" target="1979_69"/>
+      <edge id="82f675c80bee49c48825834633d75cbd" source="klaras" target="1979_69"/>
+      <edge id="83063e947ae94e709dd33a7d57c01940" source="Sveriges Utbildningsradio" target="1979_69"/>
+      <edge id="840b0cd10fe94694b7699b51c9fda452" source="Sports Council" target="1979_69"/>
+      <edge id="8604abfd7e184114bf0481188cf408c3" source="ICA-kuriren" target="1979_69"/>
+      <edge id="87c22b33d6a14b24934ff66752a2b4e3" source="Jan Pennlöv," target="1979_69"/>
+      <edge id="88695ec26d68439f92b8b08fae646971" source="Västtyskland" target="1979_69"/>
+      <edge id="88f8c972bd89497d8b412df0d4a0742b" source="Bostadsdepartementet" target="1979_69"/>
+      <edge id="88f8ebc82b224aabb541caaeb783d951" source="SK GL. GR" target="1979_69"/>
+      <edge id="89d83a494c79432383bcfb9fd5995615" source="Erik Essén" target="1979_69"/>
+      <edge id="8b15f7b34671453093f32a9ff48828da" source="Göran Lannegren," target="1979_69"/>
+      <edge id="8c13922550af47e4a8dabea36d00db8c" source="Institute for Scientific" target="1979_69"/>
+      <edge id="8ee947d3d28241a6a2ff192b49eec165" source="Olle Eriksson" target="1979_69"/>
+      <edge id="9027bda6c61d4e1a8e013b55a6eeba5c" source="Qantas" target="1979_69"/>
+      <edge id="907543d22af747778327ac2effb9b814" source="Car Hire" target="1979_69"/>
+      <edge id="90b954d1dba84d7899b7aa46fe51cb2c" source="Business Travel" target="1979_69"/>
+      <edge id="91d1410f60784606a135586059968d75" source="dr Bure Holmbäck" target="1979_69"/>
+      <edge id="92d9f7d5259c433e8b8624cab6fcdcac" source="Sanomat, Nokia Oy" target="1979_69"/>
+      <edge id="93db409548e7493a9d8c421125e89689" source="TV-satellit" target="1979_69"/>
+      <edge id="97f9b16745374dbe94d34f576106234f" source="kommunikationsdepartementet" target="1979_69"/>
+      <edge id="98e035cd58cb426aadf04e2b7c3cd60c" source="Thunberg" target="1979_69"/>
+      <edge id="99247c2c06a548419efdcb0e70ddf7dd" source="Norden" target="1979_69"/>
+      <edge id="9c4c6206b998440aa16daa6325cbf66b" source="Uppslagsverkskommittén" target="1979_69"/>
+      <edge id="9ca8bad257ad492d8bb5cc7f79cc8433" source="Kjell Nowak, A" target="1979_69"/>
+      <edge id="a0a618f622ad4f819af2f580dc02bc7e" source="Sveriges Radios dotterbolag" target="1979_69"/>
+      <edge id="a6ad683336024b838c4a64e043714ad9" source="Upphovsrättsutredningen" target="1979_69"/>
+      <edge id="a7cd3a90ab374bcf892baf49493ac4fe" source="Envar" target="1979_69"/>
+      <edge id="a89016d34bbe45a7aa885271f1e08e2a" source="MacDonald Ltd." target="1979_69"/>
+      <edge id="a9072119925d4a01bcfcc438fb62a283" source="Data-TV" target="1979_69"/>
+      <edge id="aaf393a0daea47a4b97e95e9408193f9" source="Pressens Opinionsnämnd" target="1979_69"/>
+      <edge id="aba05916e9284c8e97ca5e2835b31140" source="brottsbalken" target="1979_69"/>
+      <edge id="ad23b0e4162147ad9d2ed267906a8f83" source="Konsumentverket" target="1979_69"/>
+      <edge id="ad870240cb354e1a99457f28b724ebc4" source="Pets" target="1979_69"/>
+      <edge id="ad93767e667a42198cd9b8f92112d1ab" source="TF:s regler" target="1979_69"/>
+      <edge id="ada88fef075d4164996d20e6e4f817ee" source="Baric Computing Services" target="1979_69"/>
+      <edge id="aefbf4e070fb4a8cba55aabe70d0ec28" source="Lew" target="1979_69"/>
+      <edge id="af8de5978c8f4a6f91c7bc587e7d4039" source="Carl Olov SomArvid" target="1979_69"/>
+      <edge id="b05705a30de442939b807c8593e79fae" source="Börshusets" target="1979_69"/>
+      <edge id="b2c753b2efdd45eb940e3e0379bc542c" source="England" target="1979_69"/>
+      <edge id="b50601983fa0421789b246a488ed40e0" source="Sveriges Radios Publik-" target="1979_69"/>
+      <edge id="b6826702cadd42858ad0b23f601a8f4b" source="Rican Viewdata Services" target="1979_69"/>
+      <edge id="b8beaa06caad4bb98254f31f2629e262" source="Hobsons" target="1979_69"/>
+      <edge id="ba9548b648dd4c269dd4c600744aa568" source="Ingemar" target="1979_69"/>
+      <edge id="bc89a4b58cff47a9a79fd9e6209c791c" source="Justitiedepartementet" target="1979_69"/>
+      <edge id="bd8120d7453448c696a633ba9ed57129" source="Gustafson" target="1979_69"/>
+      <edge id="be0d8bca48b64000851bbb5e3087cd8b" source="ABC Travel" target="1979_69"/>
+      <edge id="be98f1db6ea446b9be45b6684d1555cd" source="institute for Scientific" target="1979_69"/>
+      <edge id="c1ba84c041614121bb4a8008ffc1771f" source="Sveriges Radio" target="1979_69"/>
+      <edge id="c71880f337e34f9c99dbe4e8bf2361bb" source="biblioteket" target="1979_69"/>
+      <edge id="ca317215bc0740b58e9c339c5dc8c6ae" source="British Airways" target="1979_69"/>
+      <edge id="cadef8ef37df42a5863f7226478f02c4" source="Tomas Ohlin." target="1979_69"/>
+      <edge id="cbe05b4e621e4f1fb44b95c460df8897" source="Radio-koncernen" target="1979_69"/>
+      <edge id="cc0f49f46cc94e7c8767627cf19d64fa" source="Radioutredningen" target="1979_69"/>
+      <edge id="cf58b80a40a34c47854c7015281ed3e4" source="Enstor" target="1979_69"/>
+      <edge id="cfc8814804364918b97fe7cbf9ba86e9" source="Industrial Exchange &amp; Mart" target="1979_69"/>
+      <edge id="d00078ed8ee449fbab0f9812d9ec9fb5" source="Konsumentombudsmannen" target="1979_69"/>
+      <edge id="d0f1339606c546a181a45f6ce9ee56a6" source="Hermods" target="1979_69"/>
+      <edge id="d1e4534521f3476daad22e10bc377c85" source="Sports News" target="1979_69"/>
+      <edge id="d25a3bcdc13f49afbf5844c933f9eeeb" source="Comet" target="1979_69"/>
+      <edge id="d41afb8fdb644d8b98b914f958127dfe" source="English Tourist Board" target="1979_69"/>
+      <edge id="d461c04a7fbd4670ba752b27c9b5dc2f" source="Travel News" target="1979_69"/>
+      <edge id="dacac0302d0c4ae5bb2495dfdd406b5e" source="Ivar" target="1979_69"/>
+      <edge id="dbd9bb87aaf54a2f92b0b4ad3c7dbb2f" source="Envar (myndighet" target="1979_69"/>
+      <edge id="dc40c9c37516452291c444554f69626c" source="Green Thumb" target="1979_69"/>
+      <edge id="dd1ccb514255493c9fcd8e2c81f854a2" source="Sven Gustafson," target="1979_69"/>
+      <edge id="de0eead4bc7548849b9589ac8e6e0ebb" source="Closed User Group" target="1979_69"/>
+      <edge id="de6a6b0d40a548e3a0f1480ba65ef760" source="Finland" target="1979_69"/>
+      <edge id="e0563bc061e849b7a0cccc246fc4e4de" source="New York" target="1979_69"/>
+      <edge id="e091df95bf1442f99a85546086a72a2a" source="OECD" target="1979_69"/>
+      <edge id="e102c027a6584787a9ecd2333b3846f1" source="Benn Brothers" target="1979_69"/>
+      <edge id="e1b385c1ca1548bb8e2c3574e316b1f0" source="Örebros" target="1979_69"/>
+      <edge id="e6108867476b4953ab2a57ccecd6135d" source="Kommunikationsdepartementet" target="1979_69"/>
+      <edge id="e687f8b4488a40159300169413beed32" source="Text-TV" target="1979_69"/>
+      <edge id="e78a7f70cadf49648a2c5474b0632014" source="Gunnar" target="1979_69"/>
+      <edge id="e908f4bb498943c091c06ddd8762b43c" source="London" target="1979_69"/>
+      <edge id="eacdaece528d47bf94ec69031d350584" source="British Rail" target="1979_69"/>
+      <edge id="ec21a90e8a394decadafdff75a55c3e8" source="PAGE" target="1979_69"/>
+      <edge id="f4851806b82a411bb1dc01125b3a9a21" source="Industrial Exchange" target="1979_69"/>
+      <edge id="f91893771c01448e81b9fbca4a4ebe68" source="Arbetsmarknadsdepartementet" target="1979_69"/>
+      <edge id="fae4da30eaac43a7821aa0291391d9de" source="Långedrag" target="1979_69"/>
+      <edge id="fbfe3867204d4194993c1b1d39221bf3" source="Cars" target="1979_69"/>
+      <edge id="fc4a1d8f8a4d4ae9850eea0e3d808920" source="Paris" target="1979_69"/>
+      <edge id="fe3dc176577941f0b5c78fee981dda7b" source="Business Services" target="1979_69"/>
+      <edge id="ffd697fd7b5a4a0890f7da43acb247ff" source="Ivar Ivre" target="1979_69"/>
+    </edges>
+  </graph>
+</gexf>
